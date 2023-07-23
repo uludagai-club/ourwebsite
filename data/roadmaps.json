@@ -1,0 +1,204 @@
+{
+  "roadmaps": [
+    {
+      "roadmap" : [
+        {
+          "name" : "Genel Konular",
+          "topics" : [
+            {
+              "topic": "Algoritma Mantığı",
+              "subtopics": [
+                { "title": "", "sources" : [{"title": "", "link": ""}]},
+                { "title": "","sources" : [{"title": "", "link": ""},{"title": "", "link": ""},{"title": "", "link": ""}]}
+              ],
+              "sources" :
+              [
+                {"title" : "", "link" : ""},
+                {"title" : "", "link" : ""}
+              ]
+            },
+            {
+              "topic": "Programlama Mantığı",
+              "subtopics": [
+                { "title": "", "sources" : [{"title": "", "link": ""}]},
+                { "title": "","sources" : [{"title": "", "link": ""},{"title": "", "link": ""},{"title": "", "link": ""}]}
+              ],
+              "sources" :
+              [
+                {"title" : "", "link" : ""},
+                {"title" : "", "link" : ""}
+              ]
+            },
+            {
+              "topic": "Programlama Dili",
+              "subtopics": [
+                { "title": "Python", "sources" : [{"title": "1 Videoda Python - OOP", "link": "https://www.youtube.com/watch?v=XD2yLGZVUzI&list=PLXuv2PShkuHwGWVVBIffQYJGFLL-lGqsY&index=25"}]},
+                { "title": "Cpp","sources" : [{"title": "", "link": ""},{"title": "", "link": ""},{"title": "", "link": ""}]}
+              ],
+              "sources" :
+              [
+                {"title" : "", "link" : ""},
+                {"title" : "", "link" : ""}
+              ]
+            },            {
+              "topic": "Yazılım Geliştirme Araçları",
+              "subtopics": [
+                { "title": "Visual Studio Code", "sources" : [{"title": "", "link": ""}]},
+                { "title": "Jupyter Notebook","sources" : [{"title": "", "link": ""},{"title": "", "link": ""},{"title": "", "link": ""}]}
+              ],
+              "sources" :
+              [
+                {"title" : "", "link" : ""},
+                {"title" : "", "link" : ""}
+              ]
+            },
+            {
+              "topic": "Matematik",
+              "subtopics": [
+                { "title": "Cebir", "sources" : [{"title": "", "link": ""}]},
+                { "title": "Lineer Cebir","sources" : [{"title": "", "link": ""},{"title": "", "link": ""},{"title": "", "link": ""}]},
+                { "title": "İstatistik & Olasılık","sources" : [{"title": "", "link": ""},{"title": "", "link": ""},{"title": "", "link": ""}]}
+              ],
+              "sources" :
+              [
+                {"title" : "", "link" : ""},
+                {"title" : "", "link" : ""}
+              ]
+            },
+            {
+              "topic": "Python Kütüphaneleri",
+              "subtopics": [
+                { "title": "Time", "sources" : [{"title": "", "link": ""}]},
+                { "title": "Os","sources" : [{"title": "", "link": ""},{"title": "", "link": ""},{"title": "", "link": ""}]},
+                { "title": "Threading","sources" : [{"title": "", "link": ""},{"title": "", "link": ""},{"title": "", "link": ""}]},
+                { "title": "Numpy","sources" : [{"title": "", "link": ""},{"title": "", "link": ""},{"title": "", "link": ""}]},
+                { "title": "Pandas","sources" : [{"title": "", "link": ""},{"title": "", "link": ""},{"title": "", "link": ""}]},
+                { "title": "Matplotlib","sources" : [{"title": "", "link": ""},{"title": "", "link": ""},{"title": "", "link": ""}]},
+                { "title": "Seaborn","sources" : [{"title": "", "link": ""},{"title": "", "link": ""},{"title": "", "link": ""}]},
+                { "title": "OpenCV","sources" : [{"title": "", "link": ""},{"title": "", "link": ""},{"title": "", "link": ""}]},
+                { "title": "Keras","sources" : [{"title": "", "link": ""},{"title": "", "link": ""},{"title": "", "link": ""}]},
+                { "title": "Scikit-Learn","sources" : [{"title": "", "link": ""},{"title": "", "link": ""},{"title": "", "link": ""}]},
+                { "title": "Tensorflow","sources" : [{"title": "", "link": ""},{"title": "", "link": ""},{"title": "", "link": ""}]},
+                { "title": "Pytorch","sources" : [{"title": "", "link": ""},{"title": "", "link": ""},{"title": "", "link": ""}]}
+              ],
+              "sources" :
+              [
+                {"title" : "", "link" : ""},
+                {"title" : "", "link" : ""}
+              ]
+            },
+            {
+              "topic": "Git/Github",
+              "subtopics": [
+                { "title": "", "sources" : [{"title": "", "link": ""}]}
+              ],
+              "sources" :
+              [
+                {"title" : "", "link" : ""},
+                {"title" : "", "link" : ""}
+              ]
+            },
+            {
+              "topic": "Veri Yapıları",
+              "subtopics": [
+                { "title": "Linked List", "sources" : [{"title": "", "link": ""}]},
+                { "title": "Stack","sources" : [{"title": "", "link": ""},{"title": "", "link": ""},{"title": "", "link": ""}]},
+                { "title": "Queue","sources" : [{"title": "", "link": ""},{"title": "", "link": ""},{"title": "", "link": ""}]},
+                { "title": "Binary Tree","sources" : [{"title": "", "link": ""},{"title": "", "link": ""},{"title": "", "link": ""}]},
+                { "title": "Heap","sources" : [{"title": "", "link": ""},{"title": "", "link": ""},{"title": "", "link": ""}]},
+                { "title": "Hash","sources" : [{"title": "", "link": ""},{"title": "", "link": ""},{"title": "", "link": ""}]},
+                { "title": "Graph","sources" : [{"title": "", "link": ""},{"title": "", "link": ""},{"title": "", "link": ""}]},
+                { "title": "AVL Tree","sources" : [{"title": "", "link": ""},{"title": "", "link": ""},{"title": "", "link": ""}]},
+                { "title": "B/B+ Tree","sources" : [{"title": "", "link": ""},{"title": "", "link": ""},{"title": "", "link": ""}]}
+              ],
+              "sources" :
+              [
+                {"title" : "", "link" : ""},
+                {"title" : "", "link" : ""}
+              ]
+            },
+            {
+              "topic": "Arama ve Sıralama Algoritmaları",
+              "subtopics": [
+                { "title": "Linear Search", "sources" : [{"title": "", "link": ""}]},
+                { "title": "Binary Search", "sources" : [{"title": "", "link": ""}]},
+                { "title": "Ternary Search", "sources" : [{"title": "", "link": ""}]},
+                { "title": "Jump Search", "sources" : [{"title": "", "link": ""}]},
+                { "title": "Interpolation Search", "sources" : [{"title": "", "link": ""}]},
+                { "title": "Selection Sort", "sources" : [{"title": "", "link": ""}]},
+                { "title": "Bubble Sort", "sources" : [{"title": "", "link": ""}]},
+                { "title": "Insertion Sort", "sources" : [{"title": "", "link": ""}]},
+                { "title": "Merge Sort", "sources" : [{"title": "", "link": ""}]},
+                { "title": "Quick Sort", "sources" : [{"title": "", "link": ""}]},
+                { "title": "Heap Sort", "sources" : [{"title": "", "link": ""}]},
+                { "title": "Counting Sort", "sources" : [{"title": "", "link": ""}]},
+                { "title": "Radix Sort", "sources" : [{"title": "", "link": ""}]},
+                { "title": "Bucket Sort", "sources" : [{"title": "", "link": ""}]},
+                { "title": "BFS", "sources" : [{"title": "", "link": ""}]},
+                { "title": "DFS", "sources" : [{"title": "", "link": ""}]}
+              ],
+              "sources" :
+              [
+                {"title" : "", "link" : ""},
+                {"title" : "", "link" : ""}
+              ]
+            }
+
+          ]
+        }
+      ]
+    },
+    {
+      "roadmap" : [
+        {
+          "name" : "Makine Öğrenmesi",
+          "topics" : [
+            {
+              "topic": "Regresyon",
+              "subtopics": [
+                { "title": "Linear Regresyon", "sources" : [{"title": "", "link": ""}]},
+                { "title": "Ridge Regresyon","sources" : [{"title": "", "link": ""},{"title": "", "link": ""},{"title": "", "link": ""}]},
+                { "title": "Lasso Regresyon","sources" : [{"title": "", "link": ""},{"title": "", "link": ""},{"title": "", "link": ""}]},
+                { "title": "ElasticNet Regresyon","sources" : [{"title": "", "link": ""},{"title": "", "link": ""},{"title": "", "link": ""}]},
+                { "title": "K En Yakın Komşu","sources" : [{"title": "", "link": ""},{"title": "", "link": ""},{"title": "", "link": ""}]},
+                { "title": "Destek Vektör Regresyonu","sources" : [{"title": "", "link": ""},{"title": "", "link": ""},{"title": "", "link": ""}]},
+                { "title": "Yapay Sinir Ağları","sources" : [{"title": "", "link": ""},{"title": "", "link": ""},{"title": "", "link": ""}]},
+                { "title": "CART","sources" : [{"title": "", "link": ""},{"title": "", "link": ""},{"title": "", "link": ""}]},
+                { "title": "Random Forests","sources" : [{"title": "", "link": ""},{"title": "", "link": ""},{"title": "", "link": ""}]},
+                { "title": "GBM","sources" : [{"title": "", "link": ""},{"title": "", "link": ""},{"title": "", "link": ""}]},
+                { "title": "XGBoost","sources" : [{"title": "", "link": ""},{"title": "", "link": ""},{"title": "", "link": ""}]},
+                { "title": "Light GBM","sources" : [{"title": "", "link": ""},{"title": "", "link": ""},{"title": "", "link": ""}]},
+                { "title": "CatBoost","sources" : [{"title": "", "link": ""},{"title": "", "link": ""},{"title": "", "link": ""}]}
+              ],
+              "sources" :
+              [
+                {"title" : "", "link" : ""},
+                {"title" : "", "link" : ""}
+              ]
+            },
+            {
+              "topic": "Sınıflandırma",
+              "subtopics": [
+                { "title": "Lojistik Regresyon", "sources" : [{"title": "", "link": ""}]},
+                { "title": "Lojistik Regresyon", "sources" : [{"title": "", "link": ""}]},
+                { "title": "Lojistik Regresyon", "sources" : [{"title": "", "link": ""}]},
+                { "title": "Lojistik Regresyon", "sources" : [{"title": "", "link": ""}]},
+                { "title": "Lojistik Regresyon", "sources" : [{"title": "", "link": ""}]},
+                { "title": "Lojistik Regresyon", "sources" : [{"title": "", "link": ""}]},
+                { "title": "Lojistik Regresyon", "sources" : [{"title": "", "link": ""}]},
+                { "title": "Lojistik Regresyon", "sources" : [{"title": "", "link": ""}]},
+                { "title": "Lojistik Regresyon", "sources" : [{"title": "", "link": ""}]}
+              ],
+              "sources" :
+              [
+                {"title" : "", "link" : ""},
+                {"title" : "", "link" : ""}
+              ]
+            }
+
+          ]
+        }
+      ]
+    }
+  ]
+}

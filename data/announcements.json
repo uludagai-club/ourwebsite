@@ -1,0 +1,18 @@
+{
+    "announcements":[
+        {
+            "header":"Proje Geliştiricisi Yetiştirme Roadmap",
+            "description":"Yapay Zeka Topluluğu projelerinde yer almak isteyen arkadaşlara kendilerini geliştirmek için sunulan yol haritası.",
+            "link": "",
+            "imageURL":"",
+            "active" : true 
+        },
+        {
+            "header":"",
+            "description":"",
+            "link":"",
+            "imageURL":"",
+            "active" : false 
+        }
+    ]
+}
