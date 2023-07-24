@@ -3,35 +3,38 @@
         {
             "name":"YZT | TALOS",
             "team_lead":"Betül BAYRAM",
-            "members":["Betül Bayram","Muhammed Hüseyin Karazeybek","Servet Berkcan Arvas","Osman Can","Sefa Bayram","Muhammed Yusuf Yıldırım","Zeynep Uysal","Yusuf Konak","Burak Can Şahan","Fatma Nur Çetin","Abdullah Valisoy","Cansu Kocaoğlu"],
+            "members":["Betül Bayram","Muhammed Hüseyin Karazeybek","Abdullah Velisoy","Osman Can","Sefa Bayram","Muhammed Yusuf Yıldırım","Servet Berkcan Arvas","Zeynep Uysal","Yusuf Konak","Burak Can Şahan","Fatma Nur Çetin","Cansu Kocaoğlu"],
             "description":"Yapay Zeka Topluluğu altında Otonom Araç projesi geliştirmekte olan takımdır. Ulusal ve uluslararası birçok yarışmada yer almıştır ve almaya devam etmektedir.",
             "matchesPlayed":0,
             "competitions":["Teknofest Robotaksi-Binek Otonom Araç Yarışması"],
             "imageURL":"yztLogosingle.png",
             "awards":["2021 En İyi Takım Ruhu Ödülü","2022 En İyi Takım Ruhu Ödülü"],
-            "tags":[]
+            "tags":[],
+            "date": "2021-2023"
         },
         {
             "name":"YZT | AITOLIA",
             "team_lead":"Gülender Kuş",
-            "members":[" Osman Can","Fatma Nur Ayyıldız","Gülender Kuş","Ahmet Aktaş","Muhammed Hüseyin Karazeybek"],
+            "members":["Gülender Kuş","Osman Can","Fatma Nur Ayyıldız","Ahmet Aktaş","Muhammed Hüseyin Karazeybek"],
             "description":"",
             "matchesPlayed":0,
             "competitions":["Sağlıkta Yapay Zeka Yarışması Kategori 1"],
             "imageURL":"yztLogosingle.png",
             "awards":[""],
-            "tags":[]
+            "tags":[],
+            "date": "2021-2023"
         },
         {
             "name":"YZT | BIOTOLIA",
             "team_lead":"Gülender Kuş",
-            "members":["Betül Bayram","Gülender Kuş","Osman Can","Muhammed Hüseyin Karazeybek"],
+            "members":["Gülender Kuş","Betül Bayram","Osman Can","Muhammed Hüseyin Karazeybek"],
             "description":"",
             "matchesPlayed":0,
             "competitions":["Sağlıkta Yapay Zeka Yarılması Kategori 2"],
             "imageURL":"yztLogosingle.png",
             "awards":[""],
-            "tags":[]
+            "tags":[],
+            "date": "2021-2023"
         },
         {
             "name":"YZT | ARTIN",
@@ -42,7 +45,8 @@
             "competitions":["Teknofest Ulaşımda Yapay Zeka Yarışması"],
             "imageURL":"yztLogosingle.png",
             "awards":[""],
-            "tags":[]
+            "tags":[],
+            "date": "2021-2023"
         },
         {
             "name":"YZT | HERDAI",
@@ -53,7 +57,8 @@
             "competitions":["Teknofest Karma Sürü Robotlar Yarışmamsı"],
             "imageURL":"yztLogosingle.png",
             "awards":[""],
-            "tags":[]
+            "tags":[],
+            "date": "2021-2023"
         },
         {
             "name":"YZT | MEVZUU",
@@ -64,7 +69,8 @@
             "competitions":["Teknofest Doğal Dil İşleme Yarışmasaı"],
             "imageURL":"yztLogosingle.png",
             "awards":[""],
-            "tags":[]
+            "tags":[],
+            "date": "2021-2023"
         }
     ]
 }

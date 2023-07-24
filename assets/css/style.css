@@ -1201,7 +1201,7 @@ body .body-overlay {
     height: 100%;
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
+    /* justify-content: space-between; */
     transition: .3s;
 }
 .pricing-table-items .pricing-table:hover {
@@ -1238,9 +1238,9 @@ body .body-overlay {
     font-size: 24px;
     color: #999999;
 }
-.pricing-table-items .pricing-table ul {
+/* .pricing-table-items .pricing-table ul {
     margin-bottom: 80px;
-}
+} */
 .pricing-table-items .pricing-table ul li {
     font-size: 14px;
     color: #fff;
@@ -1248,6 +1248,11 @@ body .body-overlay {
     font-weight: 300;
     margin-bottom: 10px;
 }
+
+.pricing-table-items .pricing-table ul li:first-child {
+    color: var(--primary_color);
+}
+
 
 .pricing-table-items .pricing-table ul li:last-child {
     margin-bottom: 0;
