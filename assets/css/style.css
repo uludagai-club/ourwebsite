@@ -1006,7 +1006,7 @@ body .body-overlay {
     margin: auto auto 29px auto;
 }
 .skills .skill .skill-inner h1 {
-    font-size: 30px;
+    font-size: 20px;
     color: var(--primary_color);
     font-weight: 300;
     margin: 0;
@@ -1055,7 +1055,7 @@ body .body-overlay {
     bottom: 20px;
     left: 20px;
 }
-.portfolio-items .portfolio-item .portfolio-item-inner .portfolio-categories li a {
+.portfolio-items .portfolio-item .portfolio-item-inner .portfolio-categories li span {
     display: block;
     font-size: 14px;
     background: #fff;
@@ -1064,7 +1064,7 @@ body .body-overlay {
     border-radius: 19px;
     transition: .3s;
 }
-.portfolio-items .portfolio-item:hover .portfolio-item-inner .portfolio-categories li a {
+.portfolio-items .portfolio-item:hover .portfolio-item-inner .portfolio-categories li span {
     background: #1f1f1f;
     color: #fff;
 }
@@ -1165,6 +1165,7 @@ body .body-overlay {
 /* 16 - Client */
 .clients-logos {
     padding-top: 100px;
+    text-align: center;
 }
 .clients-logos h4 {
     color: #fff;

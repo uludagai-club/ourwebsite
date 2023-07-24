@@ -2,12 +2,12 @@
     "teams":[
         {
             "name":"YZT | TALOS",
-            "team_lead":"Betül captain",
+            "team_lead":"Betül BAYRAM",
             "members":["Betül Bayram","Muhammed Hüseyin Karazeybek","Servet Berkcan Arvas","Osman Can","Sefa Bayram","Muhammed Yusuf Yıldırım","Zeynep Uysal","Yusuf Konak","Burak Can Şahan","Fatma Nur Çetin","Abdullah Valisoy","Cansu Kocaoğlu"],
             "description":"Yapay Zeka Topluluğu altında Otonom Araç projesi geliştirmekte olan takımdır. Ulusal ve uluslararası birçok yarışmada yer almıştır ve almaya devam etmektedir.",
             "matchesPlayed":0,
             "competitions":["Teknofest Robotaksi-Binek Otonom Araç Yarışması"],
-            "imageURL":"",
+            "imageURL":"yztLogosingle.png",
             "awards":["2021 En İyi Takım Ruhu Ödülü","2022 En İyi Takım Ruhu Ödülü"],
             "tags":[]
         },
@@ -18,7 +18,7 @@
             "description":"",
             "matchesPlayed":0,
             "competitions":["Sağlıkta Yapay Zeka Yarışması Kategori 1"],
-            "imageURL":"",
+            "imageURL":"yztLogosingle.png",
             "awards":[""],
             "tags":[]
         },
@@ -29,7 +29,7 @@
             "description":"",
             "matchesPlayed":0,
             "competitions":["Sağlıkta Yapay Zeka Yarılması Kategori 2"],
-            "imageURL":"",
+            "imageURL":"yztLogosingle.png",
             "awards":[""],
             "tags":[]
         },
@@ -40,7 +40,7 @@
             "description":"",
             "matchesPlayed":0,
             "competitions":["Teknofest Ulaşımda Yapay Zeka Yarışması"],
-            "imageURL":"",
+            "imageURL":"yztLogosingle.png",
             "awards":[""],
             "tags":[]
         },
@@ -51,7 +51,7 @@
             "description":"",
             "matchesPlayed":0,
             "competitions":["Teknofest Karma Sürü Robotlar Yarışmamsı"],
-            "imageURL":"",
+            "imageURL":"yztLogosingle.png",
             "awards":[""],
             "tags":[]
         },
@@ -62,7 +62,7 @@
             "description":"",
             "matchesPlayed":0,
             "competitions":["Teknofest Doğal Dil İşleme Yarışmasaı"],
-            "imageURL":"",
+            "imageURL":"yztLogosingle.png",
             "awards":[""],
             "tags":[]
         }

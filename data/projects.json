@@ -8,8 +8,8 @@
             "website" : "",
             "category" : "",
             "formURL" : "",
-            "startsDate" : "",
-            "endDate" : "",
+            "startsDate" : "2021-06",
+            "endDate" : "2023-06",
             "registrationOpen" : false,
             "attendeesCount" : "12",
             "tags" : ["Görüntü işleme", "Makine öğrenmesi","Sensör Füzyon", "Mapping"]
@@ -23,8 +23,8 @@
             "website" : "",
             "category" : "",
             "formURL" : "",
-            "startsDate" : "",
-            "endDate" : "",
+            "startsDate" : "2022-10",
+            "endDate" : "2023-05",
             "registrationOpen" : false,
             "attendeesCount" : "4",
             "tags" : ["Makine öğrenmesi", ""]
