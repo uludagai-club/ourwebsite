@@ -5,14 +5,18 @@
             "description":"Yapay Zeka Topluluğu projelerinde yer almak isteyen arkadaşlara kendilerini geliştirmek için sunulan yol haritası.",
             "link": "",
             "imageURL":"",
-            "active" : true 
+            "active" : true,
+            "startDate" : "19.04.2020",
+            "endDate" : "13.12.2023"
         },
         {
-            "header":"",
-            "description":"",
+            "header":"Websitemiz Yayında",
+            "description":"yeyyyyyy",
             "link":"",
             "imageURL":"",
-            "active" : false 
+            "active" : false ,
+            "startDate" : "19.04.2020",
+            "endDate" : "13.12.2023"
         }
     ]
 }

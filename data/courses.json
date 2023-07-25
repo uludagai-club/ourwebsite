@@ -1,0 +1,22 @@
+{
+    "courses":[
+        {
+            "id":"0",
+            "name":"Git/Github Workshop",
+            "imageURL":"portfolio1.jpg",
+            "description":"Yapay Zeka Topluluğu olarak üyelerimizle tanışma etkinliği gerçekleştirdik. Tanışma etkinliğimizde gelecek projelerimizden ve etkinliklerimizden bahsettik.",
+            "startsDate":"Eylül 2022",
+            "endDate":"",
+            "location":"Görükle Gençlik Merkezi",
+            "category":"Tanışma Etkinliği",
+            "organizer":"Yapay Zeka Topluluğu",
+            "website":"",
+            "formURL":"",
+            "registrationOpen":false,
+            "attendeesCount":"50",
+            "tags":["tanışma",""],
+            "active" : false,
+            "type":"medium"
+        }
+    ]
+}

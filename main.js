@@ -1,4 +1,4 @@
-fetch("../data/projects.json")
+fetch("./data/projects.json")
   .then((response) => response.json())
   .then((json) => {
     document.querySelector("#project_count").innerHTML =
@@ -18,7 +18,7 @@ fetch("../data/projects.json")
     }
   });
 
-fetch("../data/teams.json")
+fetch("./data/teams.json")
   .then((response) => response.json())
   .then((json) => {
     let teamsDiv = document.querySelector(
@@ -66,7 +66,7 @@ fetch("../data/teams.json")
     }
   });
 
-fetch("../data/events.json")
+fetch("./data/events.json")
   .then((response) => response.json())
   .then((json) => {
     let eventsDiv = document.querySelector(
@@ -101,6 +101,62 @@ fetch("../data/events.json")
         </div>
         </div>
         `
+      );
+    }
+  });
+
+  fetch("./data/announcements.json")
+  .then((response) => response.json())
+  .then((json) => {
+    let announcementDiv = document.querySelector(
+      "#announcements > div > div > div.services-items"
+    );
+    for (let p of json.announcements) {
+      announcementDiv.insertAdjacentHTML(
+        "beforeend",
+        `<div class="service-item scroll-animation" data-animation="fade_from_bottom">
+        <span class="date">${p.startDate + " ~ " + p.endDate}</span>
+        <h2>${p.header}</h2>
+        <p>${p.description}</p>
+    </div>`
+      );
+    }
+  });
+
+  fetch("./data/courses.json")
+  .then((response) => response.json())
+  .then((json) => {
+    let announcementDiv = document.querySelector(
+      "#courses > div > div > div.services-items"
+    );
+    for (let p of json.courses) {
+      announcementDiv.insertAdjacentHTML(
+        "beforeend",
+        `<div class="service-item scroll-animation" data-animation="fade_from_bottom">
+        <span class="date">${p.startsDate + " ~ " + p.endDate}</span>
+        <span class="location">${p.location}</span>
+        <h2>${p.name}</h2>
+        <p>${p.description}</p>
+    </div>`
+      );
+    }
+  });
+
+  fetch("./data/roadmaps.json")
+  .then((response) => response.json())
+  .then((json) => {
+    let roadmapsDiv = document.querySelector(
+      "#roadmap > div > div > div.roadmap-treeview"
+    );
+    for (let p of json.roadmaps) {
+      roadmapsDiv.insertAdjacentHTML(
+        "beforeend",
+        `<div class="treeview__level" data-animation="fade_from_bottom">
+        <span class="title">${p.roadmap.name}</span>
+        <span class="location">${p.location}</span>
+        <h2>${p.name}</h2>
+        <p>${p.description}</p>
+    </div>`
       );
     }
   });
