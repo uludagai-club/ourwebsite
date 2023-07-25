@@ -1,87 +1,18 @@
-.ana_baslik{
-list-style: circle;
-list-style-position: inside;
-}
 
-.alt_baslik{
-    list-style: square;
-    list-style-position: outside;
-}
-
-body {
-    margin: 0;
-    font-family: Arial, sans-serif;
-}
-
-.container {
-    position: relative;
-    height: 100vh;
-    background-color: #f0f0f0;
-    padding: 20px;
-}
-
-#openSidebar {
+  .node circle {
     cursor: pointer;
-    color: #007bff;
-    text-decoration: underline;
-}
-
-.sidebar {
-    position: fixed;
-    top: 0;
-    left: -250px;
-    width: 250px;
-    height: 100%;
-    background-color: #333;
-    color: #fff;
-    padding: 20px;
-    transition: left 0.3s ease-in-out;
-}
-
-.sidebar a {
-    color: #fff;
-    text-decoration: none;
-    display: block;
-    margin-bottom: 10px;
-}
-
-#closeSidebar {
-    cursor: pointer;
-}
-
-.sidebar.open {
-    left: 0;
-}
-
-.fixed-bottom-right {
-    position: fixed;
-    bottom: 20px;
-    right: 5%;
-    /* Dilediğiniz ölçüleri buradan ayarlayabilirsiniz */
-    z-index: 9999;
-    /* İhtiyaca göre z-index değerini ayarlayabilirsiniz */
+    fill: #28e98c;
+    stroke: #28e98c;
+    stroke-width: 1.5px;
   }
-
-.go-to-project-btn {
-    width: 90px;
-    height: 90px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    margin-left: auto;
-    border-radius: 50%;
-    border: 1px solid #575757;
-    position: relative;
-    overflow: hidden;
-    margin-right: 15px;
-}
-.go-to-project-btn img {
-    display: block;
-    animation: rotating 6s infinite linear;
-}
-.go-to-project-btn i {
-    position: absolute;
-    color: #fff;
-    font-size: 30px;
-    display: block;
-}
+  
+  .node text {
+    font-size: 18px;
+    fill: #fff;
+  }
+  
+  path.link {
+    fill: none;
+    stroke: #28e98c;
+    stroke-width: 1px;
+  }

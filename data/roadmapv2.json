@@ -1,0 +1,1996 @@
+{
+    "name": "YZT",
+    "type": "folder",
+    "children": [
+        {
+            "name": "Makine Öğrenmesi",
+            "type": "folder",
+            "children": [
+                {
+                    "name": "Regresyon",
+                    "type": "folder",
+                    "children": [
+                        {
+                            "name": "Linear Regresyon",
+                            "type": "folder",
+                            "children": []
+                        },
+                        {
+                            "name": "Ridge Regresyon",
+                            "type": "folder",
+                            "children": []
+                        },
+                        {
+                            "name": "Lasso Regresyon",
+                            "type": "folder",
+                            "children": []
+                        },
+                        {
+                            "name": "ElasticNet Regresyon",
+                            "type": "folder",
+                            "children": []
+                        },
+                        {
+                            "name": "K En Yakın Komşu",
+                            "type": "folder",
+                            "children": []
+                        },
+                        {
+                            "name": "Destek Vektör Regresyonu",
+                            "type": "folder",
+                            "children": []
+                        },
+                        {
+                            "name": "Yapay Sinir Ağları",
+                            "type": "folder",
+                            "children": [
+                                {
+                                    "name": "Evrişimli Sİnir Ağları",
+                                    "type": "url",
+                                    "url": "https://coursera.pxf.io/LPY79j"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "CART",
+                            "type": "folder",
+                            "children": []
+                        },
+                        {
+                            "name": "Random Forests",
+                            "type": "folder",
+                            "children": []
+                        },
+                        {
+                            "name": "GBM",
+                            "type": "folder",
+                            "children": []
+                        },
+                        {
+                            "name": "XGBoost",
+                            "type": "folder",
+                            "children": []
+                        },
+                        {
+                            "name": "Light GBM",
+                            "type": "folder",
+                            "children": []
+                        },
+                        {
+                            "name": "CatBoost",
+                            "type": "folder",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Sınıflandırma",
+                    "type": "folder",
+                    "children": [
+                        {
+                            "name": "Lojistik Regresyon",
+                            "type": "folder",
+                            "children": []
+                        },
+                        {
+                            "name": "K En Yakın Komşu",
+                            "type": "folder",
+                            "children": []
+                        },
+                        {
+                            "name": "Destek Vektör Makineleri",
+                            "type": "folder",
+                            "children": []
+                        },
+                        {
+                            "name": "Yapay Sinir Ağları",
+                            "type": "folder",
+                            "children": [
+                                {
+                                    "name": "Yapay Sinir Ağları Nedir ?",
+                                    "type": "url",
+                                    "url": "https://www.veribilimiokulu.com/yapay-sinir-agiartificial-neural-network-nedir/"
+                                },
+                                {
+                                    "name": "Tıpta Yapay Sinir Ağarı",
+                                    "type": "url",
+                                    "url": "https://www.udemy.com/course/tpta-yapay-zeka-beyin-mr-goruntusunden-tumor-segmentasyonu/"
+                                },
+                                {
+                                    "name": "Evrişimli Sİnir Ağları",
+                                    "type": "url",
+                                    "url": "https://coursera.pxf.io/LPY79j"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "CART",
+                            "type": "folder",
+                            "children": []
+                        },
+                        {
+                            "name": "Random Forests GBM",
+                            "type": "folder",
+                            "children": []
+                        },
+                        {
+                            "name": "XGBoost",
+                            "type": "folder",
+                            "children": []
+                        },
+                        {
+                            "name": "LightGBM",
+                            "type": "folder",
+                            "children": []
+                        },
+                        {
+                            "name": "CatBoos",
+                            "type": "folder",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Kümeleme",
+                    "type": "folder",
+                    "children": [
+                        {
+                            "name": "Categorical Variables",
+                            "type": "folder",
+                            "children": []
+                        },
+                        {
+                            "name": "Ordinal Variables",
+                            "type": "folder",
+                            "children": []
+                        },
+                        {
+                            "name": "Numerical Variables",
+                            "type": "folder",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Değişken Türleri",
+                    "type": "folder",
+                    "children": [
+                        {
+                            "name": "Categorical Variables",
+                            "type": "folder",
+                            "children": []
+                        },
+                        {
+                            "name": "Ordinal Variables",
+                            "type": "folder",
+                            "children": []
+                        },
+                        {
+                            "name": "Numerical Variables",
+                            "type": "folder",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Cost Functions",
+                    "type": "folder",
+                    "children": [
+                        {
+                            "name": "Regression Cost Function",
+                            "type": "folder",
+                            "children": []
+                        },
+                        {
+                            "name": "Binary Cost Function",
+                            "type": "folder",
+                            "children": []
+                        },
+                        {
+                            "name": "Multi-Class Classification Cost Function",
+                            "type": "folder",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Terimler",
+                    "type": "folder",
+                    "children": [
+                        {
+                            "name": "Gradient Descent",
+                            "type": "folder",
+                            "children": []
+                        },
+                        {
+                            "name": "Overfitting",
+                            "type": "folder",
+                            "children": []
+                        },
+                        {
+                            "name": "Underfitting",
+                            "type": "folder",
+                            "children": []
+                        },
+                        {
+                            "name": "Training, test and validation data",
+                            "type": "folder",
+                            "children": []
+                        },
+                        {
+                            "name": "Precision",
+                            "type": "folder",
+                            "children": []
+                        },
+                        {
+                            "name": "Recall",
+                            "type": "folder",
+                            "children": []
+                        },
+                        {
+                            "name": "Bias, Variance Model Selection",
+                            "type": "folder",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Derin Öğrenme",
+            "type": "folder",
+            "children": [
+                {
+                    "name": "Tensorflow,Pytorch,Tensorboard",
+                    "type": "folder",
+                    "children": [
+                        {
+                            "name": "TensorFlow ile İleri Seviye Bilgisayarlı Görü",
+                            "type": "url",
+                            "url": "https://imp.i115008.net/NKkmQP"
+                        },
+                        {
+                            "name": "Pytorch İle Derin Öğrenmeye Giriş",
+                            "type": "url",
+                            "url": "https://imp.i115008.net/e4r5XX"
+                        },
+                        {
+                            "name": "Derin Öğrenme için Tensorflow'a giriş",
+                            "type": "url",
+                            "url": "https://imp.i115008.net/Ygqvam"
+                        }
+                    ]
+                },
+                {
+                    "name": "Yapay Sinir Ağları",
+                    "type": "folder",
+                    "children": [
+                        {
+                            "name": "Yapay Sinir Ağı Nedir?",
+                            "type": "url",
+                            "url": "https://www.veribilimiokulu.com/yapay-sinir-agiartificial-neural-network-nedir/"
+                        },
+                        {
+                            "name": "Derin Öğrenme ve Sinir Ağlarına Keras ile giriş",
+                            "type": "url",
+                            "url": "https://imp.i115008.net/Ygqvam"
+                        },
+                        {
+                            "name": "Evrişimli Sİnir Ağları",
+                            "type": "url",
+                            "url": "https://coursera.pxf.io/LPY79j"
+                        }
+                    ]
+                },
+                {
+                    "name": "Gözetimli Öğrenme",
+                    "type": "folder",
+                    "children": [
+                        {
+                            "name": "",
+                            "type": "url",
+                            "url": ""
+                        },
+                        {
+                            "name": "",
+                            "type": "url",
+                            "url": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Gözetimsiz Öğrenme",
+                    "type": "folder",
+                    "children": [
+                        {
+                            "name": "",
+                            "type": "url",
+                            "url": ""
+                        },
+                        {
+                            "name": "",
+                            "type": "url",
+                            "url": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Aktivasyon Fonsksiyonları",
+                    "type": "folder",
+                    "children": [
+                        {
+                            "name": "",
+                            "type": "url",
+                            "url": ""
+                        },
+                        {
+                            "name": "",
+                            "type": "url",
+                            "url": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "İleri Yayılım",
+                    "type": "folder",
+                    "children": [
+                        {
+                            "name": "",
+                            "type": "url",
+                            "url": ""
+                        },
+                        {
+                            "name": "",
+                            "type": "url",
+                            "url": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Geri Yayılım",
+                    "type": "folder",
+                    "children": [
+                        {
+                            "name": "",
+                            "type": "url",
+                            "url": ""
+                        },
+                        {
+                            "name": "",
+                            "type": "url",
+                            "url": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Hiperarametreler",
+                    "type": "folder",
+                    "children": [
+                        {
+                            "name": "",
+                            "type": "url",
+                            "url": ""
+                        },
+                        {
+                            "name": "",
+                            "type": "url",
+                            "url": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Learning Rate",
+                    "type": "folder",
+                    "children": [
+                        {
+                            "name": "",
+                            "type": "url",
+                            "url": ""
+                        },
+                        {
+                            "name": "",
+                            "type": "url",
+                            "url": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Batch Normalization",
+                    "type": "folder",
+                    "children": [
+                        {
+                            "name": "",
+                            "type": "url",
+                            "url": ""
+                        },
+                        {
+                            "name": "",
+                            "type": "url",
+                            "url": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Batch Size",
+                    "type": "folder",
+                    "children": [
+                        {
+                            "name": "",
+                            "type": "url",
+                            "url": ""
+                        },
+                        {
+                            "name": "",
+                            "type": "url",
+                            "url": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Transfer Learning",
+                    "type": "folder",
+                    "children": [
+                        {
+                            "name": "Yapay Zeka Beyin Mr Görüntüsünden Tümör Segmentasyonu",
+                            "type": "url",
+                            "url": "https://www.udemy.com/course/tpta-yapay-zeka-beyin-mr-goruntusunden-tumor-segmentasyonu/learn/lecture/21481738#content"
+                        }
+                    ]
+                },
+                {
+                    "name": "Optimizasyon",
+                    "type": "folder",
+                    "children": [
+                        {
+                            "name": "",
+                            "type": "url",
+                            "url": ""
+                        },
+                        {
+                            "name": "",
+                            "type": "url",
+                            "url": ""
+                        },
+                        {
+                            "name": "SGD",
+                            "type": "folder",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "type": "url",
+                                    "url": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Momentum",
+                            "type": "folder",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "type": "url",
+                                    "url": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Adam",
+                            "type": "folder",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "type": "url",
+                                    "url": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "AdaGrad",
+                            "type": "folder",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "type": "url",
+                                    "url": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "AdaDelta",
+                            "type": "folder",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "type": "url",
+                                    "url": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Nadam",
+                            "type": "folder",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "type": "url",
+                                    "url": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "RMSProp",
+                            "type": "folder",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "type": "url",
+                                    "url": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Regularizasyon",
+                    "type": "folder",
+                    "children": [
+                        {
+                            "name": "",
+                            "type": "url",
+                            "url": ""
+                        },
+                        {
+                            "name": "",
+                            "type": "url",
+                            "url": ""
+                        },
+                        {
+                            "name": "Early stopping",
+                            "type": "folder",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "type": "url",
+                                    "url": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Dropout",
+                            "type": "folder",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "type": "url",
+                                    "url": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Parameter Penalties",
+                            "type": "folder",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "type": "url",
+                                    "url": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Data Augmentation",
+                            "type": "folder",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "type": "url",
+                                    "url": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Adversarial Training",
+                            "type": "folder",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "type": "url",
+                                    "url": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Gradient Descent",
+                    "type": "folder",
+                    "children": [
+                        {
+                            "name": "",
+                            "type": "url",
+                            "url": ""
+                        },
+                        {
+                            "name": "",
+                            "type": "url",
+                            "url": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Veri Arttırma",
+                    "type": "folder",
+                    "children": [
+                        {
+                            "name": "",
+                            "type": "url",
+                            "url": ""
+                        },
+                        {
+                            "name": "",
+                            "type": "url",
+                            "url": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Loss Fonksiyonları",
+                    "type": "folder",
+                    "children": [
+                        {
+                            "name": "",
+                            "type": "url",
+                            "url": ""
+                        },
+                        {
+                            "name": "",
+                            "type": "url",
+                            "url": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Vision,Audio,NLP features",
+                    "type": "folder",
+                    "children": [
+                        {
+                            "name": "",
+                            "type": "url",
+                            "url": ""
+                        },
+                        {
+                            "name": "",
+                            "type": "url",
+                            "url": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Encoder, Decoder, Autoencoder, Transformer",
+                    "type": "folder",
+                    "children": [
+                        {
+                            "name": "",
+                            "type": "url",
+                            "url": ""
+                        },
+                        {
+                            "name": "",
+                            "type": "url",
+                            "url": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "ANN ve CNN",
+                    "type": "folder",
+                    "children": [
+                        {
+                            "name": "",
+                            "type": "url",
+                            "url": ""
+                        },
+                        {
+                            "name": "",
+                            "type": "url",
+                            "url": ""
+                        },
+                        {
+                            "name": "Bilgisayarlı Görü",
+                            "type": "folder",
+                            "children": [
+                                {
+                                    "name": "Bilgisayarlı Görüye Giriş",
+                                    "type": "url",
+                                    "url": "https://imp.i115008.net/GaWjk"
+                                },
+                                {
+                                    "name": "Bilgisaayrlı GÖrü Uzmanı Olun!!",
+                                    "type": "url",
+                                    "url": "https://imp.i115008.net/m9Zdq"
+                                },
+                                {
+                                    "name": "TensorFlow ile İleri Seviye Bilgisayarlı Görü",
+                                    "type": "url",
+                                    "url": "https://imp.i115008.net/NKkmQP"
+                                },
+                                {
+                                    "name": "Bilgisayarlı Görü ve Görüntü İşlemeye Giriş",
+                                    "type": "url",
+                                    "url": "https://coursera.pxf.io/DVM74j"
+                                },
+                                {
+                                    "name": "Bilgisayarlı Görü Uzmanı Olun",
+                                    "type": "url",
+                                    "url": "https://imp.i115008.net/ELE12"
+                                },
+                                {
+                                    "name": "A'dan Z'ye Bilgisayarlı Görü ve Derin Öğrenme: OpenCV, SSD & GANs",
+                                    "type": "url",
+                                    "url": "https://click.linksynergy.com/deeplink?id=Vrr1tRSwXGM&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcomputer-vision-a-z%2F"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Evrişim İşlemi",
+                            "type": "folder",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "type": "url",
+                                    "url": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Padding",
+                            "type": "folder",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "type": "url",
+                                    "url": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Stride",
+                            "type": "folder",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "type": "url",
+                                    "url": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Pooling",
+                            "type": "folder",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "type": "url",
+                                    "url": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Tensor nedir?",
+                            "type": "folder",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "type": "url",
+                                    "url": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "LeNet15, VGG16, ResNet",
+                            "type": "folder",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "type": "url",
+                                    "url": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "RNN LSTM GAN",
+                    "type": "folder",
+                    "children": [
+                        {
+                            "name": "",
+                            "type": "url",
+                            "url": ""
+                        },
+                        {
+                            "name": "",
+                            "type": "url",
+                            "url": ""
+                        },
+                        {
+                            "name": "İleri ve Geri Yayılım",
+                            "type": "folder",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "type": "url",
+                                    "url": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "GRU",
+                            "type": "folder",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "type": "url",
+                                    "url": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Bidirectional RNN",
+                            "type": "folder",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "type": "url",
+                                    "url": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Deep RNN",
+                            "type": "folder",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "type": "url",
+                                    "url": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Kapsül Ağları",
+                            "type": "folder",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "type": "url",
+                                    "url": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "GAN?",
+                            "type": "folder",
+                            "children": [
+                                {
+                                    "name": "A'dan Z'ye Bilgisayarlı Görü ve Derin Öğrenme: OpenCV, SSD & GANs",
+                                    "type": "url",
+                                    "url": "https://click.linksynergy.com/deeplink?id=Vrr1tRSwXGM&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcomputer-vision-a-z%2F"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Görüntü İşleme",
+            "type": "folder",
+            "children": [
+                {
+                    "name": "Matematik",
+                    "type": "folder",
+                    "children": [
+                        {
+                            "name": "Veri Bilimi için Matematik",
+                            "type": "url",
+                            "url": "https://coursera.pxf.io/KeY6G7"
+                        },
+                        {
+                            "name": "Matematik Kursu",
+                            "type": "url",
+                            "url": "https://www.khanacademy.org/math"
+                        },
+                        {
+                            "name": "Veri Bilimi Matematik Yetenekleri",
+                            "type": "url",
+                            "url": "https://www.coursera.org/learn/datasciencemathskills?irclickid=VY6TRK2JsxyPRh5Vylw%3A0xWXUkFwjaQOcVtmVE0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=3310965&utm_content=b2c"
+                        },
+                        {
+                            "name": "Olasılık & İstatistik",
+                            "type": "folder",
+                            "children": [
+                                {
+                                    "name": "Olasılık Ve İstatistik",
+                                    "type": "url",
+                                    "url": "https://imp.i115008.net/16AXa"
+                                },
+                                {
+                                    "name": "İstatiğe Giriş",
+                                    "type": "url",
+                                    "url": "https://www.udacity.com/course/intro-to-statistics--st101?irclickid=2yAVY%3A2JtxyPT1IyXUS9p1tJUkFwjYUPcVtmVE0&irgwc=1&utm_source=affiliate&utm_medium=&aff=2406137&utm_term=&utm_campaign=__&utm_content=&adid=786224"
+                                },
+                                {
+                                    "name": "Basit İstatistik",
+                                    "type": "url",
+                                    "url": "https://www.coursera.org/learn/basic-statistics?irclickid=VY6TRK2JsxyPRh5Vylw%3A0xWXUkFwjYQncVtmVE0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=3310965&utm_content=b2c"
+                                },
+                                {
+                                    "name": "Olasılık Ve İstatistik",
+                                    "type": "url",
+                                    "url": "https://www.khanacademy.org/math/statistics-probability"
+                                },
+                                {
+                                    "name": "İstatistik Ve Makine Öğrenmesi",
+                                    "type": "url",
+                                    "url": "https://www.coursera.org/specializations/data-science-statistics-machine-learning?irclickid=VY6TRK2JsxyPRh5Vylw%3A0xWXUkFwjdyncVtmVE0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=3310965&utm_content=b2c"
+                                },
+                                {
+                                    "name": "Veri Bilimi İçin İstatistik",
+                                    "type": "url",
+                                    "url": "https://www.youtube.com/watch?v=Vfo5le26IhY"
+                                },
+                                {
+                                    "name": "Veri Bilimi: İStatistik ve Makine Öğrenmesi ",
+                                    "type": "url",
+                                    "url": "https://coursera.pxf.io/MXYqYY"
+                                },
+                                {
+                                    "name": "Veri Bilimi için İstatistik",
+                                    "type": "url",
+                                    "url": "https://youtu.be/Vfo5le26IhY"
+                                },
+                                {
+                                    "name": "Veri Bilimciler İçin Pratik İstatistik ",
+                                    "type": "url",
+                                    "url": "https://www.amazon.it/dp/149207294X/ref=as_li_ss_tl?dchild=1&keywords=statistics&language=en_US&sr=8-1&linkCode=gg2&linkId=9822e781ebde6920f095ba9efe8e95ab&tag=mltut-20"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Lineer Cebir",
+                            "type": "folder",
+                            "children": [
+                                {
+                                    "name": "Mühendisler İçin Matrix Cebiri",
+                                    "type": "url",
+                                    "url": "https://imp.i384100.net/ZdjA2W"
+                                },
+                                {
+                                    "name": "Lineer Cebir Tekrar Kursu",
+                                    "type": "url",
+                                    "url": "https://www.udacity.com/course/linear-algebra-refresher-course--ud953?irclickid=2yAVY%3A2JtxyPT1IyXUS9p1tJUkFwjfyOcVtmVE0&irgwc=1&utm_source=affiliate&utm_medium=&aff=2406137&utm_term=&utm_campaign=__&utm_content=&adid=786224"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Calculus",
+                            "type": "folder",
+                            "children": [
+                                {
+                                    "name": "Calculus'a Giriş",
+                                    "type": "url",
+                                    "url": "https://imp.i384100.net/kj2q5v"
+                                },
+                                {
+                                    "name": "Veri Bilimi için Matematik Becerileri",
+                                    "type": "url",
+                                    "url": "https://coursera.pxf.io/x9qqm1"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Programlama Dili",
+                    "type": "folder",
+                    "children": [
+                        {
+                            "name": "",
+                            "type": "url",
+                            "url": ""
+                        },
+                        {
+                            "name": "",
+                            "type": "url",
+                            "url": ""
+                        },
+                        {
+                            "name": "Python",
+                            "type": "folder",
+                            "children": [
+                                {
+                                    "name": "Tek Videoda Python OOP",
+                                    "type": "url",
+                                    "url": "https://www.youtube.com/watch?v=XD2yLGZVUzI&list=PLXuv2PShkuHwGWVVBIffQYJGFLL-lGqsY&index=24"
+                                },
+                                {
+                                    "name": "Python Veri Yapıları Oynatma Listesi",
+                                    "type": "url",
+                                    "url": "https://www.youtube.com/playlist?list=PLh9ECzBB8tJOoFYmIIiwFjgXDCD9uiD_i"
+                                },
+                                {
+                                    "name": "Python Veri Yapıları",
+                                    "type": "url",
+                                    "url": "https://github.com/OmkarPathak/Data-Structures-using-Python"
+                                },
+                                {
+                                    "name": "Kızıltan Veri Yapıları",
+                                    "type": "url",
+                                    "url": "http://cagataykiziltan.net/veri-yapilari-data-structures/"
+                                },
+                                {
+                                    "name": "GFG Veri Yapıları",
+                                    "type": "url",
+                                    "url": "https://www.geeksforgeeks.org/data-structures/"
+                                },
+                                {
+                                    "name": "GFG Python  OOP",
+                                    "type": "url",
+                                    "url": "https://www.geeksforgeeks.org/python-oops-concepts/"
+                                },
+                                {
+                                    "name": "Python Dersleri (Türkçe)",
+                                    "type": "url",
+                                    "url": "https://www.youtube.com/playlist?list=PLWctyKyPphPiul3WbHkniANLqSheBVP3O"
+                                },
+                                {
+                                    "name": "Introduction to Python Programming",
+                                    "type": "url",
+                                    "url": "https://www.udacity.com/course/introduction-to-python--ud1110?irclickid=2yAVY%3A2JtxyPT1IyXUS9p1tJUkFwjbyWcVtmVE0&irgwc=1&utm_source=affiliate&utm_medium=&aff=2406137&utm_term=&utm_campaign=__&utm_content=&adid=786224"
+                                },
+                                {
+                                    "name": "The Python Tutorial Document",
+                                    "type": "url",
+                                    "url": "https://docs.python.org/3/tutorial/index.html"
+                                },
+                                {
+                                    "name": "CS Dojo",
+                                    "type": "url",
+                                    "url": "https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A"
+                                },
+                                {
+                                    "name": "Python For Beginners",
+                                    "type": "url",
+                                    "url": "https://www.udemy.com/course/python-for-every1/?ranMID=39197&ranEAID=Vrr1tRSwXGM&ranSiteID=Vrr1tRSwXGM-iuwFXeN_1CP6D9poQMBwKQ&LSNPUBID=Vrr1tRSwXGM&utm_source=aff-campaign&utm_medium=udemyads"
+                                },
+                                {
+                                    "name": " Yeni Başlayanlar İçin Python Eğitimi [Tam Ders] 2019 ",
+                                    "type": "url",
+                                    "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc&t=17s"
+                                },
+                                {
+                                    "name": " Python Tutorial for Beginners 1: Install and Setup for Mac and Windows",
+                                    "type": "url",
+                                    "url": "https://www.youtube.com/watch?v=YYXdXT2l-Gg&feature=youtu.be  "
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Cpp",
+                            "type": "folder",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "type": "url",
+                                    "url": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "OpenCV",
+                    "type": "folder",
+                    "children": [
+                        {
+                            "name": "Bigisayar Görüsü Ve Görüntü İşlemeye Giriş",
+                            "type": "url",
+                            "url": "https://www.coursera.org/learn/introduction-computer-vision-watson-opencv?irclickid=VY6TRK2JsxyPRh5Vylw%3A0xWXUkFwjIwHcXVy1s0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=3310965&utm_content=b2c"
+                        },
+                        {
+                            "name": "OpenCV İle Bilgisayar Görüsü",
+                            "type": "url",
+                            "url": "https://www.udemy.com/course/computer-vision-with-opencv-official-opencv-free-course/?ranMID=39197&ranEAID=Vrr1tRSwXGM&ranSiteID=Vrr1tRSwXGM-Is2glHhewaXuFIL769lAfw&LSNPUBID=Vrr1tRSwXGM&utm_source=aff-campaign&utm_medium=udemyads"
+                        },
+                        {
+                            "name": "Bilgisayar Görüsü Ve OpenCV için Python",
+                            "type": "url",
+                            "url": "https://www.udemy.com/course/python-for-computer-vision-with-opencv-and-deep-learning/?ranMID=39197&ranEAID=Vrr1tRSwXGM&ranSiteID=Vrr1tRSwXGM-_5d4UsgF0xdauzvw90tBFQ&LSNPUBID=Vrr1tRSwXGM&utm_source=aff-campaign&utm_medium=udemyads"
+                        },
+                        {
+                            "name": "Derin Öğrenme Ve Bilgisayar Görüsü",
+                            "type": "url",
+                            "url": "https://www.udemy.com/course/computer-vision-a-z/?ranMID=39197&ranEAID=Vrr1tRSwXGM&ranSiteID=Vrr1tRSwXGM-PlOZ1Nn5ptiZtwGZqrcUdg&LSNPUBID=Vrr1tRSwXGM&utm_source=aff-campaign&utm_medium=udemyads"
+                        },
+                        {
+                            "name": "OpenCV İle Python Projesi",
+                            "type": "url",
+                            "url": "https://www.coursera.org/learn/python-project?irclickid=VY6TRK2JsxyPRh5Vylw%3A0xWXUkFwjcVHcXVy1s0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=3310965&utm_content=b2c"
+                        },
+                        {
+                            "name": "Python İle OpenCV Öğrenimi",
+                            "type": "url",
+                            "url": "https://www.amazon.it/dp/1789531616?crid=2ECZTN5TGYARJ&keywords=computer+vision&sprefix=computer+vision,aps,265&ref_=as_li_ss_tl&language=en_US&sr=8-8&linkCode=gg2&linkId=64cf9712763f3f3707570a27c83755b2&tag=mltut-20"
+                        },
+                        {
+                            "name": "Bilgisayar Görüsü, Derin Öğrenme Ve OpenCV'ye Giriş",
+                            "type": "url",
+                            "url": "https://pyimagesearch.com/start-here/"
+                        },
+                        {
+                            "name": "OpenCV Tutorials",
+                            "type": "url",
+                            "url": "https://docs.opencv.org/4.x/d9/df8/tutorial_root.html"
+                        },
+                        {
+                            "name": "4 Saatte OpenCV Ve Python",
+                            "type": "url",
+                            "url": "https://www.youtube.com/watch?v=oXlwWbU8l2o"
+                        },
+                        {
+                            "name": "3 Saate OpenCV",
+                            "type": "url",
+                            "url": "https://www.youtube.com/watch?v=WQeoO7MI0Bs"
+                        },
+                        {
+                            "name": "Yeni Başlayanlar İçin 10 Saate Python",
+                            "type": "url",
+                            "url": "https://www.youtube.com/watch?v=N81PCpADwKQ"
+                        },
+                        {
+                            "name": "A'dan Z'ye Bilgisayarlı Görü ve Derin Öğrenme: OpenCV, SSD & GANs",
+                            "type": "url",
+                            "url": "https://click.linksynergy.com/deeplink?id=Vrr1tRSwXGM&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcomputer-vision-a-z%2F"
+                        }
+                    ]
+                },
+                {
+                    "name": "Derin Öğrenme",
+                    "type": "folder",
+                    "children": [
+                        {
+                            "name": "",
+                            "type": "url",
+                            "url": ""
+                        },
+                        {
+                            "name": "",
+                            "type": "url",
+                            "url": ""
+                        },
+                        {
+                            "name": "Scikit-Learn",
+                            "type": "folder",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "type": "url",
+                                    "url": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Pytorch",
+                            "type": "folder",
+                            "children": [
+                                {
+                                    "name": "Pytorch İle Derin Öğrenmeye Giriş",
+                                    "type": "url",
+                                    "url": "https://www.udacity.com/course/deep-learning-pytorch--ud188?irclickid=2yAVY%3A2JtxyPT1IyXUS9p1tJUkFwj8xucVtmVE0&irgwc=1&utm_source=affiliate&utm_medium=&aff=2406137&utm_term=&utm_campaign=__&utm_content=&adid=786224"
+                                },
+                                {
+                                    "name": "Pytorch İle Derin Öğrenmeye Başlangıç",
+                                    "type": "url",
+                                    "url": "https://www.datacamp.com/courses/introduction-to-deep-learning-with-pytorch?irclickid=VY6TRK2JsxyPRh5Vylw%3A0xWXUkFwj5X%3AcVtmVE0&irgwc=1&utm_medium=affiliate&utm_source=impact&utm_campaign=000000_1-2355712_2-mix_3-all_4-na_5-na_6-na_7-mp_8-affl-ip_9-na_10-bau_11-Aqsa%20Zafar&utm_content=ONLINE_TRACKING_LINK&utm_term="
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Keras",
+                            "type": "folder",
+                            "children": [
+                                {
+                                    "name": "Keras İle Derin Öğrenme Ve Yapay Sinir Ağlarına Giriş",
+                                    "type": "url",
+                                    "url": "https://www.coursera.org/learn/introduction-to-deep-learning-with-keras?irclickid=VY6TRK2JsxyPRh5Vylw%3A0xWXUkFwj8UmcVtmVE0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=3310965&utm_content=b2c"
+                                },
+                                {
+                                    "name": "Kerasla İleri Seviye Derin Öğrenme",
+                                    "type": "url",
+                                    "url": "https://www.datacamp.com/courses/advanced-deep-learning-with-keras?irclickid=VY6TRK2JsxyPRh5Vylw%3A0xWXUkFwj8QPcVtmVE0&irgwc=1&utm_medium=affiliate&utm_source=impact&utm_campaign=000000_1-2355712_2-mix_3-all_4-na_5-na_6-na_7-mp_8-affl-ip_9-na_10-bau_11-Aqsa%20Zafar&utm_content=ONLINE_TRACKING_LINK&utm_term="
+                                },
+                                {
+                                    "name": "Keras İle Derin Öğrenme ",
+                                    "type": "url",
+                                    "url": "https://www.udemy.com/course/complete-tensorflow-2-and-keras-deep-learning-bootcamp/?ranMID=39197&ranEAID=Vrr1tRSwXGM&ranSiteID=Vrr1tRSwXGM-TYytpypRe.BKgo5jIYVOvw&LSNPUBID=Vrr1tRSwXGM&utm_source=aff-campaign&utm_medium=udemyads"
+                                },
+                                {
+                                    "name": "Pytorch İle Derin Yapay Sinir Ağları",
+                                    "type": "url",
+                                    "url": "https://www.coursera.org/learn/deep-neural-networks-with-pytorch?irclickid=VY6TRK2JsxyPRh5Vylw%3A0xWXUkFwj%3Aw-cVtmVE0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=3310965&utm_content=b2c"
+                                },
+                                {
+                                    "name": "Pytorch İle Derin Öğrenme Ve Yapay Zeka",
+                                    "type": "url",
+                                    "url": "https://www.udemy.com/course/pytorch-deep-learning/?ranMID=39197&ranEAID=Vrr1tRSwXGM&ranSiteID=Vrr1tRSwXGM-n3Bd8kL6WdGPytr5F3Wcpw&LSNPUBID=Vrr1tRSwXGM&utm_source=aff-campaign&utm_medium=udemyads"
+                                },
+                                {
+                                    "name": "Derin Öğrenme için Pytorch",
+                                    "type": "url",
+                                    "url": "https://www.udemy.com/course/pytorch-deep-learning/?ranMID=39197&ranEAID=Vrr1tRSwXGM&ranSiteID=Vrr1tRSwXGM-n3Bd8kL6WdGPytr5F3Wcpw&LSNPUBID=Vrr1tRSwXGM&utm_source=aff-campaign&utm_medium=udemyads"
+                                },
+                                {
+                                    "name": "Pytorch Tutorials",
+                                    "type": "url",
+                                    "url": "https://pytorch.org/tutorials/"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Theano",
+                            "type": "folder",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "type": "url",
+                                    "url": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Caffe",
+                            "type": "folder",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "type": "url",
+                                    "url": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "CNN",
+                    "type": "folder",
+                    "children": [
+                        {
+                            "name": "OpenVINO ile Yapay Zekanın Temelleri",
+                            "type": "url",
+                            "url": "https://imp.i115008.net/NKkmQP"
+                        },
+                        {
+                            "name": "",
+                            "type": "url",
+                            "url": ""
+                        },
+                        {
+                            "name": "ReLu",
+                            "type": "folder",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "type": "url",
+                                    "url": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Pooling",
+                            "type": "folder",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "type": "url",
+                                    "url": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Flattening",
+                            "type": "folder",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "type": "url",
+                                    "url": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Full Connection",
+                            "type": "folder",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "type": "url",
+                                    "url": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "RNN",
+                    "type": "folder",
+                    "children": [
+                        {
+                            "name": "Temel RNN Ve CNN",
+                            "type": "url",
+                            "url": "https://www.coursera.org/learn/cnns-and-rnns?irclickid=VY6TRK2JsxyPRh5Vylw%3A0xWXUkFwj71ucVtmVE0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=3310965&utm_content=b2c"
+                        },
+                        {
+                            "name": "Keras İle Basit RNN",
+                            "type": "url",
+                            "url": "https://www.coursera.org/projects/simple-recurrent-neural-network-keras?irclickid=VY6TRK2JsxyPRh5Vylw%3A0xWXUkFwj7RPcVtmVE0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=3310965&utm_content=b2c"
+                        },
+                        {
+                            "name": "RNN Tutorial",
+                            "type": "url",
+                            "url": "https://www.youtube.com/watch?v=lWkFhVq9-nc"
+                        }
+                    ]
+                },
+                {
+                    "name": "Örnek Projeler",
+                    "type": "folder",
+                    "children": [
+                        {
+                            "name": "",
+                            "type": "url",
+                            "url": ""
+                        },
+                        {
+                            "name": "",
+                            "type": "url",
+                            "url": ""
+                        },
+                        {
+                            "name": "People counting tool",
+                            "type": "folder",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "type": "url",
+                                    "url": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Colors detection",
+                            "type": "folder",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "type": "url",
+                                    "url": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Object trackingin a video",
+                            "type": "folder",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "type": "url",
+                                    "url": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Pedestrian detection",
+                            "type": "folder",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "type": "url",
+                                    "url": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Hand gesture recognition",
+                            "type": "folder",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "type": "url",
+                                    "url": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Human emotion recognition",
+                            "type": "folder",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "type": "url",
+                                    "url": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Road lane detection",
+                            "type": "folder",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "type": "url",
+                                    "url": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Business card scanner",
+                            "type": "folder",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "type": "url",
+                                    "url": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "License plate recognition",
+                            "type": "folder",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "type": "url",
+                                    "url": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Handwritten digit recognition",
+                            "type": "folder",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "type": "url",
+                                    "url": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Iris Flowers Classification",
+                            "type": "folder",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "type": "url",
+                                    "url": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Family photo face detection",
+                            "type": "folder",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "type": "url",
+                                    "url": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "LEGO Brick Finder",
+                            "type": "folder",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "type": "url",
+                                    "url": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "PPE Detection",
+                            "type": "folder",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "type": "url",
+                                    "url": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Face mask detection",
+                            "type": "folder",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "type": "url",
+                                    "url": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Robotik",
+            "type": "folder",
+            "children": [
+                {
+                    "name": "Matematik",
+                    "type": "folder",
+                    "children": [
+                        {
+                            "name": "",
+                            "type": "url",
+                            "url": ""
+                        },
+                        {
+                            "name": "",
+                            "type": "url",
+                            "url": ""
+                        },
+                        {
+                            "name": "Cebir",
+                            "type": "folder",
+                            "children": [
+                                {
+                                    "name": "Kalkülüse giriş",
+                                    "type": "url",
+                                    "url": "https://imp.i384100.net/kj2q5v"
+                                },
+                                {
+                                    "name": "Cebire Giriş",
+                                    "type": "url",
+                                    "url": "https://www.khanacademy.org/math/algebra"
+                                },
+                                {
+                                    "name": "Veri Bilimi için Matematik",
+                                    "type": "url",
+                                    "url": "https://coursera.pxf.io/KeY6G7"
+                                },
+                                {
+                                    "name": "Veri Bilimi için Matematik Becerileri",
+                                    "type": "url",
+                                    "url": "https://coursera.pxf.io/x9qqm1"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Lineer Cebir",
+                            "type": "folder",
+                            "children": [
+                                {
+                                    "name": "Lineer Cebire Giriş",
+                                    "type": "url",
+                                    "url": "https://imp.i115008.net/ORBjyr"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "İstatistik & Olasılık",
+                            "type": "folder",
+                            "children": [
+                                {
+                                    "name": "İstatistik Giriş",
+                                    "type": "url",
+                                    "url": "https://imp.i115008.net/16AXa"
+                                },
+                                {
+                                    "name": "Temel İstatistik",
+                                    "type": "url",
+                                    "url": "https://imp.i115008.net/ORBjyr"
+                                },
+                                {
+                                    "name": "İstatistik ve Olasılık",
+                                    "type": "url",
+                                    "url": "https://www.khanacademy.org/math/statistics-probability"
+                                },
+                                {
+                                    "name": "Veri Bilimciler için Temel istatistik",
+                                    "type": "url",
+                                    "url": "https://amzn.to/3p0X7jl"
+                                },
+                                {
+                                    "name": "Veri Bilimi: İStatistik ve Makine Öğrenmesi ",
+                                    "type": "url",
+                                    "url": "https://coursera.pxf.io/MXYqYY"
+                                },
+                                {
+                                    "name": "Veri Bilimi için İstatistik",
+                                    "type": "url",
+                                    "url": "https://youtu.be/Vfo5le26IhY"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Programlama Dili",
+                    "type": "folder",
+                    "children": [
+                        {
+                            "name": "",
+                            "type": "url",
+                            "url": ""
+                        },
+                        {
+                            "name": "",
+                            "type": "url",
+                            "url": ""
+                        },
+                        {
+                            "name": "Python",
+                            "type": "folder",
+                            "children": [
+                                {
+                                    "name": "Python - OOP ve Veri Yapıları",
+                                    "type": "url",
+                                    "url": "https://www.youtube.com/playlist?list=PLh9ECzBB8tJOoFYmIIiwFjgXDCD9uiD_i"
+                                },
+                                {
+                                    "name": "Python Kullanarak Veri Yapıları",
+                                    "type": "url",
+                                    "url": "https://github.com/OmkarPathak/Data-Structures-using-Python"
+                                },
+                                {
+                                    "name": "Veri Yapıları",
+                                    "type": "url",
+                                    "url": "http://cagataykiziltan.net/veri-yapilari-data-structures/"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Cpp",
+                            "type": "folder",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "type": "url",
+                                    "url": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Linux",
+                    "type": "folder",
+                    "children": [
+                        {
+                            "name": "Linux Giriş Eğitimi",
+                            "type": "url",
+                            "url": "https://gelecegiyazanlar.turkcell.com.tr/konu/egitim/temel-linux-101/linux-egitimine-baslarken"
+                        }
+                    ]
+                },
+                {
+                    "name": "ROS",
+                    "type": "folder",
+                    "children": [
+                        {
+                            "name": " ROS Giriş Eğitimi",
+                            "type": "url",
+                            "url": "https://www.udemy.com/course/temelden-gelismise-python-ile-uygulamali-ros-egitimi/"
+                        },
+                        {
+                            "name": "ROS ile Programlama",
+                            "type": "url",
+                            "url": "https://www.youtube.com/playlist?list=PLE-BQwvVGf8HOvwXPgtDfWoxd4Cc6ghiP"
+                        },
+                        {
+                            "name": "ROS Eğitimi",
+                            "type": "url",
+                            "url": "https://www.youtube.com/playlist?list=PLRa72Ydn9zeZhWJZhXhv3FT-Q3jtgG8ew"
+                        },
+                        {
+                            "name": "ROS Tutorials",
+                            "type": "url",
+                            "url": "http://wiki.ros.org/ROS/Tutorials"
+                        }
+                    ]
+                },
+                {
+                    "name": "Simülasyon Ortamları",
+                    "type": "folder",
+                    "children": [
+                        {
+                            "name": "",
+                            "type": "url",
+                            "url": ""
+                        },
+                        {
+                            "name": "",
+                            "type": "url",
+                            "url": ""
+                        },
+                        {
+                            "name": "CARLA",
+                            "type": "folder",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "type": "url",
+                                    "url": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Gazebo",
+                            "type": "folder",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "type": "url",
+                                    "url": ""
+                                }
+                            ]
+                        },
+                        {
+                            "name": "SVL",
+                            "type": "folder",
+                            "children": [
+                                {
+                                    "name": "",
+                                    "type": "url",
+                                    "url": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Görüntü İşleme & Makine Öğrenmesi",
+                    "type": "folder",
+                    "children": [
+                        {
+                            "name": "Görüntü İşlemeye Giriş",
+                            "type": "url",
+                            "url": "https://imp.i115008.net/GaWjk"
+                        },
+                        {
+                            "name": "Görüntü İşlemede Uzmanlaşmak",
+                            "type": "url",
+                            "url": "https://imp.i115008.net/m9Zdq"
+                        },
+                        {
+                            "name": "Bilgisayarlı Görü ve Görüntü İşlemeye Giriş",
+                            "type": "url",
+                            "url": "https://coursera.pxf.io/DVM74j"
+                        }
+                    ]
+                },
+                {
+                    "name": "Localization",
+                    "type": "folder",
+                    "children": [
+                        {
+                            "name": "Localization",
+                            "type": "url",
+                            "url": "https://github.com/AtsushiSakai/PythonRobotics/tree/master/Localization"
+                        },
+                        {
+                            "name": "",
+                            "type": "url",
+                            "url": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Mapping",
+                    "type": "folder",
+                    "children": [
+                        {
+                            "name": "Local Mapping",
+                            "type": "url",
+                            "url": "http://webdiis.unizar.es/~jminguez/interest7.htm"
+                        },
+                        {
+                            "name": "Local Mapping",
+                            "type": "url",
+                            "url": "https://docs.nvidia.com/isaac/packages/egm_fusion/doc/local_mapping.html"
+                        }
+                    ]
+                },
+                {
+                    "name": "Path Planning",
+                    "type": "folder",
+                    "children": [
+                        {
+                            "name": "",
+                            "type": "url",
+                            "url": ""
+                        },
+                        {
+                            "name": "",
+                            "type": "url",
+                            "url": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Motion Planning",
+                    "type": "folder",
+                    "children": [
+                        {
+                            "name": "",
+                            "type": "url",
+                            "url": ""
+                        },
+                        {
+                            "name": "",
+                            "type": "url",
+                            "url": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Path Tracking",
+                    "type": "folder",
+                    "children": [
+                        {
+                            "name": "",
+                            "type": "url",
+                            "url": ""
+                        },
+                        {
+                            "name": "",
+                            "type": "url",
+                            "url": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "SLAM",
+                    "type": "folder",
+                    "children": [
+                        {
+                            "name": "SLAM Nedir?",
+                            "type": "url",
+                            "url": "https://geoslam.com/what-is-slam/"
+                        },
+                        {
+                            "name": "SlAM Ne için Kullanılır?",
+                            "type": "url",
+                            "url": "https://www.mathworks.com/discovery/slam.html"
+                        }
+                    ]
+                },
+                {
+                    "name": "Robot Control",
+                    "type": "folder",
+                    "children": [
+                        {
+                            "name": "Robotik Roadmap",
+                            "type": "url",
+                            "url": "https://sarrasor.github.io/RoboticsRoadmap/"
+                        },
+                        {
+                            "name": "",
+                            "type": "url",
+                            "url": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Navigation",
+                    "type": "folder",
+                    "children": [
+                        {
+                            "name": "",
+                            "type": "url",
+                            "url": ""
+                        },
+                        {
+                            "name": "",
+                            "type": "url",
+                            "url": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Formasyon",
+                    "type": "folder",
+                    "children": [
+                        {
+                            "name": "Formasyon Eğitimi",
+                            "type": "url",
+                            "url": "https://www.youtube.com/playlist?list=PLvpJkeZbByrMDjMsl3Irvus012pM3dMzB"
+                        },
+                        {
+                            "name": "",
+                            "type": "url",
+                            "url": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Sürü Algoritmaları",
+                    "type": "folder",
+                    "children": [
+                        {
+                            "name": "Sürü Algoritmaları(Teknofest)",
+                            "type": "url",
+                            "url": "https://www.youtube.com/watch?v=4iqXe2h5wxk"
+                        },
+                        {
+                            "name": "",
+                            "type": "url",
+                            "url": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Biyoinformatik",
+            "type": "folder",
+            "children": [
+                {
+                    "name": "Biyoinformatik",
+                    "type": "folder",
+                    "children": [
+                        {
+                            "name": "Biyoinformatik",
+                            "type": "url",
+                            "url": "https://github.com/ossu/bioinformatics"
+                        },
+                        {
+                            "name": "Biyoinformatik 101 Web Semineri",
+                            "type": "url",
+                            "url": "https://www.youtube.com/live/2MxicWXN9Ws?feature=share"
+                        },
+                        {
+                            "name": "Biyoinnformatik Veri Tabanları ve Yazılımlar Listesi",
+                            "type": "url",
+                            "url": "https://www.bioinforange.com/bioinfoguide/rehberler/biyoinformatik-veri-tabanlari-ve-yazilim-listesi-guncel/"
+                        },
+                        {
+                            "name": "Biyoinformatikte Python Programlama Dili",
+                            "type": "url",
+                            "url": "https://microbiologynote.com/tr/python-programming-language-in-bioinformatics/"
+                        },
+                        {
+                            "name": "Yapay Zeka ile Beyin Mr Görüntüsünde Tümör Segmentasyonu",
+                            "type": "url",
+                            "url": "https://www.udemy.com/course/tpta-yapay-zeka-beyin-mr-goruntusunden-tumor-segmentasyonu/learn/lecture/21457622#content"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
