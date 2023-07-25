@@ -97,7 +97,7 @@ fetch("./data/events.json")
                 ${tagsHTML}
             </ul>
             </div>
-            <h2><a href="#">${e.name}</a></h2>
+            <h2><a href="${e.link}">${e.name}</a></h2>
         </div>
         </div>
         `
@@ -135,7 +135,7 @@ fetch("./data/events.json")
         `<div class="service-item scroll-animation" data-animation="fade_from_bottom">
         <span class="date">${p.startsDate + " ~ " + p.endDate}</span>
         <span class="location">${p.location}</span>
-        <h2>${p.name}</h2>
+        <h2><a href= "${p.link}">${p.name}</a></h2>
         <p>${p.description}</p>
     </div>`
       );
