@@ -90,7 +90,7 @@ fetch("./data/events.json")
         }">
             <div class="portfolio-item-inner">
             <a href="assets/images/portfolio3.jpg" data-lightbox="example-1">
-                <img src="assets/images/${e.imageURL}" alt="Portfolio">
+                <img src="data/events/${e.imageURL}" alt="Portfolio">
             </a>
 
             <ul class="portfolio-categories">

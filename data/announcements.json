@@ -8,15 +8,6 @@
             "active" : true,
             "startDate" : "19.04.2020",
             "endDate" : "13.12.2023"
-        },
-        {
-            "header":"Websitemiz Yayında",
-            "description":"yeyyyyyy",
-            "link":"",
-            "imageURL":"",
-            "active" : false ,
-            "startDate" : "19.04.2020",
-            "endDate" : "13.12.2023"
         }
     ]
 }
