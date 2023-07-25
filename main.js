@@ -126,11 +126,11 @@ fetch("./data/events.json")
   fetch("./data/courses.json")
   .then((response) => response.json())
   .then((json) => {
-    let announcementDiv = document.querySelector(
+    let coursesDiv = document.querySelector(
       "#courses > div > div > div.services-items"
     );
     for (let p of json.courses) {
-      announcementDiv.insertAdjacentHTML(
+      coursesDiv.insertAdjacentHTML(
         "beforeend",
         `<div class="service-item scroll-animation" data-animation="fade_from_bottom">
         <span class="date">${p.startsDate + " ~ " + p.endDate}</span>

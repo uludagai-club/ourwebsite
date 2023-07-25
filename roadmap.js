@@ -1,11 +1,11 @@
 fetch("./data/roadmaps.json")
 .then((response) => response.json())
 .then((json) => {
-  let announcementDiv = document.querySelector(
+  let roadmapsDiv = document.querySelector(
     "#announcements > div > div > div.services-items"
   );
   for (let p of json.roadmaps) {
-    announcementDiv.insertAdjacentHTML(
+    roadmapsDiv.insertAdjacentHTML(
       "beforeend",
       `<div class="service-item scroll-animation" data-animation="fade_from_bottom">
       <h2><a href = "#${p.name}">${p.name}</a></h2>
@@ -17,11 +17,11 @@ fetch("./data/roadmaps.json")
 fetch("./data/roadmaps.json")
 .then((response) => response.json())
 .then((json) => {
-  let announcementDiv = document.querySelector(
+  let roadmapsDiv2 = document.querySelector(
     "#roadmaps > div > div > div.services-items"
   );
   for (let p of json.roadmaps) {
-    announcementDiv.insertAdjacentHTML(
+    roadmapsDiv2.insertAdjacentHTML(
       "beforeend",
       `<div class="service-item scroll-animation" data-animation="fade_from_bottom" id="${p.name}">
       <span class="date"><h1>${p.name}</h2></span>
@@ -29,7 +29,7 @@ fetch("./data/roadmaps.json")
     );
 
     for(let i = 0; i < p.topics.length ; i++){
-      announcementDiv.insertAdjacentHTML(
+      roadmapsDiv2.insertAdjacentHTML(
         "beforeend",
         `
         <div class="roadmap-item scroll-animation" data-level="A">
@@ -38,7 +38,7 @@ fetch("./data/roadmaps.json")
         `
       );
       for(let j = 0; j < p.topics[i].subtopics.length ; j++){
-        announcementDiv.insertAdjacentHTML(
+        roadmapsDiv2.insertAdjacentHTML(
           "beforeend",
           `
           <div class="topic-item scroll-animation" data-level="B">
