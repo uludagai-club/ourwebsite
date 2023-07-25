@@ -1,365 +1,304 @@
 <!DOCTYPE html>
 <html lang="tr">
-  <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Yapay Zeka Topluluğu</title>
-    <script src="assets/js/jquery.js" async></script>
-    <script src="assets/js/gsap.min.js" async></script>
-    <script src="./roadmap.js" async></script>
-    <link rel="icon" type="image/x-icon" href="assets/images/favicon.png" />
 
-    <!-- Font -->
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link
-      href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap"
-      rel="stylesheet"
-    />
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Yapay Zeka Topluluğu</title>
+  <script src="./assets/js/jquery.js" async></script>
+  <script src="./assets/js/gsap.min.js" async></script>
+  <script src="./js/roadmap.js" async></script>
+  <link rel="icon" type="image/x-icon" href="./assets/images/favicon.png" />
 
-    <!-- Stylesheet -->
-    <link
-      rel="stylesheet"
-      href="https://maxst.icons8.com/vue-static/landings/line-awesome/line-awesome/1.3.0/css/line-awesome.min.css"
-    />
-    <link href="assets/css/bootstrap.min.css" rel="stylesheet" />
-    <link rel="stylesheet" href="assets/css/owl.carousel.min.css" />
-    <link rel="stylesheet" href="assets/css/owl.theme.default.min.css" />
-    <link rel="stylesheet" href="assets/css/animate.min.css" />
-    <link rel="stylesheet" href="assets/css/smooth-scrollbar.css" />
-    <link rel="stylesheet" href="assets/css/lightbox.min.css" />
-    <link rel="stylesheet" href="assets/css/roadmap.css" />
-    <link rel="stylesheet" href="assets/css/style.css" />
-    <link rel="stylesheet" href="assets/css/responsive.css" />
+  <!-- Font -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap"
+    rel="stylesheet" />
+  <!-- Stylesheet -->
+  <link rel="stylesheet"
+    href="https://maxst.icons8.com/vue-static/landings/line-awesome/line-awesome/1.3.0/css/line-awesome.min.css" />
+  <link href="./assets/css/bootstrap.min.css" rel="stylesheet" />
+  <link rel="stylesheet" href="./assets/css/owl.carousel.min.css" />
+  <link rel="stylesheet" href="./assets/css/owl.theme.default.min.css" />
+  <link rel="stylesheet" href="./assets/css/animate.min.css" />
+  <link rel="stylesheet" href="./assets/css/smooth-scrollbar.css" />
+  <link rel="stylesheet" href="./assets/css/lightbox.min.css" />
+  <link rel="stylesheet" href="./assets/css/roadmap.css" />
+  <link rel="stylesheet" href="./assets/css/style.css" />
+  <link rel="stylesheet" href="./assets/css/responsive.css" />
 
-  </head>
-  <body class="home1-page">
-    <video class="body-overlay" muted autoplay loop>
-      <source src="assets/images/video1.mp4" type="video/mp4" />
-    </video>
+</head>
 
-    <div class="page-loader">
-      <div class="bounceball"></div>
-    </div>
+<body class="home1-page">
+  <video class="body-overlay" muted autoplay loop>
+    <source src="./assets/images/video1.mp4" type="video/mp4" />
+  </video>
 
-    <span class="icon-menu">
-      <span class="bar"></span>
-      <span class="bar"></span>
-    </span>
+  <div class="page-loader">
+    <div class="bounceball"></div>
+  </div>
 
-    <div class="responsive-sidebar-menu">
-      <div class="overlay"></div>
-      <div class="sidebar-menu-inner">
-        <div class="menu-wrap">
-          <p>Menu</p>
-          <ul class="menu scroll-nav-responsive d-flex">
-            <li>
-              <a class="scroll-to" href="index.html#home">
-                <i class="las la-home"></i> <span>Anasayfa</span>
-              </a>
-            </li>
-            <li>
-              <a class="scroll-to" href="index.html#about">
-                <i class="lar la-user"></i> <span>Hakkımızda</span>
-              </a>
-            </li>
-            <li>
-              <a class="scroll-to" href="index.html#resume">
-                <i class="las la-briefcase"></i> <span>Eğitimlerimiz</span>
-              </a>
-            </li>
-            <li>
-              <a class="scroll-to" href="index.html#services">
-                <i class="las la-stream"></i> <span>Projelerimiz</span>
-              </a>
-            </li>
-            <li>
-              <a class="scroll-to" href="index.html#skills">
-                <i class="las la-shapes"></i> <span>Takımlarımız</span>
-              </a>
-            </li>
-            <li>
-              <a class="scroll-to" href="index.html#portfolio">
-                <i class="las la-grip-vertical"></i>
-                <span>Etkinliklerimiz</span>
-              </a>
-            </li>
-            <li>
-              <a class="scroll-to" href="index.html#testimonial">
-                <i class="lar la-comment"></i> <span>Sponsorlarımız</span>
-              </a>
-            </li>
-            <li>
-              <a class="scroll-to" href="index.html#contact">
-                <i class="las la-envelope"></i> <span>İletişim</span>
-              </a>
-            </li>
-          </ul>
-        </div>
+  <span class="icon-menu">
+    <span class="bar"></span>
+    <span class="bar"></span>
+  </span>
 
-        <div class="sidebar-social">
-          <p>Social</p>
-          <ul class="social-links d-flex align-items-center">
-            <li>
-              <a href="https://www.youtube.com/@uludagaiclub" target="_blank"
-                ><i class="lab la-youtube"></i
-              ></a>
-            </li>
-            <li>
-              <a
-                href="https://www.linkedin.com/company/uludag-universitesi-yapay-zeka-toplulugu/"
-                target="_blank"
-                ><i class="lab la-linkedin"></i
-              ></a>
-            </li>
-            <li>
-              <a href="https://github.com/uludagai-club" target="_blank"
-                ><i class="lab la-github"></i
-              ></a>
-            </li>
-            <li>
-              <a href="https://www.instagram.com/uludagaiclub/" target="_blank"
-                ><i class="lab la-instagram"></i
-              ></a>
-            </li>
-          </ul>
-        </div>
+  <div class="responsive-sidebar-menu">
+    <div class="overlay"></div>
+    <div class="sidebar-menu-inner">
+      <div class="menu-wrap">
+        <p>Menu</p>
+        <ul class="menu scroll-nav-responsive d-flex">
+          <li>
+            <a class="scroll-to" href="index.html#home">
+              <i class="las la-home"></i> <span>Anasayfa</span>
+            </a>
+          </li>
+          <li>
+            <a class="scroll-to" href="index.html#about">
+              <i class="lar la-user"></i> <span>Hakkımızda</span>
+            </a>
+          </li>
+          <li>
+            <a class="scroll-to" href="index.html#resume">
+              <i class="las la-briefcase"></i> <span>Eğitimlerimiz</span>
+            </a>
+          </li>
+          <li>
+            <a class="scroll-to" href="index.html#services">
+              <i class="las la-stream"></i> <span>Projelerimiz</span>
+            </a>
+          </li>
+          <li>
+            <a class="scroll-to" href="index.html#skills">
+              <i class="las la-shapes"></i> <span>Takımlarımız</span>
+            </a>
+          </li>
+          <li>
+            <a class="scroll-to" href="index.html#portfolio">
+              <i class="las la-grip-vertical"></i>
+              <span>Etkinliklerimiz</span>
+            </a>
+          </li>
+          <li>
+            <a class="scroll-to" href="index.html#testimonial">
+              <i class="lar la-comment"></i> <span>Sponsorlarımız</span>
+            </a>
+          </li>
+          <li>
+            <a class="scroll-to" href="index.html#contact">
+              <i class="las la-envelope"></i> <span>İletişim</span>
+            </a>
+          </li>
+        </ul>
+      </div>
+
+      <div class="sidebar-social">
+        <p>Social</p>
+        <ul class="social-links d-flex align-items-center">
+          <li>
+            <a href="https://www.youtube.com/@uludagaiclub" target="_blank"><i class="lab la-youtube"></i></a>
+          </li>
+          <li>
+            <a href="https://www.linkedin.com/company/uludag-universitesi-yapay-zeka-toplulugu/" target="_blank"><i
+                class="lab la-linkedin"></i></a>
+          </li>
+          <li>
+            <a href="https://github.com/uludagai-club" target="_blank"><i class="lab la-github"></i></a>
+          </li>
+          <li>
+            <a href="https://www.instagram.com/uludagaiclub/" target="_blank"><i class="lab la-instagram"></i></a>
+          </li>
+        </ul>
       </div>
     </div>
+  </div>
 
-    <ul class="menu scroll-nav d-flex">
+  <ul class="menu scroll-nav d-flex">
+    <li>
+      <a class="scroll-to" href="index.html#home">
+        <span>Anasayfa</span> <i class="las la-home"></i>
+      </a>
+    </li>
+    <li>
+      <a class="scroll-to" href="index.html#about">
+        <span>Hakkımızda</span> <i class="lar la-user"></i>
+      </a>
+    </li>
+    <li>
+      <a class="scroll-to" href="index.html#resume">
+        <span>Projelerimiz</span> <i class="las la-briefcase"></i>
+      </a>
+    </li>
+    <li>
+      <a href="index.html#services">
+        <span>Eğitimlerimiz</span> <i class="las la-stream"></i>
+      </a>
+    </li>
+    <li>
+      <a class="scroll-to" href="index.html#skills">
+        <span>Takımlarımız</span> <i class="las la-shapes"></i>
+      </a>
+    </li>
+    <li>
+      <a class="scroll-to" href="index.html#portfolio">
+        <span>Etkinliklerimiz</span> <i class="las la-grip-vertical"></i>
+      </a>
+    </li>
+    <li>
+      <a class="scroll-to" href="index.html#testimonial">
+        <span>Sponsorlarımız</span> <i class="lar la-comment"></i>
+      </a>
+    </li>
+    <li>
+      <a class="scroll-to" href="index.html#contact">
+        <span>İletişim</span> <i class="las la-envelope"></i>
+      </a>
+    </li>
+  </ul>
+
+  <div class="left-sidebar">
+    <div class="sidebar-header d-flex align-items-center justify-content-between">
+      <!-- <img src="./assets/images/yztlogotext.png" alt="Logo"> -->
+      <span class="designation">&nbsp;&nbsp; Yapay Zeka Topluluğu</span>
+    </div>
+    <img class="me" src="./assets/images/yzttransparan.png" alt="YZT" />
+    <h2 class="address">Bursa Uludağ Üniversitesi</h2>
+    <!-- <p class="copyright">Yapay Zeka Topluluğu</p> -->
+    <ul class="social-profile d-flex align-items-center flex-wrap justify-content-center">
       <li>
-        <a class="scroll-to" href="index.html#home">
-          <span>Anasayfa</span> <i class="las la-home"></i>
-        </a>
+        <a href="https://www.youtube.com/@uludagaiclub" target="_blank"><i class="lab la-youtube"></i></a>
       </li>
       <li>
-        <a class="scroll-to" href="index.html#about">
-          <span>Hakkımızda</span> <i class="lar la-user"></i>
-        </a>
+        <a href="https://www.linkedin.com/company/uludag-universitesi-yapay-zeka-toplulugu/" target="_blank"><i
+            class="lab la-linkedin"></i></a>
       </li>
       <li>
-        <a class="scroll-to" href="index.html#resume">
-          <span>Projelerimiz</span> <i class="las la-briefcase"></i>
-        </a>
+        <a href="https://www.instagram.com/uludagaiclub/" target="_blank"><i class="lab la-instagram"></i></a>
       </li>
       <li>
-        <a href="index.html#services">
-          <span>Eğitimlerimiz</span> <i class="las la-stream"></i>
-        </a>
-      </li>
-      <li>
-        <a class="scroll-to" href="index.html#skills">
-          <span>Takımlarımız</span> <i class="las la-shapes"></i>
-        </a>
-      </li>
-      <li>
-        <a class="scroll-to" href="index.html#portfolio">
-          <span>Etkinliklerimiz</span> <i class="las la-grip-vertical"></i>
-        </a>
-      </li>
-      <li>
-        <a class="scroll-to" href="index.html#testimonial">
-          <span>Sponsorlarımız</span> <i class="lar la-comment"></i>
-        </a>
-      </li>
-      <li>
-        <a class="scroll-to" href="index.html#contact">
-          <span>İletişim</span> <i class="las la-envelope"></i>
-        </a>
+        <a href="https://github.com/uludagai-club" target="_blank"><i class="lab la-github"></i></a>
       </li>
     </ul>
+    <a href="index.html" target="_blank" class="theme-btn">
+      <i class="las la la-puzzle-piece"></i> Ana Sayfa
+    </a>
+  </div>
 
-    <div class="left-sidebar">
-      <div
-        class="sidebar-header d-flex align-items-center justify-content-between"
-      >
-        <!-- <img src="assets/images/yztlogotext.png" alt="Logo"> -->
-        <span class="designation">&nbsp;&nbsp; Yapay Zeka Topluluğu</span>
+  <main class="drake-main">
+    <div id="smooth-wrapper">
+      <div id="smooth-content">
+        <div class="left-sidebar">
+          <div class="sidebar-header d-flex align-items-center justify-content-between">
+            <!-- <img src="./assets/images/yztlogotext.png" alt="Logo"> -->
+            <span class="designation">&nbsp; &nbsp; Yapay Zeka Topluluğu</span>
+          </div>
+          <img class="me" src="./assets/images/yzttransparan.png" alt="YZT" />
+          <h2 class="address">Bursa Uludağ Üniversitesi</h2>
+          <!-- <p class="copyright">Yapay Zeka Topluluğu</p> -->
+          <ul class="social-profile d-flex align-items-center flex-wrap justify-content-center">
+            <li>
+              <a href="https://www.youtube.com/@uludagaiclub" target="_blank"><i class="lab la-youtube"></i></a>
+            </li>
+            <li>
+              <a href="https://www.linkedin.com/company/uludag-universitesi-yapay-zeka-toplulugu/" target="_blank"><i
+                  class="lab la-linkedin"></i></a>
+            </li>
+            <li>
+              <a href="https://www.instagram.com/uludagaiclub/" target="_blank"><i class="lab la-instagram"></i></a>
+            </li>
+            <li>
+              <a href="https://github.com/uludagai-club" target="_blank"><i class="lab la-github"></i></a>
+            </li>
+          </ul>
+          <a href="https://linktr.ee/uludagaiclub" target="_blank" class="theme-btn">
+            <i class="las la-envelope"></i> Bize Katıl!
+          </a>
+        </div>
+        <section class="services-area page-section scroll-to-page" id="announcements">
+          <div class="custom-container">
+            <div class="services-content content-width">
+              <div class="section-header">
+                <h4 class="subtitle scroll-animation" data-animation="fade_from_bottom">
+                  <i class="las la-stream"></i> İçindekiler
+                </h4>
+                <h1 class="scroll-animation" data-animation="fade_from_bottom">
+                  <span>İçindekiler</span>
+                </h1>
+              </div>
+
+              <div class="services-items">
+                <!-- <div
+                    class="service-item scroll-animation"
+                    data-animation="fade_from_bottom"
+                  >
+                    <i class="las la-bezier-curve"></i>
+                    <h2>Website Design</h2>
+                    <p>
+                      I created digital products with unique ideas use Figma &
+                      Framer
+                    </p>
+                    <span class="date">24 Projects</span>
+                  </div> -->
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <section class="services-area page-section scroll-to-page" id="roadmaps">
+          <div class="custom-container">
+            <div class="services-content content-width">
+              <div class="section-header">
+                <h4 class="subtitle scroll-animation" data-animation="fade_from_bottom">
+                  <i class="las la-stream"></i> Roadmaps
+                </h4>
+                <h1 class="scroll-animation" data-animation="fade_from_bottom">
+                  <span>Roadmaps</span>
+                </h1>
+              </div>
+
+              <div class="services-items">
+                <!-- <div
+                    class="service-item scroll-animation"
+                    data-animation="fade_from_bottom"
+                  >
+                    <i class="las la-bezier-curve"></i>
+                    <h2>Website Design</h2>
+                    <p>
+                      I created digital products with unique ideas use Figma &
+                      Framer
+                    </p>
+                    <span class="date">24 Projects</span>
+                  </div> -->
+              </div>
+            </div>
+          </div>
+        </section>
+
+
+
+
       </div>
-      <img class="me" src="assets/images/yzttransparan.png" alt="YZT" />
-      <h2 class="address">Bursa Uludağ Üniversitesi</h2>
-      <!-- <p class="copyright">Yapay Zeka Topluluğu</p> -->
-      <ul
-        class="social-profile d-flex align-items-center flex-wrap justify-content-center"
-      >
-        <li>
-          <a href="https://www.youtube.com/@uludagaiclub" target="_blank"
-            ><i class="lab la-youtube"></i
-          ></a>
-        </li>
-        <li>
-          <a
-            href="https://www.linkedin.com/company/uludag-universitesi-yapay-zeka-toplulugu/"
-            target="_blank"
-            ><i class="lab la-linkedin"></i
-          ></a>
-        </li>
-        <li>
-          <a href="https://www.instagram.com/uludagaiclub/" target="_blank"
-            ><i class="lab la-instagram"></i
-          ></a>
-        </li>
-        <li>
-          <a href="https://github.com/uludagai-club" target="_blank"
-            ><i class="lab la-github"></i
-          ></a>
-        </li>
-      </ul>
-      <a
-        href="index.html"
-        target="_blank"
-        class="theme-btn"
-      >
-        <i class="las la la-puzzle-piece"></i> Ana Sayfa
+    </div>
+    <div class=".go-to-project-btn fixed-bottom-right">
+      <a href="#announcements" class="go-to-project-btn scroll-to scroll-animation">
+        <img src="./assets/images/round-yzt.png" alt="Rounded text" />
+        <i class="las la-arrow-up"></i>
       </a>
     </div>
+  </main>
 
-    <main class="drake-main">
-      <div id="smooth-wrapper">
-        <div id="smooth-content">
-          <div class="left-sidebar">
-            <div
-              class="sidebar-header d-flex align-items-center justify-content-between"
-            >
-              <!-- <img src="assets/images/yztlogotext.png" alt="Logo"> -->
-              <span class="designation"
-                >&nbsp; &nbsp; Yapay Zeka Topluluğu</span
-              >
-            </div>
-            <img class="me" src="assets/images/yzttransparan.png" alt="YZT" />
-            <h2 class="address">Bursa Uludağ Üniversitesi</h2>
-            <!-- <p class="copyright">Yapay Zeka Topluluğu</p> -->
-            <ul
-              class="social-profile d-flex align-items-center flex-wrap justify-content-center"
-            >
-              <li>
-                <a href="https://www.youtube.com/@uludagaiclub" target="_blank"
-                  ><i class="lab la-youtube"></i
-                ></a>
-              </li>
-              <li>
-                <a
-                  href="https://www.linkedin.com/company/uludag-universitesi-yapay-zeka-toplulugu/"
-                  target="_blank"
-                  ><i class="lab la-linkedin"></i
-                ></a>
-              </li>
-              <li>
-                <a
-                  href="https://www.instagram.com/uludagaiclub/"
-                  target="_blank"
-                  ><i class="lab la-instagram"></i
-                ></a>
-              </li>
-              <li>
-                <a href="https://github.com/uludagai-club" target="_blank"
-                  ><i class="lab la-github"></i
-                ></a>
-              </li>
-            </ul>
-            <a
-              href="https://linktr.ee/uludagaiclub"
-              target="_blank"
-              class="theme-btn"
-            >
-              <i class="las la-envelope"></i> Bize Katıl!
-            </a>
-          </div>
-          <section
-            class="services-area page-section scroll-to-page"
-            id="announcements"
-          >
-            <div class="custom-container">
-              <div class="services-content content-width">
-                <div class="section-header">
-                  <h4
-                    class="subtitle scroll-animation"
-                    data-animation="fade_from_bottom"
-                  >
-                    <i class="las la-stream"></i> İçindekiler
-                  </h4>
-                  <h1
-                    class="scroll-animation"
-                    data-animation="fade_from_bottom"
-                  >
-                    <span>İçindekiler</span>
-                  </h1>
-                </div>
+  <script src="./assets/js/bootstrap.bundle.min.js" async></script>
+  <script src="./assets/js/owl.carousel.js" async></script>
+  <script src="./assets/js/ScrollTrigger.min.js" async></script>
+  <script src="./assets/js/ScrollToPlugin.min.js" async></script>
+  <script src="./assets/js/lightbox.min.js" async></script>
 
-                <div class="services-items">
-                  <!-- <div
-                    class="service-item scroll-animation"
-                    data-animation="fade_from_bottom"
-                  >
-                    <i class="las la-bezier-curve"></i>
-                    <h2>Website Design</h2>
-                    <p>
-                      I created digital products with unique ideas use Figma &
-                      Framer
-                    </p>
-                    <span class="date">24 Projects</span>
-                  </div> -->
-                </div>
-              </div>
-            </div>
-          </section>
+  <script src="./assets/js/main.js" async></script>
+  <script src="./assets/js/ajax-form.js" async></script>
+  <script src="./assets/js/color.js" async></script>
+</body>
 
-          <section
-            class="services-area page-section scroll-to-page"
-            id="roadmaps"
-          >
-            <div class="custom-container">
-              <div class="services-content content-width">
-                <div class="section-header">
-                  <h4
-                    class="subtitle scroll-animation"
-                    data-animation="fade_from_bottom"
-                  >
-                    <i class="las la-stream"></i> Roadmaps
-                  </h4>
-                  <h1
-                    class="scroll-animation"
-                    data-animation="fade_from_bottom"
-                  >
-                    <span>Roadmaps</span>
-                  </h1>
-                </div>
-
-                <div class="services-items">
-                  <!-- <div
-                    class="service-item scroll-animation"
-                    data-animation="fade_from_bottom"
-                  >
-                    <i class="las la-bezier-curve"></i>
-                    <h2>Website Design</h2>
-                    <p>
-                      I created digital products with unique ideas use Figma &
-                      Framer
-                    </p>
-                    <span class="date">24 Projects</span>
-                  </div> -->
-                </div>
-              </div>
-            </div>
-          </section>
-
-
-          
-          
-        </div>
-      </div>
-    </main>
-
-    <script src="assets/js/bootstrap.bundle.min.js" async></script>
-    <script src="assets/js/owl.carousel.js" async></script>
-    <script src="assets/js/ScrollTrigger.min.js" async></script>
-    <script src="assets/js/ScrollToPlugin.min.js" async></script>
-    <script src="assets/js/lightbox.min.js" async></script>
-
-    <script src="assets/js/main.js" async></script>
-    <script src="assets/js/ajax-form.js" async></script>
-    <script src="assets/js/color.js" async></script>
-  </body>
 </html>

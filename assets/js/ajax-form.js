@@ -1,4 +1,4 @@
-<script src="jquery.js"></script>
+{/* <script src="jquery.js"></script> */}
 (function ($) {
     'use strict';
     var form = $('.contact-form'),
