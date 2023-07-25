@@ -3,6 +3,359 @@
     "type": "folder",
     "children": [
         {
+            "name": "Genel Konular",
+            "type": "folder",
+            "children": [
+                {
+                    "name": "Algoritma Mantığı",
+                    "type": "folder",
+                    "children": []
+                },
+                {
+                    "name": "Programlama Mantığı",
+                    "type": "folder",
+                    "children": []
+                },
+                {
+                    "name": "Programlama Dili",
+                    "type": "folder",
+                    "children": [
+                        {
+                            "name": "Python",
+                            "type": "folder",
+                            "children": [
+                                {
+                                    "name": "1 Videoda Python - OOP",
+                                    "type": "url",
+                                    "url": "https://www.youtube.com/watch?v=XD2yLGZVUzI&list=PLXuv2PShkuHwGWVVBIffQYJGFLL-lGqsY&index=25"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Cpp",
+                            "type": "folder",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Yazılım Geliştirme Araçları",
+                    "type": "folder",
+                    "children": [
+                        {
+                            "name": "Visual Studio Code",
+                            "type": "folder",
+                            "children": []
+                        },
+                        {
+                            "name": "Jupyter Notebook",
+                            "type": "folder",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Matematik",
+                    "type": "folder",
+                    "children": [
+                        {
+                            "name": "Cebir",
+                            "type": "folder",
+                            "children": [
+                                {
+                                    "name": "Veri Bilimi için Matematik",
+                                    "type": "url",
+                                    "url": "https://coursera.pxf.io/KeY6G7"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Cebir-2",
+                            "type": "folder",
+                            "children": [
+                                {
+                                    "name": "Veri Bilimi için Matematik Becerileri",
+                                    "type": "url",
+                                    "url": "https://coursera.pxf.io/x9qqm1"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Lineer Cebir",
+                            "type": "folder",
+                            "children": [
+                                {
+                                    "name": "Linner Cebire Giriş",
+                                    "type": "url",
+                                    "url": "https://imp.i115008.net/ORBjyr"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "İstatistik & Olasılık",
+                            "type": "folder",
+                            "children": [
+                                {
+                                    "name": "İstatistik Giriş",
+                                    "type": "url",
+                                    "url": "https://www.udacity.com/course/intro-to-statistics--st101?irclickid=2bV0wg2JtxyPT1IyXUS9p1tJUkFwjbUhEXBtUk0&irgwc=1&utm_source=affiliate&utm_medium=&aff=2406137&utm_term=&utm_campaign=__&utm_content=&adid=786224"
+                                },
+                                {
+                                    "name": "Temel İstatistik",
+                                    "type": "url",
+                                    "url": "https://imp.i115008.net/ORBjyr"
+                                },
+                                {
+                                    "name": "İstatistik & Olasılık",
+                                    "type": "url",
+                                    "url": "https://www.khanacademy.org/math/statistics-probability"
+                                },
+                                {
+                                    "name": "Veri Bilimi: İStatistik ve Makine Öğrenmesi ",
+                                    "type": "url",
+                                    "url": "https://coursera.pxf.io/MXYqYY"
+                                },
+                                {
+                                    "name": "Veri Bilimi için İstatistik",
+                                    "type": "url",
+                                    "url": "https://youtu.be/Vfo5le26IhY"
+                                },
+                                {
+                                    "name": "",
+                                    "type": "url",
+                                    "url": ""
+                                },
+                                {
+                                    "name": "",
+                                    "type": "url",
+                                    "url": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Python Kütüphaneleri",
+                    "type": "folder",
+                    "children": [
+                        {
+                            "name": "Time",
+                            "type": "folder",
+                            "children": []
+                        },
+                        {
+                            "name": "Os",
+                            "type": "folder",
+                            "children": []
+                        },
+                        {
+                            "name": "Threading",
+                            "type": "folder",
+                            "children": []
+                        },
+                        {
+                            "name": "Numpy",
+                            "type": "folder",
+                            "children": []
+                        },
+                        {
+                            "name": "Pandas",
+                            "type": "folder",
+                            "children": []
+                        },
+                        {
+                            "name": "Matplotlib",
+                            "type": "folder",
+                            "children": []
+                        },
+                        {
+                            "name": "Seaborn",
+                            "type": "folder",
+                            "children": []
+                        },
+                        {
+                            "name": "OpenCV",
+                            "type": "folder",
+                            "children": []
+                        },
+                        {
+                            "name": "Keras",
+                            "type": "folder",
+                            "children": []
+                        },
+                        {
+                            "name": "Scikit-Learn",
+                            "type": "folder",
+                            "children": []
+                        },
+                        {
+                            "name": "Tensorflow",
+                            "type": "folder",
+                            "children": [
+                                {
+                                    "name": "TensorFlow ile İleri Seviye Bilgisayarlı Görü",
+                                    "type": "url",
+                                    "url": "https://imp.i115008.net/NKkmQP"
+                                },
+                                {
+                                    "name": "GCP üzerinde Tensorflowla Görüntü Anlama",
+                                    "type": "url",
+                                    "url": "https://coursera.pxf.io/rn1Y7Q"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Pytorch",
+                            "type": "folder",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Git/Github",
+                    "type": "folder",
+                    "children": []
+                },
+                {
+                    "name": "Veri Yapıları",
+                    "type": "folder",
+                    "children": [
+                        {
+                            "name": "Linked List",
+                            "type": "folder",
+                            "children": []
+                        },
+                        {
+                            "name": "Stack",
+                            "type": "folder",
+                            "children": []
+                        },
+                        {
+                            "name": "Queue",
+                            "type": "folder",
+                            "children": []
+                        },
+                        {
+                            "name": "Binary Tree",
+                            "type": "folder",
+                            "children": []
+                        },
+                        {
+                            "name": "Heap",
+                            "type": "folder",
+                            "children": []
+                        },
+                        {
+                            "name": "Hash",
+                            "type": "folder",
+                            "children": []
+                        },
+                        {
+                            "name": "Graph",
+                            "type": "folder",
+                            "children": []
+                        },
+                        {
+                            "name": "AVL Tree",
+                            "type": "folder",
+                            "children": []
+                        },
+                        {
+                            "name": "B/B+ Tree",
+                            "type": "folder",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Arama ve Sıralama Algoritmaları",
+                    "type": "folder",
+                    "children": [
+                        {
+                            "name": "Linear Search",
+                            "type": "folder",
+                            "children": []
+                        },
+                        {
+                            "name": "Binary Search",
+                            "type": "folder",
+                            "children": []
+                        },
+                        {
+                            "name": "Ternary Search",
+                            "type": "folder",
+                            "children": []
+                        },
+                        {
+                            "name": "Jump Search",
+                            "type": "folder",
+                            "children": []
+                        },
+                        {
+                            "name": "Interpolation Search",
+                            "type": "folder",
+                            "children": []
+                        },
+                        {
+                            "name": "Selection Sort",
+                            "type": "folder",
+                            "children": []
+                        },
+                        {
+                            "name": "Bubble Sort",
+                            "type": "folder",
+                            "children": []
+                        },
+                        {
+                            "name": "Insertion Sort",
+                            "type": "folder",
+                            "children": []
+                        },
+                        {
+                            "name": "Merge Sort",
+                            "type": "folder",
+                            "children": []
+                        },
+                        {
+                            "name": "Quick Sort",
+                            "type": "folder",
+                            "children": []
+                        },
+                        {
+                            "name": "Heap Sort",
+                            "type": "folder",
+                            "children": []
+                        },
+                        {
+                            "name": "Counting Sort",
+                            "type": "folder",
+                            "children": []
+                        },
+                        {
+                            "name": "Radix Sort",
+                            "type": "folder",
+                            "children": []
+                        },
+                        {
+                            "name": "Bucket Sort",
+                            "type": "folder",
+                            "children": []
+                        },
+                        {
+                            "name": "BFS",
+                            "type": "folder",
+                            "children": []
+                        },
+                        {
+                            "name": "DFS",
+                            "type": "folder",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "name": "Makine Öğrenmesi",
             "type": "folder",
             "children": [

@@ -1295,6 +1295,18 @@ body .body-overlay {
     text-decoration: underline;
 }
 
+.linktr .info {
+    text-align: center;
+    font-size: 14px;
+    color: #fff;
+    line-height: 24px;
+    margin: 30px 0 0 0;
+}
+.linktr .info a {
+    color: var(--primary_color);
+    text-decoration: underline;
+}
+
 
 
 /* 18 - Contact */
