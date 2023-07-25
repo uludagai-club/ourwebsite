@@ -1,0 +1,74 @@
+.ana_baslik{
+list-style: circle;
+list-style-position: inside;
+}
+
+.alt_baslik{
+    list-style: square;
+    list-style-position: outside;
+}
+
+/* <html>
+<body>
+
+<h2>A Nested List</h2>
+<p>Lists can be nested (list inside list):</p>
+
+<ul>
+  <li>Coffee</li>
+  <li>Tea
+    <ul>
+      <li>Black tea</li>
+      <li>Green tea</li>
+    </ul>
+  </li>
+  <li>Milk</li>
+</ul>
+
+</body>
+</html> */
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    position: relative;
+    height: 100vh;
+    background-color: #f0f0f0;
+    padding: 20px;
+}
+
+#openSidebar {
+    cursor: pointer;
+    color: #007bff;
+    text-decoration: underline;
+}
+
+.sidebar {
+    position: fixed;
+    top: 0;
+    left: -250px;
+    width: 250px;
+    height: 100%;
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    transition: left 0.3s ease-in-out;
+}
+
+.sidebar a {
+    color: #fff;
+    text-decoration: none;
+    display: block;
+    margin-bottom: 10px;
+}
+
+#closeSidebar {
+    cursor: pointer;
+}
+
+.sidebar.open {
+    left: 0;
+}

@@ -141,22 +141,3 @@ fetch("./data/events.json")
       );
     }
   });
-
-  fetch("./data/roadmaps.json")
-  .then((response) => response.json())
-  .then((json) => {
-    let roadmapsDiv = document.querySelector(
-      "#roadmap > div > div > div.roadmap-treeview"
-    );
-    for (let p of json.roadmaps) {
-      roadmapsDiv.insertAdjacentHTML(
-        "beforeend",
-        `<div class="treeview__level" data-animation="fade_from_bottom">
-        <span class="title">${p.roadmap.name}</span>
-        <span class="location">${p.location}</span>
-        <h2>${p.name}</h2>
-        <p>${p.description}</p>
-    </div>`
-      );
-    }
-  });
