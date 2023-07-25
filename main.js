@@ -116,7 +116,7 @@ fetch("./data/events.json")
         "beforeend",
         `<div class="service-item scroll-animation" data-animation="fade_from_bottom">
         <span class="date">${p.startDate + " ~ " + p.endDate}</span>
-        <h2>${p.header}</h2>
+        <h2><a href = "${p.link}">${p.header}</a></h2>
         <p>${p.description}</p>
     </div>`
       );
