@@ -8,26 +8,6 @@ list-style-position: inside;
     list-style-position: outside;
 }
 
-/* <html>
-<body>
-
-<h2>A Nested List</h2>
-<p>Lists can be nested (list inside list):</p>
-
-<ul>
-  <li>Coffee</li>
-  <li>Tea
-    <ul>
-      <li>Black tea</li>
-      <li>Green tea</li>
-    </ul>
-  </li>
-  <li>Milk</li>
-</ul>
-
-</body>
-</html> */
-
 body {
     margin: 0;
     font-family: Arial, sans-serif;
@@ -71,4 +51,37 @@ body {
 
 .sidebar.open {
     left: 0;
+}
+
+.fixed-bottom-right {
+    position: fixed;
+    bottom: 20px;
+    right: 5%;
+    /* Dilediğiniz ölçüleri buradan ayarlayabilirsiniz */
+    z-index: 9999;
+    /* İhtiyaca göre z-index değerini ayarlayabilirsiniz */
+  }
+
+.go-to-project-btn {
+    width: 90px;
+    height: 90px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: auto;
+    border-radius: 50%;
+    border: 1px solid #575757;
+    position: relative;
+    overflow: hidden;
+    margin-right: 15px;
+}
+.go-to-project-btn img {
+    display: block;
+    animation: rotating 6s infinite linear;
+}
+.go-to-project-btn i {
+    position: absolute;
+    color: #fff;
+    font-size: 30px;
+    display: block;
 }
