@@ -1,6 +1,6 @@
 var margin = [0, 120, 20, 140],
-    width = 1280 - margin[1] - margin[3],
-    height = 800 - margin[0] - margin[2],
+    width = window.innerWidth,
+    height = 800,
     i = 0,
     duration = 1250,
     root;
@@ -12,10 +12,10 @@ var diagonal = d3.svg.diagonal()
     .projection(function(d) { return [d.y, d.x]; });
 
 var vis = d3.select("#body").append("svg:svg")
-    .attr("width", width + margin[1] + margin[3])
-    .attr("height", height + margin[0] + margin[2])
+    .attr("width", width)
+    .attr("height", height)
   .append("svg:g")
-    .attr("transform", "translate(" + margin[3] + "," + margin[0] + ")");
+    .attr("transform", "translate(200," + margin[0] + ")");
 
 d3.json("./data/roadmapv2.json", function(json) {
   root = json;
@@ -71,6 +71,7 @@ function update(source) {
 
   nodeEnter.append('a')
       .attr("target", "_blank")
+      .attr("href",function(d) { return d.url; })
       .attr('xlink:href', function(d) { return d.url; })
       .append("svg:text")
       .attr("x", function(d) { return d.children || d._children ? -10 : 10; })
