@@ -365,37 +365,38 @@
                     "children": [
                         {
                             "name": "Linear Regresyon",
-                            "type": "folder",
-                            "children": []
+                            "type": "url",
+                            "url":"https://www.bilimma.com/lineer-regresyon-nedir"
                         },
                         {
                             "name": "Ridge Regresyon",
-                            "type": "folder",
-                            "children": []
+                            "type": "url",
+                            "url": "https://medium.com/kaveai/ridge-ve-lasso-regresyonu-temel-matemati%C4%9Fi-ve-python-uygulamas%C4%B1yla-363916e32d8d"
                         },
                         {
                             "name": "Lasso Regresyon",
-                            "type": "folder",
-                            "children": []
+                            "type": "url",
+                            "url": "https://medium.com/kaveai/ridge-ve-lasso-regresyonu-temel-matemati%C4%9Fi-ve-python-uygulamas%C4%B1yla-363916e32d8d"
                         },
                         {
                             "name": "ElasticNet Regresyon",
-                            "type": "folder",
-                            "children": []
+                            "type": "url",
+                            "url": "https://bulutistan.com/blog/regresyon/"
                         },
                         {
                             "name": "K En Yakın Komşu",
-                            "type": "folder",
-                            "children": []
+                            "type": "url",
+                            "url": "https://www.miuul.com/not-defteri/k-en-yakin-komsu-algoritmasi-nasil-calisir"
                         },
                         {
                             "name": "Destek Vektör Regresyonu",
-                            "type": "folder",
-                            "children": []
+                            "type": "url",
+                            "url": "https://tr.linkedin.com/pulse/veri-bilimi-notlar%C4%B1-8-destek-vekt%C3%B6r-regresyonu-%C3%A7iftler"
                         },
                         {
                             "name": "Yapay Sinir Ağları",
                             "type": "folder",
+                            "url":"https://www.udemy.com/course/tpta-yapay-zeka-beyin-mr-goruntusunden-tumor-segmentasyonu/",
                             "children": [
                                 {
                                     "name": "Evrişimli Sİnir Ağları",
@@ -406,33 +407,33 @@
                         },
                         {
                             "name": "CART",
-                            "type": "folder",
-                            "children": []
+                            "type": "url",
+                            "url": ""
                         },
                         {
                             "name": "Random Forests",
-                            "type": "folder",
-                            "children": []
+                            "type": "url",
+                            "url": "https://medium.com/data-science-tr/makine-%C3%B6%C4%9Frenmesi-dersleri-5a-random-forest-regresyon-2a91715a8b66"
                         },
                         {
                             "name": "GBM",
-                            "type": "folder",
-                            "children": []
+                            "type": "url",
+                            "url": ""
                         },
                         {
                             "name": "XGBoost",
-                            "type": "folder",
-                            "children": []
+                            "type": "url",
+                            "url": "https://www.veribilimiokulu.com/xgboost-nasil-calisir/"
                         },
                         {
                             "name": "Light GBM",
-                            "type": "folder",
-                            "children": []
+                            "type": "url",
+                            "url": "https://learn.microsoft.com/tr-tr/fabric/data-science/lightgbm-overview"
                         },
                         {
                             "name": "CatBoost",
-                            "type": "folder",
-                            "children": []
+                            "type": "url",
+                            "url": "https://www.datasciencearth.com/boosting-algoritmalari/"
                         }
                     ]
                 },
@@ -442,18 +443,18 @@
                     "children": [
                         {
                             "name": "Lojistik Regresyon",
-                            "type": "folder",
-                            "children": []
+                            "type": "url",
+                            "url": "https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression"
                         },
                         {
                             "name": "K En Yakın Komşu",
-                            "type": "folder",
-                            "children": []
+                            "type": "url",
+                            "url": ""
                         },
                         {
                             "name": "Destek Vektör Makineleri",
-                            "type": "folder",
-                            "children": []
+                            "type": "url",
+                            "url": "https://scikit-learn.org/stable/modules/neighbors.html"
                         },
                         {
                             "name": "Yapay Sinir Ağları",
@@ -478,28 +479,28 @@
                         },
                         {
                             "name": "CART",
-                            "type": "folder",
-                            "children": []
+                            "type": "url",
+                            "url": ""
                         },
                         {
                             "name": "Random Forests GBM",
-                            "type": "folder",
-                            "children": []
+                            "type": "url",
+                            "url": "https://medium.com/data-science-tr/makine-%C3%B6%C4%9Frenmesi-dersleri-5a-random-forest-regresyon-2a91715a8b66"
                         },
                         {
                             "name": "XGBoost",
-                            "type": "folder",
-                            "children": []
+                            "type": "url",
+                            "url": "https://www.veribilimiokulu.com/xgboost-nasil-calisir/"
                         },
                         {
                             "name": "LightGBM",
-                            "type": "folder",
-                            "children": []
+                            "type": "url",
+                            "url": "https://learn.microsoft.com/tr-tr/fabric/data-science/lightgbm-overview"
                         },
                         {
                             "name": "CatBoos",
-                            "type": "folder",
-                            "children": []
+                            "type": "url",
+                            "url": "https://www.datasciencearth.com/boosting-algoritmalari/"
                         }
                     ]
                 },
