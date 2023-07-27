@@ -119,16 +119,6 @@
                                     "name": "Veri Bilimi için İstatistik",
                                     "type": "url",
                                     "url": "https://youtu.be/Vfo5le26IhY"
-                                },
-                                {
-                                    "name": "",
-                                    "type": "url",
-                                    "url": ""
-                                },
-                                {
-                                    "name": "",
-                                    "type": "url",
-                                    "url": ""
                                 }
                             ]
                         }
@@ -729,77 +719,42 @@
                             "name": "SGD",
                             "type": "folder",
                             "children": [
-                                {
-                                    "name": "",
-                                    "type": "url",
-                                    "url": ""
-                                }
                             ]
                         },
                         {
                             "name": "Momentum",
                             "type": "folder",
                             "children": [
-                                {
-                                    "name": "",
-                                    "type": "url",
-                                    "url": ""
-                                }
                             ]
                         },
                         {
                             "name": "Adam",
                             "type": "folder",
                             "children": [
-                                {
-                                    "name": "",
-                                    "type": "url",
-                                    "url": ""
-                                }
                             ]
                         },
                         {
                             "name": "AdaGrad",
                             "type": "folder",
                             "children": [
-                                {
-                                    "name": "",
-                                    "type": "url",
-                                    "url": ""
-                                }
                             ]
                         },
                         {
                             "name": "AdaDelta",
                             "type": "folder",
                             "children": [
-                                {
-                                    "name": "",
-                                    "type": "url",
-                                    "url": ""
-                                }
                             ]
                         },
                         {
                             "name": "Nadam",
                             "type": "folder",
                             "children": [
-                                {
-                                    "name": "",
-                                    "type": "url",
-                                    "url": ""
-                                }
                             ]
                         },
                         {
                             "name": "RMSProp",
                             "type": "folder",
                             "children": [
-                                {
-                                    "name": "",
-                                    "type": "url",
-                                    "url": ""
-                                }
                             ]
                         }
                     ]
@@ -812,55 +767,30 @@
                             "name": "Early stopping",
                             "type": "folder",
                             "children": [
-                                {
-                                    "name": "",
-                                    "type": "url",
-                                    "url": ""
-                                }
                             ]
                         },
                         {
                             "name": "Dropout",
                             "type": "folder",
                             "children": [
-                                {
-                                    "name": "",
-                                    "type": "url",
-                                    "url": ""
-                                }
                             ]
                         },
                         {
                             "name": "Parameter Penalties",
                             "type": "folder",
                             "children": [
-                                {
-                                    "name": "",
-                                    "type": "url",
-                                    "url": ""
-                                }
                             ]
                         },
                         {
                             "name": "Data Augmentation",
                             "type": "folder",
                             "children": [
-                                {
-                                    "name": "",
-                                    "type": "url",
-                                    "url": ""
-                                }
                             ]
                         },
                         {
                             "name": "Adversarial Training",
                             "type": "folder",
                             "children": [
-                                {
-                                    "name": "",
-                                    "type": "url",
-                                    "url": ""
-                                }
                             ]
                         }
                     ]
@@ -981,55 +911,30 @@
                             "name": "İleri ve Geri Yayılım",
                             "type": "folder",
                             "children": [
-                                {
-                                    "name": "",
-                                    "type": "url",
-                                    "url": ""
-                                }
                             ]
                         },
                         {
                             "name": "GRU",
                             "type": "folder",
                             "children": [
-                                {
-                                    "name": "",
-                                    "type": "url",
-                                    "url": ""
-                                }
                             ]
                         },
                         {
                             "name": "Bidirectional RNN",
                             "type": "folder",
                             "children": [
-                                {
-                                    "name": "",
-                                    "type": "url",
-                                    "url": ""
-                                }
                             ]
                         },
                         {
                             "name": "Deep RNN",
                             "type": "folder",
                             "children": [
-                                {
-                                    "name": "",
-                                    "type": "url",
-                                    "url": ""
-                                }
                             ]
                         },
                         {
                             "name": "Kapsül Ağları",
                             "type": "folder",
                             "children": [
-                                {
-                                    "name": "",
-                                    "type": "url",
-                                    "url": ""
-                                }
                             ]
                         },
                         {
@@ -1312,11 +1217,6 @@
                             "name": "Scikit-Learn",
                             "type": "folder",
                             "children": [
-                                {
-                                    "name": "",
-                                    "type": "url",
-                                    "url": ""
-                                }
                             ]
                         },
                         {
