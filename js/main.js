@@ -89,7 +89,7 @@ fetch("./data/events.json")
           e.type === "medium" ? "full" : "half"
         }">
             <div class="portfolio-item-inner">
-            <a href="assets/images/portfolio3.jpg" data-lightbox="example-1">
+            <a href="data/events/${e.imageURL}" data-lightbox="example-1">
                 <img src="data/events/${e.imageURL}" alt="Portfolio">
             </a>
 

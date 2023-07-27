@@ -15,7 +15,7 @@ var vis = d3.select("#body").append("svg:svg")
     .attr("width", width)
     .attr("height", height)
   .append("svg:g")
-    .attr("transform", "translate(200," + margin[0] + ")");
+    .attr("transform", "translate("+margin[1]+"," + margin[0] + ")");
 
 d3.json("./data/roadmapv2.json", function(json) {
   root = json;
