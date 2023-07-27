@@ -660,144 +660,54 @@
                     "name": "Gözetimli Öğrenme",
                     "type": "folder",
                     "children": [
-                        {
-                            "name": "",
-                            "type": "url",
-                            "url": ""
-                        },
-                        {
-                            "name": "",
-                            "type": "url",
-                            "url": ""
-                        }
                     ]
                 },
                 {
                     "name": "Gözetimsiz Öğrenme",
                     "type": "folder",
                     "children": [
-                        {
-                            "name": "",
-                            "type": "url",
-                            "url": ""
-                        },
-                        {
-                            "name": "",
-                            "type": "url",
-                            "url": ""
-                        }
                     ]
                 },
                 {
                     "name": "Aktivasyon Fonsksiyonları",
                     "type": "folder",
                     "children": [
-                        {
-                            "name": "",
-                            "type": "url",
-                            "url": ""
-                        },
-                        {
-                            "name": "",
-                            "type": "url",
-                            "url": ""
-                        }
                     ]
                 },
                 {
                     "name": "İleri Yayılım",
                     "type": "folder",
                     "children": [
-                        {
-                            "name": "",
-                            "type": "url",
-                            "url": ""
-                        },
-                        {
-                            "name": "",
-                            "type": "url",
-                            "url": ""
-                        }
                     ]
                 },
                 {
                     "name": "Geri Yayılım",
                     "type": "folder",
                     "children": [
-                        {
-                            "name": "",
-                            "type": "url",
-                            "url": ""
-                        },
-                        {
-                            "name": "",
-                            "type": "url",
-                            "url": ""
-                        }
                     ]
                 },
                 {
                     "name": "Hiperarametreler",
                     "type": "folder",
                     "children": [
-                        {
-                            "name": "",
-                            "type": "url",
-                            "url": ""
-                        },
-                        {
-                            "name": "",
-                            "type": "url",
-                            "url": ""
-                        }
                     ]
                 },
                 {
                     "name": "Learning Rate",
                     "type": "folder",
                     "children": [
-                        {
-                            "name": "",
-                            "type": "url",
-                            "url": ""
-                        },
-                        {
-                            "name": "",
-                            "type": "url",
-                            "url": ""
-                        }
                     ]
                 },
                 {
                     "name": "Batch Normalization",
                     "type": "folder",
                     "children": [
-                        {
-                            "name": "",
-                            "type": "url",
-                            "url": ""
-                        },
-                        {
-                            "name": "",
-                            "type": "url",
-                            "url": ""
-                        }
                     ]
                 },
                 {
                     "name": "Batch Size",
                     "type": "folder",
                     "children": [
-                        {
-                            "name": "",
-                            "type": "url",
-                            "url": ""
-                        },
-                        {
-                            "name": "",
-                            "type": "url",
-                            "url": ""
-                        }
                     ]
                 },
                 {
@@ -815,16 +725,6 @@
                     "name": "Optimizasyon",
                     "type": "folder",
                     "children": [
-                        {
-                            "name": "",
-                            "type": "url",
-                            "url": ""
-                        },
-                        {
-                            "name": "",
-                            "type": "url",
-                            "url": ""
-                        },
                         {
                             "name": "SGD",
                             "type": "folder",
@@ -909,16 +809,6 @@
                     "type": "folder",
                     "children": [
                         {
-                            "name": "",
-                            "type": "url",
-                            "url": ""
-                        },
-                        {
-                            "name": "",
-                            "type": "url",
-                            "url": ""
-                        },
-                        {
                             "name": "Early stopping",
                             "type": "folder",
                             "children": [
@@ -979,96 +869,36 @@
                     "name": "Gradient Descent",
                     "type": "folder",
                     "children": [
-                        {
-                            "name": "",
-                            "type": "url",
-                            "url": ""
-                        },
-                        {
-                            "name": "",
-                            "type": "url",
-                            "url": ""
-                        }
                     ]
                 },
                 {
                     "name": "Veri Arttırma",
                     "type": "folder",
                     "children": [
-                        {
-                            "name": "",
-                            "type": "url",
-                            "url": ""
-                        },
-                        {
-                            "name": "",
-                            "type": "url",
-                            "url": ""
-                        }
                     ]
                 },
                 {
                     "name": "Loss Fonksiyonları",
                     "type": "folder",
                     "children": [
-                        {
-                            "name": "",
-                            "type": "url",
-                            "url": ""
-                        },
-                        {
-                            "name": "",
-                            "type": "url",
-                            "url": ""
-                        }
                     ]
                 },
                 {
                     "name": "Vision,Audio,NLP features",
                     "type": "folder",
                     "children": [
-                        {
-                            "name": "",
-                            "type": "url",
-                            "url": ""
-                        },
-                        {
-                            "name": "",
-                            "type": "url",
-                            "url": ""
-                        }
                     ]
                 },
                 {
                     "name": "Encoder, Decoder, Autoencoder, Transformer",
                     "type": "folder",
                     "children": [
-                        {
-                            "name": "",
-                            "type": "url",
-                            "url": ""
-                        },
-                        {
-                            "name": "",
-                            "type": "url",
-                            "url": ""
-                        }
                     ]
                 },
                 {
                     "name": "ANN ve CNN",
                     "type": "folder",
                     "children": [
-                        {
-                            "name": "",
-                            "type": "url",
-                            "url": ""
-                        },
-                        {
-                            "name": "",
-                            "type": "url",
-                            "url": ""
-                        },
                         {
                             "name": "Bilgisayarlı Görü",
                             "type": "folder",
@@ -1109,66 +939,36 @@
                             "name": "Evrişim İşlemi",
                             "type": "folder",
                             "children": [
-                                {
-                                    "name": "",
-                                    "type": "url",
-                                    "url": ""
-                                }
                             ]
                         },
                         {
                             "name": "Padding",
                             "type": "folder",
                             "children": [
-                                {
-                                    "name": "",
-                                    "type": "url",
-                                    "url": ""
-                                }
                             ]
                         },
                         {
                             "name": "Stride",
                             "type": "folder",
                             "children": [
-                                {
-                                    "name": "",
-                                    "type": "url",
-                                    "url": ""
-                                }
                             ]
                         },
                         {
                             "name": "Pooling",
                             "type": "folder",
                             "children": [
-                                {
-                                    "name": "",
-                                    "type": "url",
-                                    "url": ""
-                                }
                             ]
                         },
                         {
                             "name": "Tensor nedir?",
                             "type": "folder",
                             "children": [
-                                {
-                                    "name": "",
-                                    "type": "url",
-                                    "url": ""
-                                }
                             ]
                         },
                         {
                             "name": "LeNet15, VGG16, ResNet",
                             "type": "folder",
                             "children": [
-                                {
-                                    "name": "",
-                                    "type": "url",
-                                    "url": ""
-                                }
                             ]
                         }
                     ]
@@ -1177,16 +977,6 @@
                     "name": "RNN LSTM GAN",
                     "type": "folder",
                     "children": [
-                        {
-                            "name": "",
-                            "type": "url",
-                            "url": ""
-                        },
-                        {
-                            "name": "",
-                            "type": "url",
-                            "url": ""
-                        },
                         {
                             "name": "İleri ve Geri Yayılım",
                             "type": "folder",
@@ -1370,16 +1160,6 @@
                     "type": "folder",
                     "children": [
                         {
-                            "name": "",
-                            "type": "url",
-                            "url": ""
-                        },
-                        {
-                            "name": "",
-                            "type": "url",
-                            "url": ""
-                        },
-                        {
                             "name": "Python",
                             "type": "folder",
                             "children": [
@@ -1454,11 +1234,6 @@
                             "name": "Cpp",
                             "type": "folder",
                             "children": [
-                                {
-                                    "name": "",
-                                    "type": "url",
-                                    "url": ""
-                                }
                             ]
                         }
                     ]
@@ -1534,16 +1309,6 @@
                     "type": "folder",
                     "children": [
                         {
-                            "name": "",
-                            "type": "url",
-                            "url": ""
-                        },
-                        {
-                            "name": "",
-                            "type": "url",
-                            "url": ""
-                        },
-                        {
                             "name": "Scikit-Learn",
                             "type": "folder",
                             "children": [
@@ -1615,22 +1380,12 @@
                             "name": "Theano",
                             "type": "folder",
                             "children": [
-                                {
-                                    "name": "",
-                                    "type": "url",
-                                    "url": ""
-                                }
                             ]
                         },
                         {
                             "name": "Caffe",
                             "type": "folder",
                             "children": [
-                                {
-                                    "name": "",
-                                    "type": "url",
-                                    "url": ""
-                                }
                             ]
                         }
                     ]
@@ -1645,52 +1400,27 @@
                             "url": "https://imp.i115008.net/NKkmQP"
                         },
                         {
-                            "name": "",
-                            "type": "url",
-                            "url": ""
-                        },
-                        {
                             "name": "ReLu",
                             "type": "folder",
                             "children": [
-                                {
-                                    "name": "",
-                                    "type": "url",
-                                    "url": ""
-                                }
                             ]
                         },
                         {
                             "name": "Pooling",
                             "type": "folder",
                             "children": [
-                                {
-                                    "name": "",
-                                    "type": "url",
-                                    "url": ""
-                                }
                             ]
                         },
                         {
                             "name": "Flattening",
                             "type": "folder",
                             "children": [
-                                {
-                                    "name": "",
-                                    "type": "url",
-                                    "url": ""
-                                }
                             ]
                         },
                         {
                             "name": "Full Connection",
                             "type": "folder",
                             "children": [
-                                {
-                                    "name": "",
-                                    "type": "url",
-                                    "url": ""
-                                }
                             ]
                         }
                     ]
@@ -1721,178 +1451,93 @@
                     "type": "folder",
                     "children": [
                         {
-                            "name": "",
-                            "type": "url",
-                            "url": ""
-                        },
-                        {
-                            "name": "",
-                            "type": "url",
-                            "url": ""
-                        },
-                        {
                             "name": "People counting tool",
                             "type": "folder",
                             "children": [
-                                {
-                                    "name": "",
-                                    "type": "url",
-                                    "url": ""
-                                }
                             ]
                         },
                         {
                             "name": "Colors detection",
                             "type": "folder",
                             "children": [
-                                {
-                                    "name": "",
-                                    "type": "url",
-                                    "url": ""
-                                }
                             ]
                         },
                         {
                             "name": "Object trackingin a video",
                             "type": "folder",
                             "children": [
-                                {
-                                    "name": "",
-                                    "type": "url",
-                                    "url": ""
-                                }
                             ]
                         },
                         {
                             "name": "Pedestrian detection",
                             "type": "folder",
                             "children": [
-                                {
-                                    "name": "",
-                                    "type": "url",
-                                    "url": ""
-                                }
                             ]
                         },
                         {
                             "name": "Hand gesture recognition",
                             "type": "folder",
                             "children": [
-                                {
-                                    "name": "",
-                                    "type": "url",
-                                    "url": ""
-                                }
                             ]
                         },
                         {
                             "name": "Human emotion recognition",
                             "type": "folder",
                             "children": [
-                                {
-                                    "name": "",
-                                    "type": "url",
-                                    "url": ""
-                                }
                             ]
                         },
                         {
                             "name": "Road lane detection",
                             "type": "folder",
                             "children": [
-                                {
-                                    "name": "",
-                                    "type": "url",
-                                    "url": ""
-                                }
                             ]
                         },
                         {
                             "name": "Business card scanner",
                             "type": "folder",
                             "children": [
-                                {
-                                    "name": "",
-                                    "type": "url",
-                                    "url": ""
-                                }
                             ]
                         },
                         {
                             "name": "License plate recognition",
                             "type": "folder",
                             "children": [
-                                {
-                                    "name": "",
-                                    "type": "url",
-                                    "url": ""
-                                }
                             ]
                         },
                         {
                             "name": "Handwritten digit recognition",
                             "type": "folder",
                             "children": [
-                                {
-                                    "name": "",
-                                    "type": "url",
-                                    "url": ""
-                                }
                             ]
                         },
                         {
                             "name": "Iris Flowers Classification",
                             "type": "folder",
                             "children": [
-                                {
-                                    "name": "",
-                                    "type": "url",
-                                    "url": ""
-                                }
                             ]
                         },
                         {
                             "name": "Family photo face detection",
                             "type": "folder",
                             "children": [
-                                {
-                                    "name": "",
-                                    "type": "url",
-                                    "url": ""
-                                }
                             ]
                         },
                         {
                             "name": "LEGO Brick Finder",
                             "type": "folder",
                             "children": [
-                                {
-                                    "name": "",
-                                    "type": "url",
-                                    "url": ""
-                                }
                             ]
                         },
                         {
                             "name": "PPE Detection",
                             "type": "folder",
                             "children": [
-                                {
-                                    "name": "",
-                                    "type": "url",
-                                    "url": ""
-                                }
                             ]
                         },
                         {
                             "name": "Face mask detection",
                             "type": "folder",
                             "children": [
-                                {
-                                    "name": "",
-                                    "type": "url",
-                                    "url": ""
-                                }
                             ]
                         }
                     ]
@@ -1907,16 +1552,6 @@
                     "name": "Matematik",
                     "type": "folder",
                     "children": [
-                        {
-                            "name": "",
-                            "type": "url",
-                            "url": ""
-                        },
-                        {
-                            "name": "",
-                            "type": "url",
-                            "url": ""
-                        },
                         {
                             "name": "Cebir",
                             "type": "folder",
@@ -1997,16 +1632,6 @@
                     "type": "folder",
                     "children": [
                         {
-                            "name": "",
-                            "type": "url",
-                            "url": ""
-                        },
-                        {
-                            "name": "",
-                            "type": "url",
-                            "url": ""
-                        },
-                        {
                             "name": "Python",
                             "type": "folder",
                             "children": [
@@ -2031,11 +1656,6 @@
                             "name": "Cpp",
                             "type": "folder",
                             "children": [
-                                {
-                                    "name": "",
-                                    "type": "url",
-                                    "url": ""
-                                }
                             ]
                         }
                     ]
@@ -2082,34 +1702,15 @@
                     "type": "folder",
                     "children": [
                         {
-                            "name": "",
-                            "type": "url",
-                            "url": ""
-                        },
-                        {
-                            "name": "",
-                            "type": "url",
-                            "url": ""
-                        },
-                        {
                             "name": "CARLA",
                             "type": "folder",
                             "children": [
-                                {
-                                    "name": "",
-                                    "type": "url",
-                                    "url": ""
-                                }
                             ]
                         },
                         {
                             "name": "Gazebo",
                             "type": "folder",
                             "children": [
-                                {
-                                    "name": "",
-                                    "type": "url",
-                                    "url": ""
                                 }
                             ]
                         },
@@ -2117,11 +1718,6 @@
                             "name": "SVL",
                             "type": "folder",
                             "children": [
-                                {
-                                    "name": "",
-                                    "type": "url",
-                                    "url": ""
-                                }
                             ]
                         }
                     ]
@@ -2155,11 +1751,6 @@
                             "name": "Localization",
                             "type": "url",
                             "url": "https://github.com/AtsushiSakai/PythonRobotics/tree/master/Localization"
-                        },
-                        {
-                            "name": "",
-                            "type": "url",
-                            "url": ""
                         }
                     ]
                 },
@@ -2183,48 +1774,18 @@
                     "name": "Path Planning",
                     "type": "folder",
                     "children": [
-                        {
-                            "name": "",
-                            "type": "url",
-                            "url": ""
-                        },
-                        {
-                            "name": "",
-                            "type": "url",
-                            "url": ""
-                        }
                     ]
                 },
                 {
                     "name": "Motion Planning",
                     "type": "folder",
                     "children": [
-                        {
-                            "name": "",
-                            "type": "url",
-                            "url": ""
-                        },
-                        {
-                            "name": "",
-                            "type": "url",
-                            "url": ""
-                        }
                     ]
                 },
                 {
                     "name": "Path Tracking",
                     "type": "folder",
                     "children": [
-                        {
-                            "name": "",
-                            "type": "url",
-                            "url": ""
-                        },
-                        {
-                            "name": "",
-                            "type": "url",
-                            "url": ""
-                        }
                     ]
                 },
                 {
@@ -2251,11 +1812,6 @@
                             "name": "Robotik Roadmap",
                             "type": "url",
                             "url": "https://sarrasor.github.io/RoboticsRoadmap/"
-                        },
-                        {
-                            "name": "",
-                            "type": "url",
-                            "url": ""
                         }
                     ]
                 },
@@ -2263,16 +1819,6 @@
                     "name": "Navigation",
                     "type": "folder",
                     "children": [
-                        {
-                            "name": "",
-                            "type": "url",
-                            "url": ""
-                        },
-                        {
-                            "name": "",
-                            "type": "url",
-                            "url": ""
-                        }
                     ]
                 },
                 {
@@ -2283,11 +1829,6 @@
                             "name": "Formasyon Eğitimi",
                             "type": "url",
                             "url": "https://www.youtube.com/playlist?list=PLvpJkeZbByrMDjMsl3Irvus012pM3dMzB"
-                        },
-                        {
-                            "name": "",
-                            "type": "url",
-                            "url": ""
                         }
                     ]
                 },
@@ -2299,11 +1840,6 @@
                             "name": "Sürü Algoritmaları(Teknofest)",
                             "type": "url",
                             "url": "https://www.youtube.com/watch?v=4iqXe2h5wxk"
-                        },
-                        {
-                            "name": "",
-                            "type": "url",
-                            "url": ""
                         }
                     ]
                 }
