@@ -9,12 +9,24 @@
                 {
                     "name": "Algoritma Mantığı",
                     "type": "folder",
-                    "children": []
+                    "children": [
+                        {
+                           "name": "10 Derste Algoritma ve Programlama",
+                           "type": "url",
+                           "url": "https://www.youtube.com/playlist?list=PLKnjBHu2xXNNiJdlhiEl_RMkK0PbJ1_DB" 
+                        }
+                    ]
                 },
                 {
                     "name": "Programlama Mantığı",
                     "type": "folder",
-                    "children": []
+                    "children": [
+                        {
+                            "name": "ALgorithms Programming Logic",
+                            "type": "url",
+                            "url": "https://www.udemy.com/course/algorithms-programming-logic/learn/lecture/27697310#overview"
+                        }
+                    ]
                 },
                 {
                     "name": "Programlama Dili",
@@ -34,7 +46,13 @@
                         {
                             "name": "Cpp",
                             "type": "folder",
-                            "children": []
+                            "children": [
+                                {
+                                    "name": "Learn C++ Programming",
+                                    "type": "url",
+                                    "url": "https://www.programiz.com/cpp-programming"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -45,12 +63,34 @@
                         {
                             "name": "Visual Studio Code",
                             "type": "folder",
-                            "children": []
+                            "children": [
+                                {
+                                    "name": "Visual Studio Code Giriş",
+                                    "type": "url",
+                                    "url": "https://www.youtube.com/watch?v=ga99HJg4c-8&list=PLGrTHqyRDvx72uHNQ6aZXxa1pSKViqIhE"
+                                },
+                                {
+                                    "name": "Visual Studio Code Kaynak",
+                                    "type": "url",
+                                    "url": "https://vscode.dev/"
+                                }
+                            ]
                         },
                         {
                             "name": "Jupyter Notebook",
                             "type": "folder",
-                            "children": []
+                            "children": [
+                                {
+                                    "name": "Jupyter Notebook Giriş",
+                                    "type": "url",
+                                    "url": "https://www.youtube.com/watch?v=ayLW3gfuanU&pp=ygUcanVweXRlciBub3RlYm9vayBrdWxsYW7EsW3EsQ%3D%3D"
+                                },
+                                {
+                                    "name": "Jupyter Notebook Kaynak",
+                                    "type": "url",
+                                    "url": "http://www.veridefteri.com/2017/10/30/jupyter-notebook-nedir-2/"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -131,52 +171,112 @@
                         {
                             "name": "Time",
                             "type": "folder",
-                            "children": []
+                            "children": [
+                                {
+                                    "name": "Python Time Kütüphanesi",
+                                    "type": "url",
+                                    "url": "https://python-istihza.yazbel.com/standart_moduller/time.html"
+                                }
+                            ]
                         },
                         {
                             "name": "Os",
                             "type": "folder",
-                            "children": []
+                            "children": [
+                                {
+                                    "name": "Python Os Kütüphanesi",
+                                    "type": "url",
+                                    "url": "https://python-istihza.yazbel.com/standart_moduller/os.html"
+                                }
+                            ]
                         },
                         {
                             "name": "Threading",
                             "type": "folder",
-                            "children": []
+                            "children": [
+                                {
+                                    "name": "Python Threading Kütüphanesi",
+                                    "type": "url",
+                                    "url": "https://python-istihza.yazbel.com/standart_moduller/threading.html"
+                                }
+                            ]
                         },
                         {
                             "name": "Numpy",
                             "type": "folder",
-                            "children": []
+                            "children": [
+                                {
+                                    "name": "Python Numpy Kütüphanesi Kullanımı",
+                                    "type": "url",
+                                    "url": "https://kerteriz.net/python-numpy-kullanimi-nedir-ve-nasil-kullanilir/"
+                                }
+                            ]
                         },
                         {
                             "name": "Pandas",
                             "type": "folder",
-                            "children": []
+                            "children": [
+                                {
+                                    "name": "Python Pandas Kütüphanesi",
+                                    "type": "url",
+                                    "url": "https://www.w3schools.com/python/pandas/default.asp"
+                                }
+                            ]
                         },
                         {
                             "name": "Matplotlib",
                             "type": "folder",
-                            "children": []
+                            "children": [
+                                {
+                                    "name": "Python Matplotlib Kütüphanesi",
+                                    "type": "url",
+                                    "url": "https://www.w3schools.com/python/matplotlib_pyplot.asp"
+                                }
+                            ]
                         },
                         {
                             "name": "Seaborn",
                             "type": "folder",
-                            "children": []
+                            "children": [
+                                {
+                                    "name": "Python Seaborn Kütüphanesi",
+                                    "type": "url",
+                                    "url": "https://www.veribilimiokulu.com/seaborn-ile-veri-gorsellestirmesi/"
+                                }
+                            ]
                         },
                         {
                             "name": "OpenCV",
                             "type": "folder",
-                            "children": []
+                            "children": [
+                                {
+                                    "name": "Python OpenCV Kütüphanesi",
+                                    "type": "url",
+                                    "url": "https://www.youtube.com/playlist?list=PLzcys7whQ6eSJdSHJh-xdOLvWPP24J76x"
+                                }
+                            ]
                         },
                         {
                             "name": "Keras",
                             "type": "folder",
-                            "children": []
+                            "children": [
+                                {
+                                    "name": "Python Keras Kütüphanesi",
+                                    "type": "url",
+                                    "url": "https://www.veribilimiokulu.com/keras-derin-ogrenme-kutuphanesi-ile-siniflandirma-iris-veri-seti-uzerinde-uygulama/"
+                                }
+                            ]
                         },
                         {
                             "name": "Scikit-Learn",
                             "type": "folder",
-                            "children": []
+                            "children": [
+                                {
+                                    "name": "Python Scikit-Learn Kütüphanesi",
+                                    "type": "url",
+                                    "url": "https://www.veribilimiokulu.com/iris-verisi-ile-siniflandirma-alistirmasi-python-scikit-learn/"
+                                }
+                            ]
                         },
                         {
                             "name": "Tensorflow",
@@ -191,20 +291,37 @@
                                     "name": "GCP üzerinde Tensorflowla Görüntü Anlama",
                                     "type": "url",
                                     "url": "https://coursera.pxf.io/rn1Y7Q"
+                                },
+                                {
+                                    "name": "Tensorflow Eğitim",
+                                    "type": "url",
+                                    "url": "https://www.btkakademi.gov.tr/portal/course/player/deliver/veri-bilimi-icin-python-ve-tensorflow-11705"
                                 }
                             ]
                         },
                         {
                             "name": "Pytorch",
                             "type": "folder",
-                            "children": []
+                            "children": [
+                                {
+                                    "name": "Python Scikit-Learn Kütüphanesi",
+                                    "type": "url",
+                                    "url": "https://www.udemy.com/course/python-ve-derin-ogrenme-pytorch-ile-derin-ogrenme-53/"
+                                }
+                            ]
                         }
                     ]
                 },
                 {
                     "name": "Git/Github",
                     "type": "folder",
-                    "children": []
+                    "children": [
+                        {
+                            "name": "Python Scikit-Learn Kütüphanesi",
+                            "type": "url",
+                            "url": "https://www.msoguz.com/2020/03/git-nasl-kurulur.html"
+                        }
+                    ]
                 },
                 {
                     "name": "Veri Yapıları",
@@ -213,47 +330,112 @@
                         {
                             "name": "Linked List",
                             "type": "folder",
-                            "children": []
+                            "children": [
+                                {
+                                    "name": "Python Linked List Kütüphanesi",
+                                    "type": "url",
+                                    "url": "https://youtu.be/r3uOBb3BM-0"
+                                }
+                            ]
                         },
                         {
                             "name": "Stack",
                             "type": "folder",
-                            "children": []
+                            "children": [
+                                {
+                                    "name": "Python Stack Kütüphanesi",
+                                    "type": "url",
+                                    "url": "https://youtu.be/qMG5LvPoTis"
+                                }
+                            ]
                         },
                         {
                             "name": "Queue",
                             "type": "folder",
-                            "children": []
+                            "children": [
+                                {
+                                    "name": "Python Queue Kütüphanesi",
+                                    "type": "url",
+                                    "url": "https://youtu.be/30yIDup0568"
+                                }
+                            ]
                         },
                         {
                             "name": "Binary Tree",
                             "type": "folder",
-                            "children": []
+                            "children": [
+                                {
+                                    "name": "Python Binary Tree Kütüphanesi",
+                                    "type": "url",
+                                    "url": "https://bilgisayarkavramlari.com/2008/05/07/ikili-arama-agaci-binary-search-tree/"
+                                }
+                            ]
                         },
                         {
                             "name": "Heap",
                             "type": "folder",
-                            "children": []
+                            "children": [
+                                {
+                                    "name": "Python Heap Kütüphanesi",
+                                    "type": "url",
+                                    "url": "https://youtu.be/HYLiT2wffUE"
+                                }
+                            ]
                         },
                         {
                             "name": "Hash",
                             "type": "folder",
-                            "children": []
+                            "children": [
+                                {
+                                    "name": "Python Hash Kütüphanesi",
+                                    "type": "url",
+                                    "url": "https://youtu.be/_TCkO3DnVs4"
+                                }
+                            ]
                         },
                         {
                             "name": "Graph",
                             "type": "folder",
-                            "children": []
+                            "children": [
+                                {
+                                    "name": "Python Graph Kütüphanesi",
+                                    "type": "url",
+                                    "url": "http://cagataykiziltan.net/veri-yapilari-data-structures/5-graph-graf-veri-yapisi/"
+                                }
+                            ]
                         },
                         {
                             "name": "AVL Tree",
                             "type": "folder",
-                            "children": []
+                            "children": [
+                                {
+                                    "name": "Python AVL Tree Kütüphanesi",
+                                    "type": "url",
+                                    "url": "https://bilgisayarkavramlari.com/2008/05/15/avl-agaci-avl-tree/"
+                                }
+                            ]
                         },
                         {
                             "name": "B/B+ Tree",
                             "type": "folder",
-                            "children": []
+                            "children": [
+                                {
+                                    "name": "Python B/B+ Tree Kütüphanesi",
+                                    "type": "url",
+                                    "url": "https://bilgisayarkavramlari.com/2008/10/25/b-agaci-b-tree/"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Kaynaklar",
+                            "type": "folder",
+                            "children": [
+                                {
+                                    "name": "Veri Yapıları Kaynağı",
+                                    "type": "url",
+                                    "url": "https://zerzavot.medium.com/graph-veri-yap%C4%B1lar%C4%B1-f2a5f3ad330d"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -264,82 +446,198 @@
                         {
                             "name": "Linear Search",
                             "type": "folder",
-                            "children": []
+                            "children": [
+                                {
+                                    "name": "Linear Search Kaynağı",
+                                    "type": "url",
+                                    "url": ""
+                                }
+                            ]
                         },
                         {
                             "name": "Binary Search",
                             "type": "folder",
-                            "children": []
+                            "children": [
+                                {
+                                    "name": "Binary Search Kaynağı",
+                                    "type": "url",
+                                    "url": "https://www.programiz.com/dsa/binary-search"
+                                }
+                            ]
                         },
                         {
                             "name": "Ternary Search",
                             "type": "folder",
-                            "children": []
+                            "children": [
+                                {
+                                    "name": "Ternary Search Kaynağı",
+                                    "type": "url",
+                                    "url": ""
+                                }
+                            ]
                         },
                         {
                             "name": "Jump Search",
                             "type": "folder",
-                            "children": []
+                            "children": [
+                                {
+                                    "name": "Jump Search Kaynağı",
+                                    "type": "url",
+                                    "url": ""
+                                }
+                            ]
                         },
                         {
                             "name": "Interpolation Search",
                             "type": "folder",
-                            "children": []
+                            "children": [
+                                {
+                                    "name": "Interpolation Search Kaynağı",
+                                    "type": "url",
+                                    "url": ""
+                                }
+                            ]
                         },
                         {
                             "name": "Selection Sort",
                             "type": "folder",
-                            "children": []
+                            "children": [
+                                {
+                                    "name": "Selection Sort Kaynağı",
+                                    "type": "url",
+                                    "url": ""
+                                }
+                            ]
                         },
                         {
                             "name": "Bubble Sort",
                             "type": "folder",
-                            "children": []
+                            "children": [
+                                {
+                                    "name": "Bubble Sort Kaynağı",
+                                    "type": "url",
+                                    "url": "https://www.programiz.com/dsa/bubble-sort"
+                                }
+                            ]
                         },
                         {
                             "name": "Insertion Sort",
                             "type": "folder",
-                            "children": []
+                            "children": [
+                                {
+                                    "name": "Insertion Sort Kaynağı",
+                                    "type": "url",
+                                    "url": "https://www.javatpoint.com/insertion-sort-in-python"
+                                }
+                            ]
                         },
                         {
                             "name": "Merge Sort",
                             "type": "folder",
-                            "children": []
+                            "children": [
+                                {
+                                    "name": "Merge Sort Kaynağı",
+                                    "type": "url",
+                                    "url": "https://www.digitalocean.com/community/tutorials/merge-sort-algorithm-java-c-python"
+                                }
+                            ]
                         },
                         {
                             "name": "Quick Sort",
                             "type": "folder",
-                            "children": []
+                            "children": [
+                                {
+                                    "name": "Quick Sort Kaynağı",
+                                    "type": "url",
+                                    "url": "https://www.programiz.com/dsa/quick-sort"
+                                }
+                            ]
                         },
                         {
                             "name": "Heap Sort",
                             "type": "folder",
-                            "children": []
+                            "children": [
+                                {
+                                    "name": "Heap Sort Kaynağı",
+                                    "type": "url",
+                                    "url": "https://www.javatpoint.com/heap-sort"
+                                }
+                            ]
                         },
                         {
                             "name": "Counting Sort",
                             "type": "folder",
-                            "children": []
+                            "children": [
+                                {
+                                    "name": "Counting Sort Kaynağı",
+                                    "type": "url",
+                                    "url": "https://www.javatpoint.com/insertion-sort-in-python"
+                                }
+                            ]
                         },
                         {
                             "name": "Radix Sort",
                             "type": "folder",
-                            "children": []
+                            "children": [
+                                {
+                                    "name": "Redix Sort Kaynağı",
+                                    "type": "url",
+                                    "url": ""
+                                }
+                            ]
                         },
                         {
                             "name": "Bucket Sort",
                             "type": "folder",
-                            "children": []
+                            "children": [
+                                {
+                                    "name": "Bucket Sort Kaynağı",
+                                    "type": "url",
+                                    "url": "https://www.programiz.com/dsa/bucket-sort"
+                                }
+                            ]
                         },
                         {
                             "name": "BFS",
                             "type": "folder",
-                            "children": []
+                            "children": [
+                                {
+                                    "name": "BFS Nedir ?",
+                                    "type": "url",
+                                    "url": "https://favtutor.com/blogs/breadth-first-search-python"
+                                },
+                                {
+                                    "name": "BFS Kaynağı",
+                                    "type": "url",
+                                    "url": "https://medium.com/edureka/breadth-first-search-algorithm-c65e493bd0b5"
+                                },
+                                {
+                                    "name": "BFS Kaynağı 2",
+                                    "type": "url",
+                                    "url": "https://www.youtube.com/watch?v=PPAp_w_oXzw"
+                                }                                                       
+                            ]
                         },
                         {
                             "name": "DFS",
                             "type": "folder",
-                            "children": []
+                            "children": [
+                                {
+                                    "name": "DFS Nedir ?",
+                                    "type": "url",
+                                    "url": ""
+                                },
+                                {
+                                    "name": "DFS Kaynağı",
+                                    "type": "url",
+                                    "url": ""
+                                },
+                                {
+                                    "name": "DFS Kaynağı 2", 
+                                    "type": "url",
+                                    "url": ""
+                                }
+                            ]
                         }
                     ]
                 }
@@ -501,17 +799,35 @@
                         {
                             "name": "Categorical Variables",
                             "type": "folder",
-                            "children": []
+                            "children": [
+                                {
+                                    "name": "",
+                                    "type": "url",
+                                    "url": ""
+                                }
+                            ]
                         },
                         {
                             "name": "Ordinal Variables",
                             "type": "folder",
-                            "children": []
+                            "children": [
+                                {
+                                    "name": "",
+                                    "type": "url",
+                                    "url": ""
+                                }
+                            ]
                         },
                         {
                             "name": "Numerical Variables",
                             "type": "folder",
-                            "children": []
+                            "children": [
+                                {
+                                    "name": "",
+                                    "type": "url",
+                                    "url": ""
+                                }
+                            ]
                         }
                     ]
                 },
@@ -522,17 +838,35 @@
                         {
                             "name": "Categorical Variables",
                             "type": "folder",
-                            "children": []
+                            "children": [
+                                {
+                                    "name": "",
+                                    "type": "url",
+                                    "url": ""
+                                }
+                            ]
                         },
                         {
                             "name": "Ordinal Variables",
                             "type": "folder",
-                            "children": []
+                            "children": [
+                                {
+                                    "name": "",
+                                    "type": "url",
+                                    "url": ""
+                                }
+                            ]
                         },
                         {
                             "name": "Numerical Variables",
                             "type": "folder",
-                            "children": []
+                            "children": [
+                                {
+                                    "name": "",
+                                    "type": "url",
+                                    "url": ""
+                                }
+                            ]
                         }
                     ]
                 },
@@ -543,17 +877,35 @@
                         {
                             "name": "Regression Cost Function",
                             "type": "folder",
-                            "children": []
+                            "children": [
+                                {
+                                    "name": "",
+                                    "type": "url",
+                                    "url": ""
+                                }
+                            ]
                         },
                         {
                             "name": "Binary Cost Function",
                             "type": "folder",
-                            "children": []
+                            "children": [
+                                {
+                                    "name": "",
+                                    "type": "url",
+                                    "url": ""
+                                }
+                            ]
                         },
                         {
                             "name": "Multi-Class Classification Cost Function",
                             "type": "folder",
-                            "children": []
+                            "children": [
+                                {
+                                    "name": "",
+                                    "type": "url",
+                                    "url": ""
+                                }
+                            ]
                         }
                     ]
                 },
@@ -564,37 +916,79 @@
                         {
                             "name": "Gradient Descent",
                             "type": "folder",
-                            "children": []
+                            "children": [
+                                {
+                                    "name": "Gradient Descent Nedir ?",
+                                    "type": "url",
+                                    "url": "https://medium.com/deep-learning-turkiye/gradient-descent-nedir-3ec6afcb9900"
+                                }
+                            ]
                         },
                         {
                             "name": "Overfitting",
                             "type": "folder",
-                            "children": []
+                            "children": [
+                                {
+                                    "name": "Overfitting Nedir ?",
+                                    "type": "url",
+                                    "url": "https://medium.com/@gulcanogundur/overfitting-a%C5%9F%C4%B1r%C4%B1-%C3%B6%C4%9Frenme-underfitting-eksik-%C3%B6%C4%9Frenme-ve-bias-variance-%C3%A7eli%C5%9Fkisi-b92bef2f770d"
+                                }
+                            ]
                         },
                         {
                             "name": "Underfitting",
                             "type": "folder",
-                            "children": []
+                            "children": [
+                                {
+                                    "name": "Underfitting Nedir ?",
+                                    "type": "url",
+                                    "url": "https://medium.com/@gulcanogundur/overfitting-a%C5%9F%C4%B1r%C4%B1-%C3%B6%C4%9Frenme-underfitting-eksik-%C3%B6%C4%9Frenme-ve-bias-variance-%C3%A7eli%C5%9Fkisi-b92bef2f770d"
+                                }
+                            ]
                         },
                         {
                             "name": "Training, test and validation data",
                             "type": "folder",
-                            "children": []
+                            "children": [
+                                {
+                                    "name": "Makine Öğrenmesinde Train, Validation ve Test Kavramları",
+                                    "type": "url",
+                                    "url": "https://yigitsener.medium.com/makine-%C3%B6%C4%9Frenmesinde-train-validation-ve-test-kavramlar%C4%B1-ile-python-uygulamas%C4%B1-a60214fb5448"
+                                }
+                            ]
                         },
                         {
                             "name": "Precision",
                             "type": "folder",
-                            "children": []
+                            "children": [
+                                {
+                                    "name": "Precision Nedir ?",
+                                    "type": "url",
+                                    "url": "https://medium.com/@gulcanogundur/do%C4%9Fruluk-accuracy-kesinlik-precision-duyarl%C4%B1l%C4%B1k-recall-ya-da-f1-score-300c925feb38"
+                                }
+                            ]
                         },
                         {
                             "name": "Recall",
                             "type": "folder",
-                            "children": []
+                            "children": [
+                                {
+                                    "name": "Recall Nedir ?",
+                                    "type": "url",
+                                    "url": "https://medium.com/@gulcanogundur/do%C4%9Fruluk-accuracy-kesinlik-precision-duyarl%C4%B1l%C4%B1k-recall-ya-da-f1-score-300c925feb38"
+                                }
+                            ]
                         },
                         {
                             "name": "Bias, Variance Model Selection",
                             "type": "folder",
-                            "children": []
+                            "children": [
+                                {
+                                    "name": "Bias, Variance Model Selection Kaynak",
+                                    "type": "url",
+                                    "url": "https://towardsdatascience.com/understanding-the-bias-variance-tradeoff-165e6942b229"
+                                }
+                            ]
                         }
                     ]
                 }
@@ -650,54 +1044,99 @@
                     "name": "Gözetimli Öğrenme",
                     "type": "folder",
                     "children": [
+                        {
+                            "name": "Makine Öğrenmesinde Gözetimli Öğrenme",
+                            "type": "url",
+                            "url": "https://medium.com/databulls/makine-%C3%B6%C4%9Frenmesinde-g%C3%B6zetimli-ve-g%C3%B6zetimsiz-%C3%B6%C4%9Frenme-126a3dd41422"
+                        }
                     ]
                 },
                 {
                     "name": "Gözetimsiz Öğrenme",
                     "type": "folder",
-                    "children": [
+                    "children": [                 
+                        {
+                            "name": "Makine Öğrenmesinde Gözetimsiz Öğrenme",
+                            "type": "url",
+                            "url": "https://medium.com/databulls/makine-%C3%B6%C4%9Frenmesinde-g%C3%B6zetimli-ve-g%C3%B6zetimsiz-%C3%B6%C4%9Frenme-126a3dd41422"
+                        }       
                     ]
                 },
                 {
                     "name": "Aktivasyon Fonsksiyonları",
                     "type": "folder",
                     "children": [
+                        {
+                            "name": "Aktivasyon Fonsksiyonları Nedir ?",
+                            "type": "url",
+                            "url": "https://devreyakan.com/aktivasyon-fonksiyonlari/"
+                        }
                     ]
                 },
                 {
                     "name": "İleri Yayılım",
                     "type": "folder",
                     "children": [
+                        {
+                            "name": "İleri Yayılım Nedir ?",
+                            "type": "url",
+                            "url": "https://medium.com/smlr-center/sinir-a%C4%9Flar%C4%B1-ve-derin-%C3%B6%C4%9Frenme-vi-hesaplama-grafi%C4%9Fi-1caf57ec03f9"
+                        }
                     ]
                 },
                 {
                     "name": "Geri Yayılım",
                     "type": "folder",
                     "children": [
+                        {
+                            "name": "Geri Yayılım Nedir ?",
+                            "type": "url",
+                            "url": "https://devhunteryz.wordpress.com/2018/06/20/geri-yayilimbackpropagation/"
+                        }
                     ]
                 },
                 {
                     "name": "Hiperarametreler",
                     "type": "folder",
                     "children": [
+                        {
+                            "name": "Hiperparametreler nedir ?",
+                            "type": "url",
+                            "url": "https://devhunteryz.wordpress.com/2018/08/27/yapay-sinir-aglarindaki-hiperparametreler/"
+                        }
                     ]
                 },
                 {
                     "name": "Learning Rate",
                     "type": "folder",
                     "children": [
+                        {
+                            "name": "Learning Rate Nedir ?",
+                            "type": "url",
+                            "url": "https://deepchecks.com/glossary/learning-rate-in-machine-learning/#:~:text=The%20learning%20rate%2C%20denoted%20by,network%20concerning%20the%20loss%20gradient%3E."
+                        }
                     ]
                 },
                 {
                     "name": "Batch Normalization",
                     "type": "folder",
                     "children": [
+                        {
+                            "name": "3 Adımda Batch Normalization",
+                            "type": "url",
+                            "url": "https://towardsdatascience.com/batch-normalization-in-3-levels-of-understanding-14c2da90a338"
+                        }
                     ]
                 },
                 {
                     "name": "Batch Size",
                     "type": "folder",
                     "children": [
+                        {
+                            "name": "Batch Size Nedir ?",
+                            "type": "url",
+                            "url": "https://stats.stackexchange.com/questions/153531/what-is-batch-size-in-neural-network"
+                        }
                     ]
                 },
                 {
