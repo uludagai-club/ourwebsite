@@ -1,9 +1,28 @@
 {
     "announcements":[
         {
+            "header":"Yapay Zeka Topluluğu Üye Kayıt Günleri",
+            "description":"Yapay Zeka Topluluğu olarak 2-14 Ekim tarihleri arasında Mediko alanında olacağız! Bu dönemde sizinle tanışmayı ve yapay zeka konusundaki deneyimlerimizi paylaşmayı dört gözle bekliyoruz.",
+            "link": "",
+            "imageURL":"",
+            "active" : true,
+            "startDate" : "02.10.2023",
+            "endDate" : "14.10.2023"
+        },
+
+        {
+            "header":"Uludağ Üniversitesi Kampüs Tanıtım",
+            "description":"Uludağ üniversitesini birlikte gezdiğimiz videoya ulaşmak için tıklayın.",
+            "link": "https://www.youtube.com/watch?v=J5nZG5hn2Qw",
+            "imageURL":"",
+            "active" : true,
+            "startDate" : "",
+            "endDate" : ""
+        },
+        {
             "header":"Proje Geliştiricisi Yetiştirme Roadmap",
             "description":"Yapay Zeka Topluluğu projelerinde yer almak isteyen arkadaşlara kendilerini geliştirmek için sunulan yol haritası.",
-            "link": "",
+            "link": "/roadmap.html",
             "imageURL":"",
             "active" : true,
             "startDate" : "19.04.2020",

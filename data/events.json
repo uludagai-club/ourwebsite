@@ -170,6 +170,25 @@
             "tags":["Yapay Zeka","Söyleşi"],
             "active" : false,
             "type":"small"
+        },
+        {
+            "id":"9",
+            "name":"YZT | TALOS Teknofest Robotaksi Yarışması 2022",
+            "imageURL":"talosteknofest22.png",
+            "description":"Yapay Zeka Topluluğu TALOS Otonom Araç Takımı",
+            "startsDate":"",
+            "endDate":"",
+            "link" : "https://www.instagram.com/talos.team/",
+            "location":"",
+            "category":"",
+            "organizer":"",
+            "website":"",
+            "formURL":"",
+            "registrationOpen":false,
+            "attendeesCount":"",
+            "tags":["Yapay Zeka","Teknofest", "Otonom Araç"],
+            "active" : false,
+            "type":"medium"
         }
     ]
 }

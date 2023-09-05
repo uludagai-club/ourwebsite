@@ -31,7 +31,7 @@ fetch("./data/teams.json")
         `<div class="col-md-3 scroll-animation" data-animation="fade_from_left">
         <div class="skill">
             <div class="skill-inner">
-                <img src="assets/images/${t.imageURL}" style="background-size: cover;">
+                <img id="team-photo" src="assets/images/${t.imageURL}">
                 <h1 class="percent">${t.name}</h1>
             </div>
             <p class="name">${t.competitions[0]}</p>
@@ -116,7 +116,7 @@ fetch("./data/events.json")
         "beforeend",
         `<div class="service-item scroll-animation" data-animation="fade_from_bottom">
         <span class="date">${p.startDate + " ~ " + p.endDate}</span>
-        <h2><a href = "${p.link}">${p.header}</a></h2>
+        <h2><a target="_blank" href = "${p.link}">${p.header}</a></h2>
         <p>${p.description}</p>
     </div>`
       );

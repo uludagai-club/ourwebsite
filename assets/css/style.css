@@ -39,6 +39,13 @@
     box-sizing: border-box;
 }
 
+#team-photo
+{
+    background-size: 161px !important;
+    width: 161px;
+    height: 161px;
+}
+
 body {
     font-family: 'Inter', sans-serif;
     font-size: 16px;
