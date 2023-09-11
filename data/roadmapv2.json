@@ -2220,6 +2220,79 @@
                     ]
                 }
             ]
+        },
+        {
+            "name": "Natural Language Processing (NLP)",
+            "type": "folder",
+            "children": [
+                {
+                    "name": "Movie Rating Classification",
+                    "type": "folder",
+                    "children": [
+                        {
+                            "name": "movie-rating-classification github",
+                            "type": "url",
+                            "url": "https://github.com/lyeoni/nlp-tutorial/tree/master/movie-rating-classification"
+                        }
+                    ]
+                },
+                {
+                    "name": "Neural Machine Translation",
+                    "type": "folder",
+                    "children": [
+                        {
+                            "name": "neural-machine-translation github",
+                            "type": "url",
+                            "url": "https://github.com/lyeoni/nlp-tutorial/tree/master/neural-machine-translation"
+                        }
+                    ]
+                },
+                {
+                    "name": "News Category Classifcation",
+                    "type": "folder",
+                    "children": [
+                        {
+                            "name": "news-category-classifcation github",
+                            "type": "url",
+                            "url": "https://github.com/lyeoni/nlp-tutorial/tree/master/news-category-classifcation"
+                        }
+                    ]
+                },
+                {
+                    "name": "Question Answer Matching",
+                    "type": "folder",
+                    "children": [
+                        {
+                            "name": "question-answer-matching github",
+                            "type": "url",
+                            "url": "https://github.com/lyeoni/nlp-tutorial/tree/master/question-answer-matching"
+                        }
+                    ]
+                },
+                {
+                    "name": "Text Classification Transformer",
+                    "type": "folder",
+                    "children": [
+                        {
+                            "name": "text-classification-transformer github",
+                            "type": "url",
+                            "url": "https://github.com/lyeoni/nlp-tutorial/tree/master/text-classification-transformer"
+                        }
+                    ]
+                },
+                {
+                    "name": "Translation Transformer",
+                    "type": "folder",
+                    "children": [
+                        {
+                            "name": "translation-transformer github",
+                            "type": "url",
+                            "url": "https://github.com/lyeoni/nlp-tutorial/tree/master/translation-transformer"
+                        }
+                    ]
+                }
+
+            ] 
         }
     ]
 }
