@@ -696,7 +696,7 @@
                         {
                             "name": "CART",
                             "type": "url",
-                            "url": ""
+                            "url": "https://osmanhbaki.medium.com/makine-%C3%B6%C4%9Frenmesi-cart-algoritmas%C4%B1-5b1651c074f0"
                         },
                         {
                             "name": "Random Forests",
@@ -706,7 +706,7 @@
                         {
                             "name": "GBM",
                             "type": "url",
-                            "url": ""
+                            "url": "https://www.veribilimiokulu.com/gradient-boosted-regresyon-agaclari/"
                         },
                         {
                             "name": "XGBoost",
@@ -737,7 +737,7 @@
                         {
                             "name": "K En Yakın Komşu",
                             "type": "url",
-                            "url": ""
+                            "url": "https://medium.com/machine-learning-t%C3%BCrkiye/knn-k-en-yak%C4%B1n-kom%C5%9Fu-7a037f056116"
                         },
                         {
                             "name": "Destek Vektör Makineleri",
@@ -768,7 +768,7 @@
                         {
                             "name": "CART",
                             "type": "url",
-                            "url": ""
+                            "url": "https://osmanhbaki.medium.com/makine-%C3%B6%C4%9Frenmesi-cart-algoritmas%C4%B1-5b1651c074f0"
                         },
                         {
                             "name": "Random Forests GBM",
@@ -839,6 +839,7 @@
                             "name": "Categorical Variables",
                             "type": "folder",
                             "children": [
+
                                 {
                                     "name": "",
                                     "type": "url",
@@ -879,9 +880,9 @@
                             "type": "folder",
                             "children": [
                                 {
-                                    "name": "",
+                                    "name": "Regresyon Maliyet Fonksiyonu",
                                     "type": "url",
-                                    "url": ""
+                                    "url": "https://www.javatpoint.com/cost-function-in-machine-learning#:~:text=The%20binary%20Cost%20function%20is,classification%20between%20red%20and%20blue.&text=The%20error%20in%20binary%20classification,for%20all%20N%20training%20data."
                                 }
                             ]
                         },
@@ -890,9 +891,9 @@
                             "type": "folder",
                             "children": [
                                 {
-                                    "name": "",
+                                    "name": "İkili Sınıflandırma Maliyet Fonksiyonları",
                                     "type": "url",
-                                    "url": ""
+                                    "url": "https://www.javatpoint.com/cost-function-in-machine-learning#:~:text=The%20binary%20Cost%20function%20is,classification%20between%20red%20and%20blue.&text=The%20error%20in%20binary%20classification,for%20all%20N%20training%20data."
                                 }
                             ]
                         },
@@ -901,9 +902,9 @@
                             "type": "folder",
                             "children": [
                                 {
-                                    "name": "",
+                                    "name": " Çok Sınıflı Sınıflandırma Maliyet Fonksiyonu",
                                     "type": "url",
-                                    "url": ""
+                                    "url": "https://www.analyticsvidhya.com/blog/2021/02/cost-function-is-no-rocket-science/"
                                 }
                             ]
                         }
