@@ -1158,42 +1158,83 @@
                             "name": "SGD",
                             "type": "folder",
                             "children": [
+                                {
+                                    "name": "SGD Algoritması Video",
+                                    "type": "url",
+                                    "url": "https://www.youtube.com/watch?v=3X63Y6k3aO0"
+                                },
+                                {
+                                    "name": "SGD Algoritması",
+                                    "type": "url",
+                                    "url": "https://scikit-learn.org/stable/modules/sgd.html"
+                                }
+                                
                             ]
                         },
                         {
                             "name": "Momentum",
                             "type": "folder",
                             "children": [
+                                {
+                                    "name": "",
+                                    "type": "url",
+                                    "url": ""
+                                }
                             ]
                         },
                         {
                             "name": "Adam",
                             "type": "folder",
                             "children": [
+                                {
+                                    "name": "",
+                                    "type": "url",
+                                    "url": ""
+                                }
                             ]
                         },
                         {
                             "name": "AdaGrad",
                             "type": "folder",
                             "children": [
+                                {
+                                    "name": "",
+                                    "type": "url",
+                                    "url": ""
+                                }
                             ]
                         },
                         {
                             "name": "AdaDelta",
                             "type": "folder",
                             "children": [
+                                {
+                                    "name": "",
+                                    "type": "url",
+                                    "url": ""
+                                }
                             ]
                         },
                         {
                             "name": "Nadam",
                             "type": "folder",
                             "children": [
+                                {
+                                    "name": "",
+                                    "type": "url",
+                                    "url": ""
+                                }
                             ]
                         },
                         {
                             "name": "RMSProp",
                             "type": "folder",
                             "children": [
+                                {
+                                    "name": "",
+                                    "type": "url",
+                                    "url": ""
+                                }
                             ]
                         }
                     ]
@@ -1206,30 +1247,55 @@
                             "name": "Early stopping",
                             "type": "folder",
                             "children": [
+                                {
+                                    "name": "",
+                                    "type": "url",
+                                    "url": ""
+                                }
                             ]
                         },
                         {
                             "name": "Dropout",
                             "type": "folder",
                             "children": [
+                                {
+                                    "name": "",
+                                    "type": "url",
+                                    "url": ""
+                                }
                             ]
                         },
                         {
                             "name": "Parameter Penalties",
                             "type": "folder",
                             "children": [
+                                {
+                                    "name": "",
+                                    "type": "url",
+                                    "url": ""
+                                }
                             ]
                         },
                         {
                             "name": "Data Augmentation",
                             "type": "folder",
                             "children": [
+                                {
+                                    "name": "",
+                                    "type": "url",
+                                    "url": ""
+                                }
                             ]
                         },
                         {
                             "name": "Adversarial Training",
                             "type": "folder",
                             "children": [
+                                {
+                                    "name": "",
+                                    "type": "url",
+                                    "url": ""
+                                }
                             ]
                         }
                     ]
@@ -1238,30 +1304,55 @@
                     "name": "Gradient Descent",
                     "type": "folder",
                     "children": [
+                        {
+                            "name": "",
+                            "type": "url",
+                            "url": ""
+                        }
                     ]
                 },
                 {
                     "name": "Veri Arttırma",
                     "type": "folder",
                     "children": [
+                        {
+                            "name": "",
+                            "type": "url",
+                            "url": ""
+                        }
                     ]
                 },
                 {
                     "name": "Loss Fonksiyonları",
                     "type": "folder",
                     "children": [
+                        {
+                            "name": "",
+                            "type": "url",
+                            "url": ""
+                        }
                     ]
                 },
                 {
                     "name": "Vision,Audio,NLP features",
                     "type": "folder",
                     "children": [
+                        {
+                            "name": "",
+                            "type": "url",
+                            "url": ""
+                        }
                     ]
                 },
                 {
                     "name": "Encoder, Decoder, Autoencoder, Transformer",
                     "type": "folder",
                     "children": [
+                        {
+                            "name": "",
+                            "type": "url",
+                            "url": ""
+                        }
                     ]
                 },
                 {
@@ -1308,36 +1399,78 @@
                             "name": "Evrişim İşlemi",
                             "type": "folder",
                             "children": [
+                                {
+                                    "name": "",
+                                    "type": "url",
+                                    "url": ""
+                                }
                             ]
                         },
                         {
                             "name": "Padding",
                             "type": "folder",
                             "children": [
+                                {
+                                    "name": "",
+                                    "type": "url",
+                                    "url": ""
+                                }
                             ]
                         },
                         {
                             "name": "Stride",
                             "type": "folder",
                             "children": [
+                                {
+                                    "name": "",
+                                    "type": "url",
+                                    "url": ""
+                                }
                             ]
                         },
                         {
                             "name": "Pooling",
                             "type": "folder",
                             "children": [
+                                {
+                                    "name": "Pooling Katmanı",
+                                    "type": "url",
+                                    "url": "https://medium.com/@tuncerergin/convolutional-neural-network-convnet-yada-cnn-nedir-nasil-calisir-97a0f5d34cad#:~:text=Pooling%20Layer,a%C4%9Fdaki%20uyumsuzluk%20kontrol%20edilmi%C5%9F%20olur."
+                                }
                             ]
                         },
                         {
                             "name": "Tensor nedir?",
                             "type": "folder",
                             "children": [
+                                {
+                                    "name": "Tensor nedir?",
+                                    "type": "url",
+                                    "url": "https://www.codegeni.us/yapay-sinir-aglarinda-veri-gosterimi-tensor/"
+                                },
+                                {
+                                    "name": "Tensor Kavramı",
+                                    "type": "url",
+                                    "url": "https://www.youtube.com/watch?v=9yOrMLrS_G0"
+                                }
+
                             ]
                         },
                         {
                             "name": "LeNet15, VGG16, ResNet",
                             "type": "folder",
                             "children": [
+                                {
+                                    "name": "VGGNet, Resnet nedir?",
+                                    "type": "url",
+                                    "url": "https://frightera.medium.com/alexnet-vggnet-inception-ve-resnet-nedir-bddc7482918b"
+                                },
+                                {
+                                    "name": "Derine Daha Derine!!",
+                                    "type": "url",
+                                    "url": "https://ayyucekizrak.medium.com/deri%CC%87ne-daha-deri%CC%87ne-evri%C5%9Fimli-sinir-a%C4%9Flar%C4%B1-2813a2c8b2a9"
+                                }
+
                             ]
                         }
                     ]
@@ -1350,34 +1483,79 @@
                             "name": "İleri ve Geri Yayılım",
                             "type": "folder",
                             "children": [
+                                {
+                                    "name": "Geri Yayılımlı Çok Katmanlı Yapay Sinir Ağları-1",
+                                    "type": "url",
+                                    "url": "https://kadirguzel.medium.com/geri-yay%C4%B1l%C4%B1ml%C4%B1-%C3%A7ok-katmanl%C4%B1-yapay-sinir-a%C4%9Flar%C4%B1-1-47daa3856247"
+                                },
+                                {
+                                    "name": "Geri Yayılımlı Çok Katmanlı Yapay Sinir Ağları-2",
+                                    "type": "url",
+                                    "url": "https://kadirguzel.medium.com/geri-yay%C4%B1l%C4%B1ml%C4%B1-%C3%A7ok-katmanl%C4%B1-yapay-sinir-a%C4%9Flar%C4%B1-2-6a47b4f3a6c"
+                                },
+                                {
+                                    "name":"İleri Yayılım Algoritması",
+                                    "type": "url",
+                                    "url":"https://yapayakademi.com/derin-ogrenme-1-ileri-yayilim-algoritmasi/"
+                                }
                             ]
                         },
                         {
                             "name": "GRU",
                             "type": "folder",
                             "children": [
+                                {
+                                    "name": "GRU Algoritmalarını Anlamak",
+                                    "type": "url",
+                                    "url": "https://towardsdatascience.com/understanding-gru-networks-2ef37df6c9be"
+                                }
                             ]
                         },
                         {
                             "name": "Bidirectional RNN",
                             "type": "folder",
                             "children": [
+                                {
+                                    "name": "Bidirectional RNN Nedir?",
+                                    "type": "url",
+                                    "url": "https://www.geeksforgeeks.org/bidirectional-recurrent-neural-network/"
+                                }
                             ]
                         },
                         {
                             "name": "Deep RNN",
                             "type": "folder",
                             "children": [
+                                {
+                                    "name": "RNN Çeşitleri",
+                                    "type": "url",
+                                    "url": "https://www.youtube.com/watch?v=RqWko0haHZE"
+                                },
+                                {
+                                    "name": "Deep RNN",
+                                    "type": "url",
+                                    "url": "https://d2l.ai/chapter_recurrent-modern/deep-rnn.html"
+                                }
                             ]
                         },
                         {
                             "name": "Kapsül Ağları",
                             "type": "folder",
                             "children": [
+                                {
+                                    "name": "Kapsül Ağları Nedir?",
+                                    "type": "url",
+                                    "url": "https://devhunteryz.wordpress.com/2021/07/28/kapsul-aglari-yeni-derin-ogrenme-agi-mimarisi/"
+                                },
+                                {
+                                    "name": "Kapsül Ağları",
+                                    "type": "url",
+                                    "url": "https://medium.com/deep-learning-turkiye/kaps%C3%BCl-a%C4%9Flar%C4%B1-capsule-networks-bb7ff1e74843"
+                                }
                             ]
                         },
                         {
-                            "name": "GAN?",
+                            "name": "GAN Nedir?",
                             "type": "folder",
                             "children": [
                                 {
