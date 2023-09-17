@@ -1160,7 +1160,7 @@
                             "type": "folder",
                             "children": [
                                 {
-                                    "name": "SGD Algoritması Video",
+                                    "name": "SGD Algoritması (Video Anlatım)",
                                     "type": "url",
                                     "url": "https://www.youtube.com/watch?v=3X63Y6k3aO0"
                                 },
@@ -1177,9 +1177,9 @@
                             "type": "folder",
                             "children": [
                                 {
-                                    "name": "",
+                                    "name": "Momentum Optimizasyonu",
                                     "type": "url",
-                                    "url": ""
+                                    "url": "https://blog.paperspace.com/intro-to-optimization-momentum-rmsprop-adam/"
                                 }
                             ]
                         },
@@ -1188,9 +1188,14 @@
                             "type": "folder",
                             "children": [
                                 {
-                                    "name": "",
+                                    "name": "Adam Optimizer",
                                     "type": "url",
-                                    "url": ""
+                                    "url": "https://blog.paperspace.com/intro-to-optimization-momentum-rmsprop-adam/"
+                                },
+                                {
+                                    "name": "Adam Optimizasyonu Nedir?",
+                                    "type": "url",
+                                    "url": "https://www.geeksforgeeks.org/intuition-of-adam-optimizer/"
                                 }
                             ]
                         },
@@ -1199,9 +1204,9 @@
                             "type": "folder",
                             "children": [
                                 {
-                                    "name": "",
+                                    "name": "Derin Öğrenme Optimizasyonları",
                                     "type": "url",
-                                    "url": ""
+                                    "url": "https://towardsdatascience.com/deep-learning-optimizers-436171c9e23f"
                                 }
                             ]
                         },
@@ -1210,9 +1215,14 @@
                             "type": "folder",
                             "children": [
                                 {
-                                    "name": "",
+                                    "name": "AdaDelta ve AdaDelta Optimizasyonları İncelemesi",
                                     "type": "url",
-                                    "url": ""
+                                    "url": "https://insideaiml.com/blog/Adagrad-and-Adadelta-optimizer:-In-depth-explanation-1052"
+                                },
+                                {
+                                    "name": "AdaDelta Optimizasyonu",
+                                    "type": "url",
+                                    "url": "https://neuralthreads.medium.com/adadelta-optimizer-which-was-developed-to-eliminate-the-need-for-the-learning-rate-93e8f295abc7"
                                 }
                             ]
                         },
@@ -1221,9 +1231,9 @@
                             "type": "folder",
                             "children": [
                                 {
-                                    "name": "",
+                                    "name": "Nadam Optimizer",
                                     "type": "url",
-                                    "url": ""
+                                    "url": "https://machinelearningmastery.com/gradient-descent-optimization-with-nadam-from-scratch/"
                                 }
                             ]
                         },
@@ -1232,9 +1242,14 @@
                             "type": "folder",
                             "children": [
                                 {
-                                    "name": "",
+                                    "name": "RMSProp Optimizer",
                                     "type": "url",
-                                    "url": ""
+                                    "url": "https://devhunteryz.wordpress.com/2020/08/30/gradient-descent-ve-rmsprop-optimizerlara-bir-bakis/"
+                                },
+                                {
+                                    "name": "Optimizasyon Algoritmaları",
+                                    "type": "url",
+                                    "url": "https://dltr.asmaamir.com/0-nn-kavramlari/7-optimizasyon"
                                 }
                             ]
                         }
@@ -1245,13 +1260,13 @@
                     "type": "folder",
                     "children": [
                         {
-                            "name": "Early stopping",
+                            "name": "Regularization by Early Stopping",
                             "type": "folder",
                             "children": [
                                 {
-                                    "name": "",
+                                    "name": "Early stopping",
                                     "type": "url",
-                                    "url": ""
+                                    "url": "https://www.geeksforgeeks.org/regularization-by-early-stopping/"
                                 }
                             ]
                         },
@@ -1260,9 +1275,9 @@
                             "type": "folder",
                             "children": [
                                 {
-                                    "name": "",
+                                    "name": "Dropout for Regularizing Deep Networks",
                                     "type": "url",
-                                    "url": ""
+                                    "url": "https://machinelearningmastery.com/dropout-for-regularizing-deep-neural-networks/"
                                 }
                             ]
                         },
@@ -1271,9 +1286,14 @@
                             "type": "folder",
                             "children": [
                                 {
-                                    "name": "",
+                                    "name": "Parameter Penalties",
                                     "type": "url",
-                                    "url": ""
+                                    "url": "https://medium.com/inveterate-learner/deep-learning-book-chapter-7-regularization-for-deep-learning-937ff261875c"
+                                },
+                                {
+                                    "name": "Parameter Penalties (PDF)",
+                                    "type": "url",
+                                    "url": "https://cedar.buffalo.edu/~srihari/CSE676/7.1%20ParameterPenalties.pdf"
                                 }
                             ]
                         },
@@ -1282,9 +1302,9 @@
                             "type": "folder",
                             "children": [
                                 {
-                                    "name": "",
+                                    "name": "Data Augmentation with Github",
                                     "type": "url",
-                                    "url": ""
+                                    "url": "https://github.com/AgaMiko/data-augmentation-review"
                                 }
                             ]
                         },
@@ -1293,9 +1313,14 @@
                             "type": "folder",
                             "children": [
                                 {
-                                    "name": "",
+                                    "name": "Adversarial Training Methods for Deep Learning(Makale)",
                                     "type": "url",
-                                    "url": ""
+                                    "url": "https://www.mdpi.com/1999-4893/15/8/283"
+                                },
+                                {
+                                    "name": "GAN Nedir?",
+                                    "type": "url",
+                                    "url": "https://medium.com/deep-learning-turkiye/%C3%A7eki%C5%9Fmeli-%C3%BCretici-a%C4%9Flar-gan-e64716f4ee9c"
                                 }
                             ]
                         }
@@ -1306,9 +1331,14 @@
                     "type": "folder",
                     "children": [
                         {
-                            "name": "",
+                            "name": "Gradient Descent Nedir ?",
                             "type": "url",
-                            "url": ""
+                            "url": "https://medium.com/@bsradogn/gradient-descent-dereceli%CC%87-azalma-nedi%CC%87r-49333e74c0f0"
+                        },
+                        {
+                            "name": "Gradient Descent Algorithms",
+                            "type": "url",
+                            "url": "https://github.com/Arko98/Gradient-Descent-Algorithms"
                         }
                     ]
                 },
@@ -1317,9 +1347,19 @@
                     "type": "folder",
                     "children": [
                         {
-                            "name": "",
+                            "name": "Veri Arttırımı",
                             "type": "url",
-                            "url": ""
+                            "url": "https://yazilimkaravani.net/makine-ogrenimi-icin-veri-artirimi-data-augmentation/"
+                        },
+                        {
+                            "name": "Veri Arttırımı için Github Repoları ",
+                            "type": "url",
+                            "url": "https://github.com/AgaMiko/data-augmentation-review"
+                        },
+                        {
+                            "name": "Veri Arttırımı Nedir?",
+                            "type": "url",
+                            "url": "https://medium.com/novaresearchlab/veri-art%C4%B1r%C4%B1m%C4%B1-data-augmentation-fcc839da556b"
                         }
                     ]
                 },
@@ -1328,9 +1368,9 @@
                     "type": "folder",
                     "children": [
                         {
-                            "name": "",
+                            "name": "Loss Fonksiyonları Nelerdir",
                             "type": "url",
-                            "url": ""
+                            "url": "https://devreyakan.com/yitim-fonksiyonlari-nedir/"
                         }
                     ]
                 },
@@ -1339,9 +1379,19 @@
                     "type": "folder",
                     "children": [
                         {
-                            "name": "",
+                            "name": "Sesle Derin Öğrenme Teknikleri",
                             "type": "url",
-                            "url": ""
+                            "url": "https://towardsdatascience.com/audio-deep-learning-made-simple-part-1-state-of-the-art-techniques-da1d3dff2504"
+                        },
+                        {
+                            "name": "NLP Nedir?",
+                            "type": "url",
+                            "url": "https://www.talentcoders.co/dogal-dil-isleme-nlp-ve-yapay-zeka/"
+                        },
+                        {
+                            "name": "Görüntü İşleme Tekniklerinde Yapay Zekanın Kullanımı",
+                            "type": "url",
+                            "url": "https://medium.com/t%C3%BCrkiye/g%C3%B6r%C3%BCnt%C3%BC-i%CC%87%C5%9Fleme-tekniklerinde-yapay-zeka-kullan%C4%B1m%C4%B1-24101616cc97"
                         }
                     ]
                 },
@@ -1350,10 +1400,25 @@
                     "type": "folder",
                     "children": [
                         {
-                            "name": "",
+                            "name": "Encoder-Decoder Model",
                             "type": "url",
-                            "url": ""
-                        }
+                            "url": "https://d2l.ai/chapter_recurrent-modern/encoder-decoder.html"
+                        },
+                        {
+                            "name": "Encoder-Decoder Model (Videolu Anlatım)",
+                            "type": "url",
+                            "url": "https://www.youtube.com/watch?v=zbdong_h-x4"
+                        },
+                        {
+                            "name": "Autoencoder Rehberi: Autoencoder Nedir?",
+                            "type": "url",
+                            "url": "https://www.v7labs.com/blog/autoencoders-guide#what-is-an-autoencoder"
+                        },
+                        {
+                            "name": "Transformerlar Nedir, Nasıl Çalışır?",
+                            "type": "url",
+                            "url": "https://towardsdatascience.com/transformers-141e32e69591"
+                        }                    
                     ]
                 },
                 {
@@ -1401,9 +1466,14 @@
                             "type": "folder",
                             "children": [
                                 {
-                                    "name": "",
+                                    "name": "Evrişimsel Sinir Ağları Nelerdir?",
                                     "type": "url",
-                                    "url": ""
+                                    "url": "https://ayyucekizrak.medium.com/deri%CC%87ne-daha-deri%CC%87ne-evri%C5%9Fimli-sinir-a%C4%9Flar%C4%B1-2813a2c8b2a9"
+                                },
+                                {
+                                    "name": "Evrişimsel Sinir Ağlarına Giriş",
+                                    "type": "url",
+                                    "url": "https://www.miuul.com/not-defteri/evrisimli-sinir-aglarina-giris"
                                 }
                             ]
                         },
@@ -1412,9 +1482,9 @@
                             "type": "folder",
                             "children": [
                                 {
-                                    "name": "",
+                                    "name": "Dolgulama(Padding)",
                                     "type": "url",
-                                    "url": ""
+                                    "url": "https://dltr.asmaamir.com/3-cnn-konseptleri/2-genel-kavramlar-p2"
                                 }
                             ]
                         },
@@ -1423,9 +1493,14 @@
                             "type": "folder",
                             "children": [
                                 {
-                                    "name": "",
+                                    "name": "Stride Nedir?",
                                     "type": "url",
-                                    "url": ""
+                                    "url": "https://teknoloji.org/cnn-convolutional-neural-networks-nedir/#:~:text=Stride%20(Ad%C4%B1m),piksel%20atlayarak%20bu%20i%C5%9Flemi%20yapar."
+                                },
+                                {
+                                    "name": "Stride(Adım Kaydırma)",
+                                    "type": "url",
+                                    "url": "https://medium.com/@alierbey/cnn-konvol%C3%BCsyonel-evri%C5%9Fimsel-sinir-a%C4%9F%C4%B1-12e9a9786f29"
                                 }
                             ]
                         },
