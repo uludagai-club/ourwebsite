@@ -1758,6 +1758,26 @@
                             "name": "Cpp",
                             "type": "folder",
                             "children": [
+                                {
+                                    "name": " C ++ Yeni Başlayanlar İçin Öğretici - Tam Ders ",
+                                    "type": "url",
+                                    "url": "https://www.youtube.com/watch?v=vLnPwxZdW4Y"
+                                },
+                                {
+                                    "name": "Temel C++ Dersleri",
+                                    "type": "url",
+                                    "url": "https://www.youtube.com/watch?v=UpQdjipl2OE&list=PLIHume2cwmHfmSmNlxXw1j9ZAKzYyiQAq"
+                                },
+                                {
+                                    "name": "GFG - CPP",
+                                    "type": "url",
+                                    "url": "https://www.geeksforgeeks.org/c-plus-plus/?ref=shm"
+                                },
+                                {
+                                    "name": "w3schools - CPP",
+                                    "type": "url",
+                                    "url": "https://www.w3schools.com/cpp/default.asp"
+                                }
                             ]
                         }
                     ]
@@ -1897,15 +1917,13 @@
                         },
                         {
                             "name": "Theano",
-                            "type": "folder",
-                            "children": [
-                            ]
+                            "type": "url",
+                            "url": "https://www.derinogrenme.com/theano/"
                         },
                         {
                             "name": "Caffe",
-                            "type": "folder",
-                            "children": [
-                            ]
+                            "type": "url",
+                            "url": "https://caffe.berkeleyvision.org/"
                         }
                     ]
                 },
@@ -1914,33 +1932,19 @@
                     "type": "folder",
                     "children": [
                         {
-                            "name": "OpenVINO ile Yapay Zekanın Temelleri",
+                            "name": "CNN Nedir?",
                             "type": "url",
-                            "url": "https://imp.i115008.net/NKkmQP"
+                            "url": "https://medium.com/@tuncerergin/convolutional-neural-network-convnet-yada-cnn-nedir-nasil-calisir-97a0f5d34cad"
                         },
                         {
-                            "name": "ReLu",
-                            "type": "folder",
-                            "children": [
-                            ]
+                            "name": "Convolutional Neural Network",
+                            "type": "url",
+                            "url": "https://en.wikipedia.org/wiki/Convolutional_neural_network"
                         },
                         {
-                            "name": "Pooling",
-                            "type": "folder",
-                            "children": [
-                            ]
-                        },
-                        {
-                            "name": "Flattening",
-                            "type": "folder",
-                            "children": [
-                            ]
-                        },
-                        {
-                            "name": "Full Connection",
-                            "type": "folder",
-                            "children": [
-                            ]
+                            "name": "GFG - CNN",
+                            "type": "url",
+                            "url": "https://www.geeksforgeeks.org/convolutional-neural-network-cnn-in-machine-learning/"
                         }
                     ]
                 },
@@ -1972,92 +1976,77 @@
                         {
                             "name": "People counting tool",
                             "type": "folder",
-                            "children": [
-                            ]
+                            "url": ""
                         },
                         {
                             "name": "Colors detection",
                             "type": "folder",
-                            "children": [
-                            ]
+                            "url": ""
                         },
                         {
                             "name": "Object trackingin a video",
                             "type": "folder",
-                            "children": [
-                            ]
+                            "url": ""
                         },
                         {
                             "name": "Pedestrian detection",
                             "type": "folder",
-                            "children": [
-                            ]
+                            "url": ""
                         },
                         {
                             "name": "Hand gesture recognition",
                             "type": "folder",
-                            "children": [
-                            ]
+                            "url": ""
                         },
                         {
                             "name": "Human emotion recognition",
                             "type": "folder",
-                            "children": [
-                            ]
+                            "url": ""
                         },
                         {
                             "name": "Road lane detection",
                             "type": "folder",
-                            "children": [
-                            ]
+                            "url": ""
                         },
                         {
                             "name": "Business card scanner",
                             "type": "folder",
-                            "children": [
-                            ]
+                            "url": ""
                         },
                         {
                             "name": "License plate recognition",
                             "type": "folder",
-                            "children": [
-                            ]
+                            "url": ""
                         },
                         {
                             "name": "Handwritten digit recognition",
                             "type": "folder",
-                            "children": [
-                            ]
+                            "url": ""
                         },
                         {
                             "name": "Iris Flowers Classification",
                             "type": "folder",
-                            "children": [
-                            ]
+                            "url": ""
                         },
                         {
                             "name": "Family photo face detection",
                             "type": "folder",
-                            "children": [
-                            ]
+                            "url": ""
                         },
                         {
                             "name": "LEGO Brick Finder",
                             "type": "folder",
-                            "children": [
-                            ]
+                            "url": ""
                         },
                         {
                             "name": "PPE Detection",
                             "type": "folder",
-                            "children": [
-                            ]
+                            "url": ""
                         },
                         {
                             "name": "Face mask detection",
                             "type": "folder",
-                            "children": [
-                            ]
+                            "url": ""
                         }
                     ]
                 }
