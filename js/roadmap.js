@@ -156,3 +156,40 @@ function toggle(d) {
     d._children = null;
   }
 }
+fetch("./data/roadmapv2.json")
+  .then((response) => response.json())
+  .then((json) => {
+    let roadmapv2 = document.querySelector("#pricing > div > div > div > div");
+    for (let t of json.children) {
+      let innerRoads = "";
+      let roads = "";
+      for (const m of t.children) {
+
+        if(m.type == "folder")
+        {
+          roads += `<li>${m.name}</li>`;
+
+        }
+
+        console.log(m)
+      }
+      roadmapv2.insertAdjacentHTML(
+        "beforeend",
+        `
+      <div class="col-md-6 scroll-animation" data-animation="fade_from_left">
+                      <div class="pricing-table">
+                        <div class="pricing-table-header">
+                          <div class="top d-flex justify-content-between align-items-start">
+                            <h4>${t.name}</h4>
+                          </div>
+                          <h1>${t.name}</h1>
+                        </div>
+                        <ul class="feature-lists">
+                            ${roads}
+                        </ul>
+                      </div>
+                    </div>
+      `
+      );
+    }
+  });
