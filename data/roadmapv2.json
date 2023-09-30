@@ -2282,18 +2282,58 @@
                     "name": "Path Planning",
                     "type": "folder",
                     "children": [
+                        {
+                            "name": "Common used path planning algorithms with animations",
+                            "type": "url",
+                            "url": "https://github.com/zhm-real/PathPlanning"
+                          },
+                          {
+                            "name": "Planning Algorithms",
+                            "type": "url",
+                            "url": "http://lavalle.pl/planning/"
+                          }
                     ]
                 },
                 {
                     "name": "Motion Planning",
                     "type": "folder",
                     "children": [
+                        {
+                            "name": "Robotics: Computational Motion Planning",
+                            "url": "https://www.coursera.org/learn/robotics-motion-planning",
+                            "type": "url"
+                          },
+                          {
+                            "name": "Principles of Robot Motion: Theory, Algorithms, and Implementations",
+                            "url": "http://biorobotics.ri.cmu.edu/book/",
+                            "type": "url"
+                          },
+                          {
+                            "name": "Motion Planning in Dynamic Environments",
+                            "url": "http://lavalle.pl/tutorials.html",
+                            "type": "url"
+                          },
+                          {
+                            "name": "Robot Motion Planning",
+                            "url": "https://link.springer.com/book/10.1007/978-1-4615-4022-9",
+                            "type": "url"
+                          }
                     ]
                 },
                 {
                     "name": "Path Tracking",
                     "type": "folder",
                     "children": [
+                        {
+                            "name": "https://github.com/Pandas-Team/Automatic-Parking",
+                            "url": "https://github.com/Pandas-Team/Automatic-Parking",
+                            "type": "url"
+                          },
+                          {
+                            "name": "Path Tracking Bicycle",
+                            "url": "https://github.com/DongChen06/PathTrackingBicycle",
+                            "type": "url"
+                          }
                     ]
                 },
                 {
@@ -2327,6 +2367,21 @@
                     "name": "Navigation",
                     "type": "folder",
                     "children": [
+                        {
+                            "name": "Papers with Code: Robot Navigation",
+                            "url": "https://paperswithcode.com/task/robot-navigation",
+                            "type": "url"
+                          },
+                          {
+                            "name": "DRL-robot-navigation",
+                            "url": "https://github.com/reiniscimurs/DRL-robot-navigation",
+                            "type": "url"
+                          },
+                          {
+                            "name": "Indoor segmentation for robot navigating",
+                            "url": "https://github.com/hellochick/Indoor-segmentation",
+                            "type": "url"
+                          }
                     ]
                 },
                 {
