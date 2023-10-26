@@ -112,14 +112,42 @@ fetch("./data/events.json")
       "#announcements > div > div > div.services-items"
     );
     for (let p of json.announcements) {
-      announcementDiv.insertAdjacentHTML(
-        "beforeend",
-        `<div class="service-item scroll-animation" data-animation="fade_from_bottom">
-        <span class="date">${p.startDate + " ~ " + p.endDate}</span>
-        <h2><a target="_blank" href = "${p.link}">${p.header}</a></h2>
-        <p>${p.description}</p>
-    </div>`
-      );
+      if(p.active == true)
+      {
+        announcementDiv.insertAdjacentHTML(
+          "beforeend",
+          `<div class="service-item scroll-animation" data-animation="fade_from_bottom">
+          <span class="date">${p.startDate + " ~ " + p.endDate}</span>
+          <h2><a target="_blank" href = "${p.link}">${p.header}</a></h2>
+          <p>${p.description}</p>
+      </div>`
+        );
+      }
+
+    }
+  });
+
+
+  fetch("./data/applications.json")
+  .then((response) => response.json())
+  .then((json) => {
+    let announcementDiv = document.querySelector(
+      "#applications > div > div > div.services-items"
+    );
+    for (let p of json.applications) {
+      if(p.active == true)
+      {
+        announcementDiv.insertAdjacentHTML(
+          "beforeend",
+          `<div class="service-item scroll-animation" data-animation="fade_from_bottom">
+          <span class="date">Son Başvuru Tarihi: ${p.endDate}</span>
+          <h2><a target="_blank" href = "${p.link}">${p.header}</a></h2>
+          <p>${p.description}</p>
+          <h2><a target="_blank" href = "${p.link}">Başvurmak için tıkla !!!</a></h2>
+      </div>`
+        );
+      }
+
     }
   });
 
