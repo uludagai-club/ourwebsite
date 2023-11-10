@@ -1,0 +1,45 @@
+{
+    "photos":[
+        {
+            "id":"0",
+            "name":"Yapay Zeka 101 Söyleşi",
+            "imageURL":"../galery/year2021/yz101.jpg",
+            "tags":["söyleşi","YZT"],
+            "active" : false,
+            "type":"medium"
+        },
+        {
+            "id":"0",
+            "name":"YZT | TALOS Robotaksi Otonom Araç Yarışması",
+            "imageURL":"../galery/year2021/tls2.jpg",
+            "tags":["Teknofest","Otonom Araç"],
+            "active" : false,
+            "type":"medium"
+        },
+        {
+            "id":"0",
+            "name":"YZT | TALOS En İyi Takım Ruhu Ödülü",
+            "imageURL":"../galery/year2021/tls1.jpg",
+            "tags":["En İyi Takım","Teknofest"],
+            "active" : false,
+            "type":"medium"
+        },
+        {
+            "id":"0",
+            "name":"YZT | TALOS Robotaksi Otonom Araç Yarışması",
+            "imageURL":"../galery/year2021/tls3.jpg",
+            "tags":["En İyi Takım","Teknofest"],
+            "active" : false,
+            "type":"medium"
+        },
+        {
+            "id":"0",
+            "name":"Tanışma Etkinliği 2021",
+            "imageURL":"../galery/year2021/tanisma21.jpg",
+            "tags":["tanışma","YZT"],
+            "active" : false,
+            "type":"medium"
+        }
+
+    ]
+}

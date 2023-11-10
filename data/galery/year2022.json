@@ -1,0 +1,180 @@
+{
+    "photos":[
+        {
+            "id":"8",
+            "name":"Burak Polater ile Söyleşi",
+            "imageURL":"söylesi.png",
+            "tags":["Yapay Zeka","Söyleşi"],
+            "active" : false,
+            "type":"medium"
+        },
+        {
+            "id":"4",
+            "name":"YZT | TALOS Bilişim Vadisinde",
+            "imageURL":"talos.JPG",
+            "tags":["Bilişim Vadisi","Otonom Araç"],
+            "active" : false,
+            "type":"medium"
+        },
+        {
+            "id":"5",
+            "name":"YZT | BIOTOLIA Teknofest İstanbulda",
+            "imageURL":"biotolia.png",
+            "tags":["Biotolia","Teknofest Istanbul"],
+            "active" : false,
+            "type":"medium"
+        },
+        {
+            "id":"6",
+            "name":"Yapay Zeka Gelişim Kampı B23",
+            "imageURL":"kamp23.png",
+            "tags":["kamp","roadmap"],
+            "active" : false,
+            "type":"medium"
+        },
+        {
+            "id":"7",
+            "name":"Erdem Kaya Patent YZ 101 Eğitimi",
+            "imageURL":"../galery/year2022/erdem.JPG",
+            "tags":["Eğitim","YZT"],
+            "active" : false,
+            "type":"medium"
+        },
+        {
+            "id":"0",
+            "name":"Yapay Zeka Gelişim Kampı G22",
+            "imageURL":"../galery/year2022/gitgithub.png",
+            "tags":["kamp","YZT"],
+            "active" : false,
+            "type":"medium"
+        },
+        {
+            "id":"0",
+            "name":"Yapay Zeka Gelişim Kampı G22",
+            "imageURL":"../galery/year2022/githubhg5.jpg",
+            "tags":["kamp","YZT"],
+            "active" : false,
+            "type":"medium"
+        },
+        {
+            "id":"0",
+            "name":"Yapay Zeka Gelişim Kampı G22",
+            "imageURL":"../galery/year2022/github5.jpg",
+            "tags":["kamp","YZT"],
+            "active" : false,
+            "type":"medium"
+        },
+        {
+            "id":"0",
+            "name":"YZT Crew Kahvaltı",
+            "imageURL":"../galery/year2022/kahvalti22.jpg",
+            "tags":["kahvaltı","YZT"],
+            "active" : false,
+            "type":"medium"
+        },
+        {
+            "id":"0",
+            "name":"Yapay Zeka Zirvesi 22",
+            "imageURL":"../galery/year2022/zirve7.jpg",
+            "tags":["Zirve","YZT"],
+            "active" : false,
+            "type":"medium"
+        },
+        {
+            "id":"0",
+            "name":"Yapay Zeka Zirvesi 22",
+            "imageURL":"../galery/year2022/zirve6.jpg",
+            "tags":["Zirve","YZT"],
+            "active" : false,
+            "type":"medium"
+        },
+        {
+            "id":"0",
+            "name":"Yapay Zeka Zirvesi 22",
+            "imageURL":"../galery/year2022/zirve5.jpg",
+            "tags":["Zirve","YZT"],
+            "active" : false,
+            "type":"medium"
+        },
+        {
+            "id":"0",
+            "name":"Yapay Zeka Zirvesi 22",
+            "imageURL":"../galery/year2022/zirve4.jpg",
+            "tags":["Zirve","YZT"],
+            "active" : false,
+            "type":"medium"
+        },
+        {
+            "id":"0",
+            "name":"Yapay Zeka Zirvesi 22",
+            "imageURL":"../galery/year2022/zirve3.jpg",
+            "tags":["Zirve","YZT"],
+            "active" : false,
+            "type":"medium"
+        },
+        {
+            "id":"0",
+            "name":"Yapay Zeka Zirvesi 22",
+            "imageURL":"../galery/year2022/zirve2.jpg",
+            "tags":["Zirve","YZT"],
+            "active" : false,
+            "type":"medium"
+        },
+        {
+            "id":"0",
+            "name":"Yapay Zeka Zirvesi 22",
+            "imageURL":"../galery/year2022/zirve1.jpg",
+            "tags":["Zirve","YZT"],
+            "active" : false,
+            "type":"medium"
+        },
+        {
+            "id":"0",
+            "name":"Yapay Zeka Zirvesi 22",
+            "imageURL":"../galery/year2022/zirve.png",
+            "tags":["Zirve","YZT"],
+            "active" : false,
+            "type":"medium"
+        },
+        {
+            "id":"0",
+            "name":"Sektöre Yapay Zeka Topluluğu Sunumumuz",
+            "imageURL":"../galery/year2022/tanisma222.jpg",
+            "tags":["Sunum","YZT"],
+            "active" : false,
+            "type":"medium"
+        },
+        {
+            "id":"0",
+            "name":"Tanışma Etkinliği 2022",
+            "imageURL":"../galery/year2022/tanismayk.jpg",
+            "tags":["tanışma","YZT"],
+            "active" : false,
+            "type":"medium"
+        },
+        {
+            "id":"0",
+            "name":"Tanışma Etkinliği 2022",
+            "imageURL":"../galery/year2022/tanismabeti.jpg",
+            "tags":["tanışma","YZT"],
+            "active" : false,
+            "type":"medium"
+        },
+        {
+            "id":"0",
+            "name":"Tanışma Etkinliği 2022",
+            "imageURL":"../galery/year2022/tanismhk.jpg",
+            "tags":["tanışma","YZT"],
+            "active" : false,
+            "type":"medium"
+        },
+        {
+            "id":"0",
+            "name":"Tanışma Etkinliği 2022",
+            "imageURL":"../galery/year2022/tanismatoplu.jpg",
+            "tags":["tanışma","YZT"],
+            "active" : false,
+            "type":"medium"
+        }
+    ]
+}

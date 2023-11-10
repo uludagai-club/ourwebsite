@@ -1,0 +1,100 @@
+{
+    "photos":[
+        {
+            "id":"1",
+            "name":"Tanışma Etkinliği 23",
+            "imageURL":"../galery/year2023/selimtanisma.jpg",
+            "tags":["Tanıtım","Kayıt"],
+            "active" : false,
+            "type":"medium"
+        },
+        {
+            "id":"1",
+            "name":"Yazı İşleri Müdürü Doğum Günü Tebriklerini Kabul Ediyor",
+            "imageURL":"../galery/year2023/etkinlik.jpg",
+            "tags":["Tanıtım","Kayıt"],
+            "active" : false,
+            "type":"medium"
+        },
+        {
+            "id":"1",
+            "name":"Proje Koordinasyon Ekibi Toplantı Sonrası",
+            "imageURL":"../galery/year2023/projekoord2.jpg",
+            "tags":["Tanıtım","Kayıt"],
+            "active" : false,
+            "type":"medium"
+        },
+        {
+            "id":"1",
+            "name":"YÖK Eğitim Öğretim Yılının Açılışı",
+            "imageURL":"../galery/year2023/yokacilis2.jpg",
+            "tags":["Tanıtım","Kayıt"],
+            "active" : false,
+            "type":"medium"
+        },
+        {
+            "id":"1",
+            "name":"YÖK Eğitim Öğretim Yılının Açılışı",
+            "imageURL":"../galery/year2023/yokacilis.jpg",
+            "tags":["Tanıtım","Kayıt"],
+            "active" : false,
+            "type":"medium"
+        },
+        {
+            "id":"1",
+            "name":"Topluluk Tanıtım ve Üye Kayıt Stant",
+            "imageURL":"../galery/year2023/stant7.jpg",
+            "tags":["Tanıtım","Kayıt"],
+            "active" : false,
+            "type":"medium"
+        },
+        {
+            "id":"1",
+            "name":"Topluluk Tanıtım ve Üye Kayıt Stant",
+            "imageURL":"../galery/year2023/stant6.jpg",
+            "tags":["Tanıtım","Kayıt"],
+            "active" : false,
+            "type":"medium"
+        },
+        {
+            "id":"1",
+            "name":"Topluluk Tanıtım ve Üye Kayıt Stant",
+            "imageURL":"../galery/year2023/stant4.jpg",
+            "tags":["Tanıtım","Kayıt"],
+            "active" : false,
+            "type":"small"
+        },
+        {
+            "id":"1",
+            "name":"Topluluk Tanıtım ve Üye Kayıt Stant",
+            "imageURL":"../galery/year2023/ronronron.jpg",
+            "tags":["Tanıtım","Kayıt"],
+            "active" : false,
+            "type":"small"
+        },
+        {
+            "id":"1",
+            "name":"Topluluk Tanıtım ve Üye Kayıt Stant",
+            "imageURL":"../galery/year2023/stant_ron.jpg",
+            "tags":["Tanıtım","Kayıt"],
+            "active" : false,
+            "type":"medium"
+        },
+        {
+            "id":"1",
+            "name":"Topluluk Tanıtım ve Üye Kayıt Stant",
+            "imageURL":"../galery/year2023/stant2.jpg",
+            "tags":["Tanıtım","Kayıt"],
+            "active" : false,
+            "type":"medium"
+        },
+        {
+            "id":"1",
+            "name":"Topluluk Tanıtım ve Üye Kayıt Stant",
+            "imageURL":"../galery/year2023/stant1.jpg",
+            "tags":["Tanıtım","Kayıt"],
+            "active" : false,
+            "type":"medium"
+        }
+    ]
+}
