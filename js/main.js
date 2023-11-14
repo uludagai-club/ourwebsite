@@ -158,14 +158,17 @@ fetch("./data/events.json")
       "#courses > div > div > div.services-items"
     );
     for (let p of json.courses) {
-      coursesDiv.insertAdjacentHTML(
-        "beforeend",
-        `<div class="service-item scroll-animation" data-animation="fade_from_bottom">
-        <span class="date">${p.startsDate + " ~ " + p.endDate}</span>
-        <span class="location">${p.location}</span>
-        <h2><a href= "${p.link}">${p.name}</a></h2>
-        <p>${p.description}</p>
-    </div>`
-      );
+      if(p.active == true){
+        coursesDiv.insertAdjacentHTML(
+          "beforeend",
+          `<div class="service-item scroll-animation" data-animation="fade_from_bottom">
+          <span class="date">${p.startsDate + " ~ " + p.endDate}</span>
+          <span class="location">${p.location}</span>
+          <h2><a href= "${p.link}">${p.name}</a></h2>
+          <p>${p.description}</p>
+          </div>`
+        );
+      }
+
     }
   });

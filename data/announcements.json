@@ -1,6 +1,15 @@
 {
     "announcements":[
         {
+            "header":"Yapay Zeka Gelişim Kampı G23 Workshop: Git/Github",
+            "description":"Yapay Zeka Gelişim Kampı kapsamında Github sponsorluğunda Git/Github Workshopu gerçekleştirilecektir.",
+            "link": "CoC.html",
+            "imageURL":"CoC.html",
+            "active" : true,
+            "startDate" : "08.12.2023 Cuma 18.00-19.00",
+            "endDate" : ""
+        },
+        {
             "header":"Yapay Zeka Zirvesi '23",
             "description":"Merhaba Arkadaşlar, geçtiğimiz sene çok sevilen ve bu sene ikincisini düzenleyceğimiz Yapay Zeka Zirvemize hepiniz davetlisiniz. Alanında uzman konuşmacıları dinleyebilir, soru sorma fırsatı yakalayabilirsiniz. Firmalarla network kurabilir, çekilişlere katılabilir ve sertifika kazanabilirsiniz. Hepinizi bekliyoruz.<br>Etkinlik Yeri: Pr.Dr.Mete Cengiz Kültür Merkezi",
             "link": "",
