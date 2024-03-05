@@ -140,10 +140,9 @@ fetch("./data/events.json")
         announcementDiv.insertAdjacentHTML(
           "beforeend",
           `<div class="service-item scroll-animation" data-animation="fade_from_bottom">
-          <span class="date">Son Başvuru Tarihi: ${p.endDate}</span>
           <h2><a target="_blank" href = "${p.link}">${p.header}</a></h2>
-          <p>${p.description}</p>
-          <h2><a target="_blank" href = "${p.link}">Başvurmak için tıkla !!!</a></h2>
+          <br>
+          <h4><a target="_blank" href = "${p.link}">Başvurmak için tıkla !!!</a></h4>
       </div>`
         );
       }

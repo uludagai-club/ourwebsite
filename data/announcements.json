@@ -1,11 +1,29 @@
 {
     "announcements":[
         {
+            "header":"Bilişim Vadisi Gezisi",
+            "description":"Biletin Hazır! Bilimin teknolojiye, teknolojinin ürüne dönüştüğü Bilişim Vadisi'ni 12 Mart'ta birlikte gezelim. SINIRLI KONTENJAN!!!",
+            "link": "https://forms.gle/vkXFveVg3Q5AtArt5",
+            "imageURL":"",
+            "active" : true,
+            "startDate" : "",
+            "endDate" : ""
+        },
+        {
+            "header":"Koordinasyon Ekip Arkadaşı Arıyoruz!",
+            "description":"Topluluk olarak herkes için yapay zeka mottosu ile çıktığımız bu yolda  yapay zekayı her alanıyla okulumuzda uygulanabilir hale getirmek öncelikli hedefimiz . Bu amaçlarla düzenleyeceğimiz etkinliklerin ve projelerin organize edilmesi , sponsorluk, tasarım vb. alanlarda görev almak isteyen ekip arkadaşları aramaktayız. Sizler de yapay zekaya ilgiliyseniz, hep birlikte çalışıp okulumuzdaki yapay zeka geliştirme ortamına katkı sunmak istiyorsanız formu doldurarak başvuruda bulunabilirsiniz ",
+            "link": "https://forms.gle/225U2sHQaTnorPud9",
+            "imageURL":"",
+            "active" : true,
+            "startDate" : "",
+            "endDate" : ""
+        },
+        {
             "header":"Yapay Zeka Gelişim Kampı G23 Workshop: Git/Github",
             "description":"Yapay Zeka Gelişim Kampı kapsamında Github sponsorluğunda Git/Github Workshopu gerçekleştirilecektir.",
             "link": "CoC.html",
             "imageURL":"CoC.html",
-            "active" : true,
+            "active" : false,
             "startDate" : "08.12.2023 Cuma 18.00-19.00",
             "endDate" : ""
         },
@@ -14,7 +32,7 @@
             "description":"Merhaba Arkadaşlar, geçtiğimiz sene çok sevilen ve bu sene ikincisini düzenleyceğimiz Yapay Zeka Zirvemize hepiniz davetlisiniz. Alanında uzman konuşmacıları dinleyebilir, soru sorma fırsatı yakalayabilirsiniz. Firmalarla network kurabilir, çekilişlere katılabilir ve sertifika kazanabilirsiniz. Hepinizi bekliyoruz.<br>Etkinlik Yeri: Pr.Dr.Mete Cengiz Kültür Merkezi",
             "link": "",
             "imageURL":"",
-            "active" : true,
+            "active" : false,
             "startDate" : "04.11.2023 Cumartesi 10.00 16.30",
             "endDate" : ""
         },
@@ -23,7 +41,7 @@
             "description":"Merhaba Arkadaşlar, beklenen Tanışma Etkinliğimizle karşınızdayız.\nGörükle Gençlik Merkezi Konferans Salonunda topluluğumuzdan, etkinliklerimizden, projelerimizden ve tabii ki yapay zekadan bahsedeceğimiz bir etkinlik olacak. Hepinizi aramızda görmekten mutluluk duyarız.",
             "link": "https://forms.gle/AgqXKEe9hnHiS7Nc9",
             "imageURL":"",
-            "active" : true,
+            "active" : false,
             "startDate" : "12.10.2023 18.00 21.00",
             "endDate" : ""
         },
