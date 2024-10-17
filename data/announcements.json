@@ -5,7 +5,7 @@
             "description":"Biletin Hazır! Bilimin teknolojiye, teknolojinin ürüne dönüştüğü Bilişim Vadisi'ni 12 Mart'ta birlikte gezelim. SINIRLI KONTENJAN!!!",
             "link": "https://forms.gle/vkXFveVg3Q5AtArt5",
             "imageURL":"",
-            "active" : true,
+            "active" : false,
             "startDate" : "",
             "endDate" : ""
         },
@@ -28,12 +28,12 @@
             "endDate" : ""
         },
         {
-            "header":"Yapay Zeka Zirvesi '23",
+            "header":"Yapay Zeka Zirvesi '24",
             "description":"Merhaba Arkadaşlar, geçtiğimiz sene çok sevilen ve bu sene ikincisini düzenleyceğimiz Yapay Zeka Zirvemize hepiniz davetlisiniz. Alanında uzman konuşmacıları dinleyebilir, soru sorma fırsatı yakalayabilirsiniz. Firmalarla network kurabilir, çekilişlere katılabilir ve sertifika kazanabilirsiniz. Hepinizi bekliyoruz.<br>Etkinlik Yeri: Pr.Dr.Mete Cengiz Kültür Merkezi",
             "link": "",
             "imageURL":"",
-            "active" : false,
-            "startDate" : "04.11.2023 Cumartesi 10.00 16.30",
+            "active" : true,
+            "startDate" : "16.11.2024 Cumartesi 10.00 16.30",
             "endDate" : ""
         },
         {
