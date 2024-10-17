@@ -31,6 +31,7 @@ fetch("./data/teams.json")
         `<div class="col-md-3 scroll-animation" data-animation="fade_from_left">
         <div class="skill">
             <div class="skill-inner">
+            <a href = "${t.link}">eren</a>
                 <img id="team-photo" src="assets/images/${t.imageURL}">
                 <h1 class="percent">${t.name}</h1>
             </div>
