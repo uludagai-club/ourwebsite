@@ -29,14 +29,15 @@ fetch("./data/teams.json")
       teamsDiv.insertAdjacentHTML(
         "beforeend",
         `<div class="col-md-3 scroll-animation" data-animation="fade_from_left">
-        <div class="skill">
+        <a href=${t.link}>  
+          <div class="skill">
             <div class="skill-inner">
-            <a href = "${t.link}">eren</a>
                 <img id="team-photo" src="assets/images/${t.imageURL}">
                 <h1 class="percent">${t.name}</h1>
             </div>
             <p class="name">${t.competitions[0]}</p>
-        </div>
+          </div>
+        </a>
     </div>`
       );
       let teamMembersHTML = "";
