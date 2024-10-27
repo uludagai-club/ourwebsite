@@ -2,10 +2,10 @@
     "events":[
         {
             "id":"0",
-            "name":"Tanışma Etkinliği 2022",
-            "imageURL":"tanisma22.jpg",
+            "name":"Tanışma Etkinliği 2024",
+            "imageURL":"tanisma24.jpg",
             "description":"Yapay Zeka Topluluğu olarak üyelerimizle tanışma etkinliği gerçekleştirdik. Tanışma etkinliğimizde gelecek projelerimizden ve etkinliklerimizden bahsettik.",
-            "startsDate":"Eylül 2022",
+            "startsDate":"Ekim 2024",
             "endDate":"",
             "link" : "",
             "location":"Görükle Gençlik Merkezi",
@@ -23,7 +23,7 @@
             "id":"1",
             "name":"Yapay Zeka Zirvesi 23",
             "imageURL":"zirve23.png",
-            "description":"Yapay Zeka Toplulu",
+            "description":"Yapay Zeka Topluluğu",
             "startsDate":"",
             "endDate":"",
             "link" : "https://www.youtube.com/watch?v=JnxPcmn6QJo",
@@ -97,8 +97,8 @@
         },
         {
             "id":"5",
-            "name":"YZT | TALOS Bilişim Vadisinde",
-            "imageURL":"talos.JPG",
+            "name":"YZT | TALOS Teknofest Robotaksi Yarışması 2024",
+            "imageURL":"talos24.JPG",
             "description":"Yapay Zeka Toplulu",
             "startsDate":"",
             "endDate":"",
@@ -112,29 +112,10 @@
             "attendeesCount":"",
             "tags":["Bilişim Vadisi","Otonom Araç"],
             "active" : false,
-            "type":"small"
+            "type":"medium"
         },
         {
             "id":"6",
-            "name":"Git/Github Eğitimi",
-            "imageURL":"gitgithub.png",
-            "description":"Yapay Zeka Toplulu",
-            "startsDate":"",
-            "endDate":"",
-            "link" : "",
-            "location":"",
-            "category":"",
-            "organizer":"",
-            "website":"",
-            "formURL":"",
-            "registrationOpen":false,
-            "attendeesCount":"",
-            "tags":["Git","GitHub","Developer"],
-            "active" : false,
-            "type":"small"
-        },
-        {
-            "id":"7",
             "name":"YZT | BIOTOLIA Teknofest İstanbulda",
             "imageURL":"biotolia.png",
             "description":"Yapay Zeka Topluluğu",
@@ -153,7 +134,7 @@
             "type":"medium"
         },
         {
-            "id":"8",
+            "id":"7",
             "name":"Erdem Kaya Patent YZ 101 Eğitimi",
             "imageURL":"erdem.JPG",
             "description":"Yapay Zeka Topluluğu",
@@ -172,13 +153,13 @@
             "type":"small"
         },
         {
-            "id":"9",
-            "name":"Burak Polater ile Söyleşi",
-            "imageURL":"söylesi.png",
-            "description":"Yapay Zeka Topluluğu",
+            "id":"8",
+            "name":"Git/Github Eğitimi",
+            "imageURL":"gitgithub.png",
+            "description":"Yapay Zeka Toplulu",
             "startsDate":"",
             "endDate":"",
-            "link" : "https://www.youtube.com/watch?v=y1VIFdAiQuk",
+            "link" : "",
             "location":"",
             "category":"",
             "organizer":"",
@@ -186,28 +167,9 @@
             "formURL":"",
             "registrationOpen":false,
             "attendeesCount":"",
-            "tags":["Yapay Zeka","Söyleşi"],
+            "tags":["Git","GitHub","Developer"],
             "active" : false,
             "type":"small"
-        },
-        {
-            "id":"10",
-            "name":"YZT | TALOS Teknofest Robotaksi Yarışması 2022",
-            "imageURL":"talosteknofest22.png",
-            "description":"Yapay Zeka Topluluğu TALOS Otonom Araç Takımı",
-            "startsDate":"",
-            "endDate":"",
-            "link" : "https://www.instagram.com/talos.team/",
-            "location":"",
-            "category":"",
-            "organizer":"",
-            "website":"",
-            "formURL":"",
-            "registrationOpen":false,
-            "attendeesCount":"",
-            "tags":["Yapay Zeka","Teknofest", "Otonom Araç"],
-            "active" : false,
-            "type":"medium"
         }
     ]
 }
