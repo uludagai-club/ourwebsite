@@ -44,10 +44,14 @@ fetch("./data/teams.json")
       for (const m of t.members) {
         teamMembersHTML += `<li>${m}</li>`;
       }
+      
       teamsDiv2.insertAdjacentHTML(
         "beforeend",
         `
-      <div class="col-md-6 scroll-animation" data-animation="fade_from_left">
+        `
+        /*
+        `
+        <div class="col-md-6 scroll-animation" data-animation="fade_from_left">
                       <div class="pricing-table">
                         <div class="pricing-table-header">
                           <div class="top d-flex justify-content-between align-items-start">
@@ -62,8 +66,9 @@ fetch("./data/teams.json")
                             ${teamMembersHTML}
                         </ul>
                       </div>
-                    </div>
-      `
+                    </div> 
+        `
+        */
       );
     }
   });

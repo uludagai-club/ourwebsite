@@ -30,7 +30,7 @@
         {
             "header":"Yapay Zeka Zirvesi '24",
             "description":"Merhaba Arkadaşlar, geçtiğimiz sene çok sevilen ve bu sene ikincisini düzenleyceğimiz Yapay Zeka Zirvemize hepiniz davetlisiniz. Alanında uzman konuşmacıları dinleyebilir, soru sorma fırsatı yakalayabilirsiniz. Firmalarla network kurabilir, çekilişlere katılabilir ve sertifika kazanabilirsiniz. Hepinizi bekliyoruz.<br>Etkinlik Yeri: Pr.Dr.Mete Cengiz Kültür Merkezi",
-            "link": "",
+            "link": "http://127.0.0.1:5500/yapay-zeka-zirvesi-24.html",
             "imageURL":"",
             "active" : true,
             "startDate" : "16.11.2024 Cumartesi 10.00 16.30",
