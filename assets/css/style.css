@@ -1,4 +1,3 @@
-
 /* 
     -- Table of Content --
 
@@ -196,28 +195,25 @@ ul {
     background: var(--primary_color);
 }
 
-
 #scroll-section {
     /* overflow-x: hidden !important;
     overflow-y: auto !important; */
     /* width: 100%; */
-    /* height: 100%; */
-    /* height: 100vh; */
+    height: 100vh; 
 }
 .scroll-content {
-    /* transform: translate(0) !important; */
+    transform: translate(0) !important;
 }
 main.drake-main {
-    /* inset: 0px;
+    inset: 0px;
     width: 100%;
-    height: 100vh;
-    position: fixed; */
+    height: 100vh; 
+    /* position: fixed;  */
     /* overflow: hidden; */
 }
 .page-section {
     overflow: hidden;
 }
-
 
 /* 01 - Menu */
 .menu {
